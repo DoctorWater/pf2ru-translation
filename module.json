@@ -3,6 +3,9 @@
   "title": "PF2e: перевод по терминологии PF2.ru",
   "description": "Русская локализация Pathfinder 2e по терминологии PF2.ru. Названия и текст правил переведены для части сущностей; остальные отображаются на английском. Требует модуль Babele.",
   "version": "1.0.0",
+  "url": "https://github.com/DoctorWater/pf2ru-translation",
+  "manifest": "https://github.com/DoctorWater/pf2ru-translation/releases/latest/download/module.json",
+  "download": "https://github.com/DoctorWater/pf2ru-translation/releases/download/v1.0.0/module.zip",
   "authors": [
     {
       "name": "DoctorWater"
