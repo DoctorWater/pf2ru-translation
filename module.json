@@ -1,12 +1,16 @@
 {
   "id": "pf2ru-translation",
   "title": "PF2e: перевод по терминологии PF2.ru",
-  "description": "Тестовый перевод интерфейса и официальных компендиумов PF2e с терминологией PF2.ru.",
+  "description": "Русская локализация Pathfinder 2e по терминологии PF2.ru. Названия и текст правил переведены для части сущностей; остальные отображаются на английском. Требует модуль Babele.",
   "version": "1.0.0",
+  "authors": [
+    {
+      "name": "DoctorWater"
+    }
+  ],
   "compatibility": {
     "minimum": "14",
-    "verified": "14.360",
-    "maximum": "14"
+    "verified": "14.360"
   },
   "relationships": {
     "systems": [
