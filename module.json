@@ -1,0 +1,43 @@
+{
+  "id": "pf2ru-translation",
+  "title": "PF2e: перевод по терминологии PF2.ru",
+  "description": "Тестовый перевод интерфейса и официальных компендиумов PF2e с терминологией PF2.ru.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.360",
+    "maximum": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "8.1.0",
+          "verified": "8.4.1"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.9.1",
+          "verified": "2.9.1"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/init.js"
+  ],
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "generated/lang/ru.json"
+    }
+  ]
+}
