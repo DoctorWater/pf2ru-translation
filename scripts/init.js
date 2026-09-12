@@ -7,38 +7,6 @@ const MODULE_ID = "pf2ru-translation";
 const TRANSLATED_LANG = "ru";
 const PACKS_DIR = "generated/data/community/pf2e/packs";
 
-/**
- * Аккуратное слияние перевода в исходные данные документа: не ломает массивы/объекты,
- * если типы перевода и оригинала несовместимы — в этом случае просто оставляет оригинал.
- * Используется как конвертер для полей, где Babele сам не умеет мержить безопасно.
- */
-function safeMergeConverter(translatedValue, originalValue) {
-  if (translatedValue === undefined || translatedValue === null) return originalValue;
-
-  // Массив можно заменить только массивом — иначе не трогаем оригинал.
-  if (Array.isArray(originalValue)) {
-    return Array.isArray(translatedValue) ? translatedValue : originalValue;
-  }
-
-  // Простой текст (строка) — самый частый случай (description/prerequisites/publicNotes).
-  if (typeof originalValue === "string") {
-    return typeof translatedValue === "string" ? translatedValue : originalValue;
-  }
-
-  // Объект вида {value: "..."} — точечно заменяем value, остальное сохраняем.
-  if (originalValue && typeof originalValue === "object") {
-    if (typeof translatedValue === "string") {
-      return { ...originalValue, value: translatedValue };
-    }
-    if (translatedValue && typeof translatedValue === "object" && !Array.isArray(translatedValue)) {
-      return { ...originalValue, ...translatedValue };
-    }
-    return originalValue;
-  }
-
-  return translatedValue;
-}
-
 Hooks.once("babele.init", () => {
   if (game.system.id !== "pf2e") return;
 
@@ -48,30 +16,17 @@ Hooks.once("babele.init", () => {
     return;
   }
 
-  babele.registerConverters({
-    pf2ruSafeMerge: (value, translations, context) =>
-      safeMergeConverter(value, context?.original ?? context?.originalValue ?? value),
-  });
-
-  // Item: описание, требования, а также прочие переводимые текстовые поля.
-  babele.registerMapping("Item", {
-    name: "name",
-    description: {
-      path: "system.description.value",
-      converter: "pf2ruSafeMerge",
+  // Babele 2.9.1 принимает один объект слоёв отображений; строковые пути
+  // обрабатывает его встроенный конвертер с проверкой совместимости типов.
+  babele.registerMapping({
+    Item: {
+      name: "name",
+      description: "system.description.value",
+      prerequisites: "system.prerequisites.value",
     },
-    prerequisites: {
-      path: "system.prerequisites.value",
-      converter: "pf2ruSafeMerge",
-    },
-  });
-
-  // Actor: у существ основной переводимый текст лежит в system.details.publicNotes.
-  babele.registerMapping("Actor", {
-    name: "name",
-    description: {
-      path: "system.details.publicNotes",
-      converter: "pf2ruSafeMerge",
+    Actor: {
+      name: "name",
+      description: "system.details.publicNotes",
     },
   });
 
