@@ -1,0 +1,591 @@
+{
+  "entries": {
+    "Akashti": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Algriever": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Animated Axe": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        }
+      }
+    },
+    "Argyrzei": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Bakeneko": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Corpse Sugi": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Root": {
+          "name": "Корень"
+        }
+      }
+    },
+    "Dalgyal Gwishin": {
+      "items": {
+        "Head": {
+          "name": "Голова"
+        }
+      }
+    },
+    "Exorcist": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "False Governor": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "False Victory": {
+      "description": "<b>Источник:</b> Серия приключений Kingmaker. Руководство по спутникам.\n<hr>\n\nСвязи Канеры с преступным миром и её умение избегать наказаний и присваивать себе чужие победы можно использовать для того, чтобы обмануть граждан королевства и убедить их в том, что лидеры делают для страны больше, чем на самом деле. Такие действия сопряжены с риском: если всё пойдёт не так, вы можете создать проблему там, где её не было. Пройдите обычную проверку Интриги.\n<br>\n\n<b>Критический успех:</b> в конце фазы событий этого хода королевства сделайте ещё один бросок по таблице случайных событий королевства. Слухи о том, что это событие разрешилось, распространяются по вашему королевству. Вы не получаете никаких преимуществ от разрешения не происходившего события, но вместо этого уменьшаете беспорядки на 1d6 и один тип раздора по вашему выбору на 1. Если в течение следующих четырёх ходов королевства вы получите это же случайное событие, вы можете пройти для его разрешения проверку Интриги с ситуативным бонусом +1, а не обычную проверку.\n<br>\n\n<b>Успех:</b> по королевству распространяются смутные слухи о том, что лидеры королевства одерживают победы над неясными угрозами. Уменьшите беспорядки на 1d3.\n<br>\n\n<b>Провал:</b> слухи о победах не распространяются; вместо этого жители подозревают правду. Увеличьте беспорядки на 1. Вы не можете совершать занятие Ложная победа в следующий ход королевства.\n<br>\n\n<b>Критический провал:</b> правда выходит наружу, и жители восстают против попытки манипулировать ими. Во время фазы событий этого хода королевства в дополнение к другим событиям, которые обычно происходят, происходит ещё и Публичный скандал. Пройдите чистую проверку со СЛ 11. При успехе в Публичный скандал будет вовлечён случайно определённый лидер, а при провале вина падёт на Канеру. Вне зависимости оттого, как закончится Публичный скандал, вы не можете совершать занятие Ложная победа в течение 6 ходов королевства.",
+      "name": "Ложная победа"
+    },
+    "Fan Hongrui": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ghost": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n\nНекоторые смертные, погибшие при трагических обстоятельствах или оставившие важное дело незавершённым, могут не обрести покоя и не отойти в мир иной. Эти обречённые на вечные муки души остаются привязаны к какому-то важному для них при жизни месту и постоянно пытаются как-то исправить свою ошибку или завершить начатое.\n<!-- <h4 class=\"h4-header h4-header--legacy\">Представители</h4>\nПривидение-простолюдин (Существо 4), Привидение-маг (Существо 10), Ghost Pirate Captain (Существо 8), Hungry Ghost (Существо 6) -->\n<h2 class=\"h2-header h2-header--legacy\">СОЗДАНИЕ ПРИВИДЕНИЯ</h2> Разумеется, лучше создать привидение с нуля — так оно лучше впишется в задуманное вами приключение, но вы можете превратить уже существующее живое существо в привидение, внеся описанные ниже изменения. <br>\n\nУровень существа увеличивается на 2, а его параметры изменяются следующим образом.\n<ul>\n<li> КБ, а также модификаторы Внимания, СЛ, испытания и навыки существа увеличиваются на 2. Самая подходящая атака в ближнем бою заменяется на призрачную руку, а её модификатор увеличивается на 4. Модификаторы остальных атак увеличиваются на 2. </li>\n<li> Модификатор Силы привидения равен -5, модификатор Выносливости равен +0. </li>\n<li> Несмотря на увеличение уровня, ПЗ привидения не изменяются. </li>\n</ul>\n<h3 class=\"h3-header h3-header--legacy\">Способности привидений</h3>\nПривидение получает дескрипторы «бестелесный», «дух», «нежить» и «привидение». Многие из привидений становятся злыми. Если существо при жизни обладало способностями или дескрипторами благодаря тому, что было живо и небестелесно, оно их теряет. Кроме того, вам, возможно, придётся изменить способности, не очень уместные или подходящие для привидений. Все привидения получают следующие способности. <br>\n<span class=\"in-box-ability\"><b>Ночное зрение</b>.</span><br>\n<span class=\"in-box-ability\"><b>Привязанность к месту:</b> обычное привидение неспособно далеко отходить от места, где было убито, или места обитания — как правило, дистанция ограничена 120 футами. Некоторые привидения привязываются не к месту, а к помещению, зданию, предмету или дорогому им существу.</span><br>\n<span class=\"in-box-ability\"><b>Негативное исцеление</b>.</span><br>\n<b>Возрождение</b> (некромантия, сакральный): уничтоженное привидение через 2d4 дня возрождается с полными ПЗ в месте, к которому оно привязано. Единственный способ избавиться от привидения раз и навсегда — исправить то, что не даёт ему упокоиться.<br>\n<span class=\"in-box-ability\"><b>Невосприимчивость:</b> эффекты с дескриптором смерть, болезнь, паралич, яд, урон за точность, без сознания.</span><br>\n<b>Устойчивость:</b> любой урон 5 (кроме  урона силой, призрачного касания, позитивный урон; двойная устойчивость против не-магического урона). На 9 уровне устойчивость повышается до 10, на 16 — до 15.<br>\n<b>Скорость полёта:</b> равна наземной скорости.<br>\n<span class=\"in-box-ability\"><b>Призрачная рука:</b> у всех привидений есть безоружная атака призрачной рукой, наносящая негативный урон. Как правило, она обладает дескрипторами «быстрое», «магический» и «фехтовальное». Некоторые привидения используют призрачные копии оружия, но его эффект аналогичен.<h3 class=\"h3-header h3-header--legacy\">Особые способности</h3></span>\n Выберите для привидения одну или две из перечисленных далее способностей (если его уровень 9 и выше — можете выбрать до трёх). Выбранные способности должны хорошо сочетаться с историей привидения и его смертью. Вы можете создать собственные способности или адаптировать способности чудовищ или классов, если сочтёте нужным. СЛ равна 2 + СЛ для уровня привидения. <br>\n<span class=\"in-box-ability\"><b>Тлетворный взгляд</b> [two-actions]: привидение устремляет взгляд на существо, которое видит в пределах 30 футов.\n Существо получает 1d6 негативного урона + 1d6 урона за каждые 2 уровня привидения (обычное\n испытание Воли). При провале существо также получает ошеломление 1 на 1 минуту.</span><br>\n<span class=\"in-box-ability\"><b>Истощающее касание</b> [two-actions]: привидение касается живого существа, вытягивая жизненные силы. Привидение совершает Удар призрачной рукой, но при попадании цель вместо урона получает истощение 1 на 1 день, а привидение восстанавливает ПЗ в количестве, равном половине своего уровня.</span><br>\n<span class=\"in-box-ability\"><b>Ужасный стон</b> [two-actions] (ментальный, очарование, сакральный, слух, ужас, эмоции): привидение горестно клянёт свою судьбу, заставляя всех живых существ в пределах 30 футов пройти испытание Воли. При провале существо получает испуг 2 (или испуг 3 при критическом провале). При успехе существо на 1 минуту временно невосприимчиво к Ужасному стону этого привидения.</span><br>\n<span class=\"in-box-ability\"><b>Вселение в объект</b> [one-action]: привидение вселяется в объект крупного или меньшего размера в пределах 20 футов, превращая его в живой предмет. Уровень живого предмета при этом не может превышать уровень привидения - 2. Если существо держит этот объект, оно может пройти испытание Воли, чтобы не дать привидению вселиться. Когда привидение покидает объект или он уничтожен, вселение завершается, а само привидение возникает в клетке объекта и в течение 1d4 раундов не может использовать эту способность.</span><br>\n<span class=\"in-box-ability\"><b>Вселение в существо</b> [two-actions]: привидение пытается вселиться в стоящее рядом небестелесное существо. Эффект аналогичен заклинанию вселение, но, так как у привидения нет физического тела, связанные с ним ограничения заклинания не распространяются на привидение.</span><br>\n<span class=\"in-box-ability\"><b>Телекинетическая атака</b> [two-actions] (сакральный, эвокация): привидение воет от боли и обиды, разбрасывая мелкие объекты и мусор в 30-футовой эманации. Существа в области получают 1d6 дробящего урона + 1d6 урона за каждые 2 уровня привидения (обычное испытание Реакции).\n<!--</span><h2 class=\"h2-header h2-header--legacy\">Special Abilities</h2>\n<b>Источник</b>.<br>\n\nGhosts can select from the following special abilities in addition to those listed in the <i>Bestiary</i>. Of special note, several of abilities invoke the ghost's particular circumstances and death and can be used to guide heroes toward new avenues of investigation—possibly in exchange for a good share of their Hit Points. \n<h3 class=\"h3-header h3-header--legacy\">Beatific Appearance</h3>\nWhen dealing with ghosts, appearances can be deceiving. For every gory specter exists an innocent-looking spirit, their cherubic mien enhanced with magic to lull victims to their deaths. <br>\n\n <b>Beatific Appearance</b> [reaction] (очарование, сакральный).<b>Требования:</b> A creature the ghost is aware of targets the ghost with an attack. <b>Эффект:</b> The ghost has an unusually pitiable appearance or can change its features to look like someone close to the attacker, which causes the target to pull back on its attack. The triggering creature must attempt a Воля save. On a failure, the creature takes a –1 circumstance penalty to its attack roll (–2 при критическом провале). \n \n <h3 class=\"h3-header h3-header--legacy\">Cold Spot</h3>\nGhosts are often associated with unnatural cold, and one of the first signs of a ghostly presence is an uncanny cold spot in the air. <br>\n\n <b>Cold Spot</b> (аура, сакральный, холод): The air within 5 футов of the ghost is supernaturally cold. Characters that enter or begin their turn in the ghost's aura take 1d6 cold damage per 3 levels the ghost has (basic Стойкость save). \n \n <h3 class=\"h3-header h3-header--legacy\">Corporeal Manifestation</h3>\nTraditionally, ghosts are thought of as wispy, insubstantial things, but not all ghosts follow this rule. <br>\n\n <b>Corporeal Manifestation</b> [one-action] (концентрация): The ghost loses the бестелесный trait, temporarily increasing its Сила modifier to equal its Харизма modifier. The ghost loses its immunity to урон за точность and its resistance to любой урон while corporeal. The ghost can resume being incorporeal by using this action again. \n \n <h3 class=\"h3-header h3-header--legacy\">Dreamwalker</h3>\nPeople who encounter ghosts are often plagued by nightmares, sometimes supernatural ones. Only powerful ghosts of 6й level or higher have this ability. <br>\n\n <b>Dreamwalker</b> (иллюзия, ментальный, сакральный): Anyone who meets the ghost or visits its bound site can become subject to this effect. The first time the subject sleeps after their ghostly encounter, they're targeted by a кошмар spell, with the nightmares being somehow related to the ghost. Most often this means that the subject relives the ghost's last moments alive, but there are other possibilities. If the ghost wishes, it can manipulate the dreams to send messages or even hold entire conversations with dreamers. \n \n <h3 class=\"h3-header h3-header--legacy\">Fade</h3>\nGhosts are notorious for appearing and disappearing when least expected. <br>\n\n <b>Fade</b> [one-action] (иллюзия, сакральный): The ghost becomes невидимость until the beginning of its next turn. \n \n <h3 class=\"h3-header h3-header--legacy\">Fetch</h3>\nA fetch is a person's double, often associated with hauntings and considered a mark of great ill omen. <br>\n\n <b>Fetch</b> [two-actions] (иллюзия, сакральный): The ghost creates an illusory double of a creature. The fetch functions as a 2й-level иллюзорное существо, except that the ghost doesn't control the fetch, and the spell lasts for 1d4 hours instead of needing to Sustain the Spell. The fetch has a rudimentary intelligence and tries to imitate its original (it has a Обман skill value equal to the ghost's highest skill) but comes across as confused or vague. A ghost can have only one fetch at a time. If the creature doubled by the fetch encounters it, the creature must succeed at a Воля save or become ошеломление (stupefied 2 при критическом провале) for as long as they can see the fetch. \n \n <h3 class=\"h3-header h3-header--legacy\">Ghost Storm</h3>\nMost ghosts can summon a wind to rattle a window or bang a shutter, but some angry spirits can do far worse. <br>\n\n <b>Ghost Storm</b> (аура, воздух, сакральный, эвокация): Wind surrounds the ghost out to a range of 30 футов. The wind extinguishes small non-magical fires, disperses fog and mist, blows objects of light Bulk or less around, and pushes larger objects. Squares in the ghost's aura are difficult terrain and flying creatures are always considered to be moving against the wind. The ghost can dismiss or resume the wind as an action, which has the концентрация trait. \n \n <h3 class=\"h3-header h3-header--legacy\">Haunted House</h3>\nGhosts tend to haunt a specific place, remaining for eternity within a tightly bound space. They might haunt their graves or the sites of their death, but either way they rarely venture far. In their home, though, a ghost holds great power. <br>\n\n <b>Haunted House</b> [one-action] <b>Частота:</b> once every 10 минут. <b>Эффект:</b> The ghost extends its presence throughout its bound site until the end of its next turn. Within this area, the ghost can extend its senses, gaining the benefits of круговой обзор, and can make ghostly hand attacks or use special abilities originating from any part of the area. \n \n <h3 class=\"h3-header h3-header--legacy\">Lynchpin</h3>\nGhosts are typically thought of as solitary beings, but sometimes their will and rage are so strong that they drag others back from the grave as well. <br>\n\n <b>Lynchpin</b> (некромантия, сакральный): The ghost extends some of its nature to one or more нежить of equal or lower level, who are connected to the ghost's story and unfinished business. These undead gain the ghost's Возрождение ability and can't be permanently destroyed so long as the ghost exists. If the ghost is laid to rest, all linked undead are likewise instantly destroyed. Linked undead often, but not always, share the ghost's Site-Bound ability as well. The ghost doesn't have any control over such undead, and indeed the ghost and their partners in eternity may be unremittingly hostile to one another. \n \n <h3 class=\"h3-header h3-header--legacy\">Memento Mori</h3>\nFor most ghosts, death is a traumatic event, and an angry spirit is perfectly willing to share their pain with others. <br>\n\n <b>Memento Mori</b> [two-actions] (иллюзия, ментальный, сакральный): The ghost causes one creature within 30 футов to relive the ghost's death. The target must succeed at a Воля save or see and feel what the ghost did, taking 1d4 продолжительный урон per 2 levels the ghost has. All other creatures are плохая видимость to the target until the persistent damage ends. \n \n <h3 class=\"h3-header h3-header--legacy\">Phanstamagoria</h3>\nGhost are rarely aware of the passage of time and see no difference between the homes they lived in long ago and the ruins they haunt now. Some ghosts can spread that delusion to others. <br>\n\n <b>Phantasmagoria</b> [three-actions] (зрение, иллюзия, ментальный, обоняние, сакральный, слух): The ghost causes all or part of its bound site to look, sound, feel, and smell like a different kind of place, and can populate it with simple illusions of people or animals. Typically, the ghost can recreate only a handful of images, usually different versions of its bound site as it appeared during the ghost's life. This can't disguise any creatures in the area, though it can cause minor, cosmetic changes (like causing a creature's clothing to appear nicer for a party or bloodstained for a battle). Any creature that touches the illusion or uses the поиск action to examine it can attempt to disbelieve it. Creatures can't leave the area of the illusion until they successfully disbelieve it. \n \n <h3 class=\"h3-header h3-header--legacy\">Pyre's Memory</h3>\nBurning is one of the most painful ways to die, and ghosts that burned to death are often more aggressive and violent than other incorporeal creatures. Their bound site is often scorched or scarred with some other evidence of fire. <br>\n\n <b>Pyre's Memory</b> [three-actions] (огонь, сакральный, эвокация): The ghost causes great gouts of flame to erupt without warning. The ghost picks three 5-foot squares within 30 футов. Creatures that start in or enter one of these squares take 1d6 fire damage per 2 levels the ghost has, subject to a basic Реакция save. The flames last for 1 минута and don't set other things alight unless the ghost wishes. If the ghost uses this ability again, it dismisses any existing flames. \n \n <h3 class=\"h3-header h3-header--legacy\">Revenant</h3>\nNot all ghosts try to possess the living. Some prefer to ride corpses instead, wrenching bodies from shallow graves to serve as their hosts. <br>\n\n <b>Revenant</b> [two-actions] or 1 hour; <b>Эффект:</b> The ghost possesses and transforms an adjacent corpse (this requires 2 actions if the ghost is possessing its own corpse; otherwise, it takes an hour). The possessed corpse uses the statistics of a non-бестелесный нежить 2 levels lower than the ghost, and the ghost possesses it as if using the вселение spell. The specific undead is determined by the nature of the ghost and the corpse—гуль, умертвие, and Дуллахан are all common, but almost any undead is possible. If the ghost ceases to possess the corpse, the corporeal undead is immediately destroyed.\n \n <h3 class=\"h3-header h3-header--legacy\">A Rebirth in Death</h3>\nI never thought in my living years that I myself would become a ghost. Initially, I was shocked. How could I possibly be denied a proper final death? After centuries of reflection, I understood: Nex must yet live! Until I see his corpse for myself, I will remain, I will prepare, and I will triumph. My only impediment involves finding a way to step free of Mechitar... -->\n<h3 class=\"h3-header h3-header--legacy\">СОЗДАНИЕ ПРИВИДЕНИИ</h3>\nОбратите внимание, что привидение-маг создано с нуля: при его создании мы не брали живое существо и не применяли к нему указанные ранее изменения, поэтому некоторые его параметры отличаются. Если вы располагаете лишним временем, мы рекомендуем создать привидение с нуля — так вы сможете сделать его именно таким, каким задумали, и более органично вписать его в сюжет.\n<h3 class=\"h3-header h3-header--legacy\">ПРИВИДЕНИЯ В ИГРЕ</h3>\nВ приключениях привидений стоит использовать осторожно. Это существа из прошлого, сохранившие свой разум, и потому они могут сообщить персонажам игроков некие ныне забытые прочими существами сведения или рассказать им нечто сюжетно важное. Привидение может дать подсказку или вовсе поведать историю определённого места или события. В отличие от большинства прочей нежити, привидения могут сохранить то же мировоззрение, что и при жизни, но в любом случае остаются внушающими страх существами с трагической судьбой.",
+      "items": {
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      },
+      "name": "Привидение"
+    },
+    "Gray Butcher": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        }
+      }
+    },
+    "Guhdggi": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Gurglegut": {
+      "items": {
+        "Alcohol Lore": {
+          "name": "Знание (алкоголь)"
+        },
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Gurglegut (Level 12)": {
+      "items": {
+        "Alcohol Lore": {
+          "name": "Знание (алкоголь)"
+        },
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Heart-Eating Vulture": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Heh Shan-Bao": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Heh Shan-Bao (Level 13)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hong Meigui": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hu Ban-Niang": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Ijda": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Imprecasia": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Iogaka": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Jinkin": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n<b>Вспомнить информацию</b> СЛ 15 • Фея (Природа).<br>\n<b>Внимание:</b> +7; ночное зрение.<br>\n<b>Языки:</b> подземный.<br>\n<b>Навыки:</b> Акробатика +7, Ремесло +5 (+7 для ловушек), Обман +5, Природа +5, Скрытность +7, Воровство +7.<br>\n<b>Сил</b> -2, <b>Лвк</b> +4, <b>Вын</b> +0, <b>Инт</b> +2, <b>Мдр</b> +2, <b>Хар</b> +2.<br>\n<b>Снаряжение:</b> короткий меч.\n<hr>\n<b>КБ:</b> 17; <b>Стойкость</b> +6, <b>Реакция</b> +10, <b>Воля</b> +7.<br>\n<b>ПЗ:</b> 19. <b>Уязвимость:</b> холодное железо 2.\n<hr>\n<b>Скорость:</b> 30 футов.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: короткий меч +9 [+5/+1] (быстрое, магический, универсальное Р, фехтовальное), <b>урон:</b> 1d6-2 колющий</span>\n<br>\n<span class=\"in-box-ability\"><b>Врождённые первобытные заклинания</b> (СЛ 17): <b>Фокусы:</b> <b>(1 круг)</b> мелкие фокусы.</span><br>\n<span class=\"in-box-ability\"><b>Атака исподтишка:</b> джинкин дополнительно наносит 1d6 урона за точность застигнутым врасплох существам.\n</span>\n<span class=\"in-box-ability\"><b>Пакость</b> (первобытный, превращение, проклятие): группа из шести джинкинов может объединиться, чтобы наложить проклятие на предмет на дистанции 60 или менее футов. Процесс занимает 1 час, но при этом незаметен, и джинкины при этом могут Спрятаться. Джинкины предпочитают портить магические предметы. Проклятие делает предмет ненадёжным (при Взаимодействии с предметом или Активации предмета существо совершает чистую проверку со СЛ 5 и при провале тратит дей ствие впустую), добавляет нелепое требование для его использования или создаёт иной эффект схожей силы. </span>",
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      },
+      "name": "Джинкин"
+    },
+    "Kagekuma": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Kalen Bray": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Kugaptee's Blessing": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Kugaptee's Drakauthix": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Kugaptee's Tree": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        }
+      }
+    },
+    "Mago Kai": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        },
+        "Hatchet": {
+          "name": "Топорик"
+        },
+        "Headbutt": {
+          "name": "Удар головой"
+        }
+      }
+    },
+    "Matsuki Shou": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Meokdan": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Mercenary Enforcer": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Mo Douqiu the Hedonist": {
+      "items": {
+        "Alcohol Lore": {
+          "name": "Знание (алкоголь)"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Monk of Kugaptee": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Noppera-bo Grunt": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Noppera-Bo Impersonator (Arcane)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Noppera-Bo Impersonator (Divine)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Noppera-Bo Impersonator (Occult)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Noppera-Bo Impersonator (Primal)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Noppera-bo Occultist": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Noppera-bo Trickster": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Path Maiden": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Path Maiden (Spring's Path)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Phantom Boar": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tusk": {
+          "name": "Бивень"
+        }
+      }
+    },
+    "Phantom Gecko": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Phantom Raven": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Phantom Wolf": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Red-Hooded Thatchling": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ren Mei Li": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Shimmerthief": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Shinigami": {
+      "items": {
+        "Boneyard Lore": {
+          "name": "Знание (Костяной двор)"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Shisagishin": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Shrine Maiden": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Silkwasp Bandit": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Silsyche": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Sojiruh": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Stingy": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Stone Spider": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Taunting Monk's Skull": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "The Chewer": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Very Drunken Jinkin": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Warty": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Willowshore Waldgeist": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Xin Yue": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Yuni": {
+      "items": {
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Zhi Hui": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Zoudou the Zealous": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    }
+  },
+  "label": "Season Of Ghosts Bestiary"
+}

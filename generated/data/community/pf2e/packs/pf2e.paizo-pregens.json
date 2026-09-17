@@ -1,0 +1,430 @@
+{
+  "entries": {
+    "Amiri (Beginner Box)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Booker Kaar": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Bottlespeaker": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Bottlespeaker (Level 4)": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Brave Wanderer": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        }
+      }
+    },
+    "Cutie Killstuff": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Doc Featherton": {
+      "items": {
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Ekene": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Elsir Syniras": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        }
+      }
+    },
+    "Eteleon": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Ezren (Beginner Box)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Fluff Fang": {
+      "items": {
+        "Labor Lore": {
+          "name": "Знание (рабочие)"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Fluff Fang (Level 4)": {
+      "items": {
+        "Labor Lore": {
+          "name": "Знание (рабочие)"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Grimmnir": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Hellpup": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Hila": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Izni": {
+      "items": {
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Jaithe": {
+      "items": {
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Kaako Ashfeather": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Kangir": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Kellsti": {
+      "items": {
+        "Art Lore": {
+          "name": "Знание (искусство)"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Kiana": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Klixi": {
+      "items": {
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        }
+      }
+    },
+    "Kyra (Beginner Box)": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Lavanna Saltspray": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Lem (Beginner Box)": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Marcella the Marionette": {
+      "items": {
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Melvok": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Merisiel (Beginner Box)": {
+      "items": {
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Oraka": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Popcorn": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        }
+      }
+    },
+    "Popcorn (Level 4)": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        }
+      }
+    },
+    "Precious": {
+      "description": "<b>Источник:</b> Основная книга правил<br>\n\nЭтим дескриптором обладают ценные материалы с особыми свойствами, они могут заменять обычные материалы при Создании предмета",
+      "name": "Ценный"
+    },
+    "Quizrel": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Rhin": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Ruvior": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        }
+      }
+    },
+    "Sajan (Beginner Box)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Savshin Starwatcher": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Seoni (Beginner Box)": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        }
+      }
+    },
+    "Simeek": {
+      "items": {
+        "Labor Lore": {
+          "name": "Знание (рабочие)"
+        }
+      }
+    },
+    "Sizkmi": {
+      "items": {
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Takemiru": {
+      "items": {
+        "Hunting Lore": {
+          "name": "Знание (охота)"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "The Tin Wizard": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Tiberius": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Ufi": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        }
+      }
+    },
+    "Valeros (Beginner Box)": {
+      "items": {
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        }
+      }
+    },
+    "Yacob": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Yrdris Veloch": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Zakzak": {
+      "items": {
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        }
+      }
+    },
+    "Zane Ikundi": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Zathri": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Zeah": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Zindarel": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    }
+  },
+  "label": "Paizo Pregens"
+}

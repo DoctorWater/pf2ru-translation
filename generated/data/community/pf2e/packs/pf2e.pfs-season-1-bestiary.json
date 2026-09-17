@@ -1,16 +1,2098 @@
 {
   "entries": {
+    "'Zombie' Flesh Golem (3-4)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "'Zombie' Flesh Golem (5-6)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Adolescent Sea Serpent": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Ahksiva (1-2)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ahksiva (3-4)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ahrkinos (3-4)": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Ahrkinos (5-6)": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Angry Fox": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Animal Companion (Wolf) (1-2)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Animal Companion (Wolf) (3-4)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Annis Hag (1-06)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Bandit Disciple (1-2)": {
+      "items": {
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Bandit Disciple (3-4)": {
+      "items": {
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Bandit Lieutenant": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Bandit Scout": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Barralbus (1-2)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Barralbus (3-4)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Bijan And Zaynap Ohrlavi": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Biloko Veteran (1-16)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Longspear": {
+          "name": "Длинное копьё"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Biloko Warrior (1-16)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Blue Streak Ambushers (5-6)": {
+      "items": {
+        "Falchion": {
+          "name": "Фальшион"
+        }
+      }
+    },
+    "Blue Streak Ambushers (7-8)": {
+      "items": {
+        "Architecture Lore": {
+          "name": "Знание (архитектура)"
+        },
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        },
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Blue Streak Burglar": {
+      "items": {
+        "Sap": {
+          "name": "Мягкая дубинка"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Blue Streak Mage (5-6)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Blue Streak Mage (7-8)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Blue Streak Sentry": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Boggard Swampseer (PFS 1-24)": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Boggard Warrior (PFS 1-09)": {
+      "items": {
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Cairn Wight (PFS 1-20)": {
+      "items": {
+        "Bastard Sword": {
+          "name": "Меч-бастард"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
     "Charlatan": {
-      "description": "<b>Источник:</b> Основная книга игрока<br>\n\nВы провели жизнь в странствиях. В одном городе вы продавали якобы чудодейственные снадобья и гадали всем желающим, а в другом притворялись принцем в изгнании, чтобы соблазнять богатеньких простофиль. Может быть, поиски приключения — часть вашего нового замысла, а может, вы наконец решили направить ваши таланты в нужное русло. Возможно, в вас сочетается и то и другое, и притворяясь героем, вы и правда им стали.\n<br>\n\nВы получаете два повышения характеристик. Одно из них должно быть применено к <b>Интеллекту</b> или <b>Харизме</b>, а другое — универсальное (применяется к любой характеристике).\n<br>\n\nВы изучаете навыки Обман и Знание (преступный мир). Вы получаете черту навыка Обаятельный лжец.",
+      "description": "<b>Источник:</b> Основная книга правил\n<br>\n\nВы провели жизнь в странствиях. В одном городе вы продавали якобы чудодейственные снадобья и гадали всем желающим, а в другом притворялись принцем в изгнании, чтобы соблазнять богатеньких простофиль. <br>\n\nМожет быть, поиски приключения — часть вашего нового замысла, а может, вы наконец решили направить ваши таланты в нужное русло. Возможно, в вас сочетается и то и другое, и притворяясь героем, вы и правда им стали. <br>\n\nВы получаете два повышения характеристик. Одно из них должно быть применено к <b>Интеллекту</b> или <b>Харизме</b>, а другое — универсальное (применяется к любой характеристике). <br>\n\nВы изучаете навыки Обман и Знание (преступный мир). Вы получаете черту навыка Обаятельный лжец.",
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      },
       "name": "Шарлатан"
     },
+    "Chops (1-2)": {
+      "items": {
+        "Hatchet": {
+          "name": "Топорик"
+        }
+      }
+    },
+    "Chops (3-4)": {
+      "items": {
+        "Falchion": {
+          "name": "Фальшион"
+        }
+      }
+    },
+    "Cinder Wolf (1-2)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Cinder Wolf (3-4)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Collapsing Floor": {
+      "description": "<b>Источник:</b> Серия приключений Kingmaker<br>\n\n<b>Сложность:</b> простая.<br>\n\n<b>Скрытность:</b> СЛ 48 (легендарный).<br>\n\n<b>Описание:</b> пять футов в западной части здания проваливаются, обрушиваясь в глубины Сияющего королевства.\n<hr>\n\n<b>Обезвреживание:</b> воровство со СЛ 51, чтобы на скорую руку укрепить слабые секции стен для предотвращения обрушения.<br>\n\n<span class=\"in-box-ability\"><b>Обрушение</b> [reaction]. <b>Условие:</b> существо размером не менее небольшого входит в любую пятифутовую клетку у западного края здания. <b>Эффект:</b> существо падает и получает 50 дробящего урона, а затем ещё 10d6 дробящего урона, когда вместе с обломками здания болезненно приземляется в зоне А1. Существо может использовать Хватание за уступ, чтобы не упасть.</span>",
+      "name": "Проваливающийся пол"
+    },
+    "Crowd Agitator": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Crowd Leader": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Damaged Alchemical Golem": {
+      "items": {
+        "Syringe": {
+          "name": "Шприц"
+        }
+      }
+    },
+    "Dehydrated Krooth": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Desert Wind": {
+      "description": "<b>Источник:</b> Ярость стихий.\n<hr>\nВихрь песка и пыли окружает вас. Каждое существо в пределах вашей кинетической ауры (включая вас) имеет плохую видимость для существ вне вашей ауры, а существа вне ауры получают <i>плохую видимость</i> для существ внутри ауры (кроме вас).\nВаши воздушные импульсы несут в себе режущие песчинки. Когда вы используете наносящий урон импульс воздуха, затрагивающий хотя бы одно существо в вашей кинетической ауре, этот импульс наносит дополнительно 1 режущий урон (или 2, если импульс имеет одну цель).\n<hr>\n<b>Повышенное (+2):</b> дополнительный урон увеличивается на 1 (или на 2, если импульс имеет одну цель).",
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        }
+      },
+      "name": "Песчаный вихрь"
+    },
+    "Dilapidated Alchemical Golem": {
+      "items": {
+        "Syringe": {
+          "name": "Шприц"
+        }
+      }
+    },
+    "Dire Cinder Wolf": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Dire Warg": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Dockhand Cultist": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Dorobu (1-2)": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Dorobu (3-4)": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Dryad (1-16)": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Eerie Skeletal Giant": {
+      "items": {
+        "Glaive": {
+          "name": "Глефа"
+        },
+        "Horns": {
+          "name": "Рога"
+        }
+      }
+    },
+    "Elderly Giant Tarantula": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Elite Boggard Swampseer (PFS 1-24, Animal Staff)": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Elite Boggard Swampseer (PFS 1-24, Staff)": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Elite Duergar Taskmaster": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Elite Ghast (PFS 1-07)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Elite Prefect (Fist) (3-4)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Elite Rebel": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Elite Sewer Ooze (Q9)": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Elite Skeletal Giant (PFS 1-18)": {
+      "items": {
+        "Glaive": {
+          "name": "Глефа"
+        },
+        "Horns": {
+          "name": "Рога"
+        }
+      }
+    },
+    "Elite Waterworks Rebel": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Experienced Mercenary": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Farmer Drystan's Scarecrow (1-2)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Farmer Drystan's Scarecrow (3-4)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Flaming Skull Skeletal Champion": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Flaming Skull Skeleton Guard": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Flesh Golem (PFS 1-25)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Fleshforge Dreg (Acid Spit)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Dreg (Breath Weapon)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Dreg (Leaping Charge)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Dreg (Reach)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Dreg (Roots)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Dreg (Shield)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Prototype (Acid Spit)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Prototype (Breath Weapon)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Prototype (Leaping Charge)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Prototype (Reach)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Prototype (Roots)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Fleshforge Prototype (Shield)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Ghost Of Diggen Thrune (1-2)": {
+      "items": {
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Ghost Of Diggen Thrune (3-4)": {
+      "items": {
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Giant Osprey": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Giant Short-faced Bear": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Giant Shrew": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Goblin Skeleton": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Great White Shark (PFS 1-12)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Greater Metallic Sod Hound": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Greater Steel Mephit": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Groetus's Chosen (1-2)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Groetus's Chosen (3-4)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
     "Guard": {
-      "description": "<b>Источник:</b> Основная книга игрока<br>\n\nВы несли службу в страже из чувства патриотизма или желания подзаработать. Как бы то ни было, вы знаете, как разговорить подозреваемого, но решили уйти со службы — возможно, в поисках лучшего применения вашим способностям.\n<br>\n\nВы получаете два повышения характеристик. Одно из них должно быть применено к <b>Силе</b> или <b>Харизме</b>, а другое — универсальное (применяется к любой характеристике).\n<br>\n\nВы изучаете навыки Запугивание и Знание (военное дело) или Знание (закон). Вы получаете черту навыка Быстрая угроза.",
+      "description": "<b>Источник:</b> Gamemastery guide<br>\n\n<b>Вспомнить информацию</b> СЛ 15 • Гуманоид (Общество).<br>\n<b>Внимание:</b> +7; (8 для поиска плохо видимых объектов).<br>\n\n<b>Языки:</b> Всеобщий.<br>\n\n<b>Навыки:</b> Атлетика +7, Запугивание +5, Знание (Закон) +3.<br>\n\n<b>Сил</b> +4, <b>Лвк</b> +2, <b>Вын</b> +2, <b>Инт</b> +0, <b>Мдр</b> +2, <b>Хар</b> -1.<br>\n\n<b>Снаряжение:</b> дубинка, арбалет (10 болтов), кинжал, мягкая дубинка, чешуйчатый доспех, сигнальный свисток.\n<hr>\n\n<b>КБ:</b> 18; <b>Стойкость</b> +7, <b>Реакция</b> +5, <b>Воля</b> +5.<br>\n\n<b>ПЗ:</b> 20.<br>\n\n<span class=\"in-box-ability\"><b>Внеочередная атака</b> [reaction].</span>\n<hr>\n\n<b>Скорость:</b> 25 футов.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: дубинка +9 [+4/-1], <b>урон:</b> 1d6+4 дробящий</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: мягкая дубинка +9 [+5/+1] (быстрое, несмертельное), <b>урон:</b> 1d6+4 дробящий</span>\n<span class=\"in-box-ability\"><b>Дистанционное</b> [one-action]: арбалет +7 [+2/-3] (перезарядка 1, шаг дистанции 120 футов), <b>урон:</b> 1d8 колющий</span>\n<span class=\"in-box-ability\"><b>Дистанционное</b> [one-action]: дубинка +7 [+2/-3] (метательное 10 футов), <b>урон:</b> 1d6+4 дробящий</span>",
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      },
       "name": "Стражник"
     },
+    "Guard (PFS 1-17)": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Guard Captain": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        }
+      }
+    },
+    "Gwibble (1-2)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Gwibble (3-4)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Halfling Druid (1-2)": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Halfling Druid (3-4)": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Harsus (1-2)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Harsus (3-4)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Hogweed Leshy (1-2)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Hogweed Leshy (3-4)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "House Cat": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Human Bandit (3-4)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Human Bandit (5-6)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Hungry Blade Apprentice": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Hungry Blade Recruit": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Immature Giant Gecko": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Injured Sewer Ooze": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Injured Weak Otyugh": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Jinkin (PFS 1-17)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Kanker": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Keff The Lion (1-2)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Keff The Lion (3-4)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Kip The Druid (1-2)": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Kip The Druid (3-4)": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Kobold Dragon Mage (1-14)": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kobold Dragon Mage (PFS 1-11)": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kobold Dragon Spellweaver": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kobold Scout (1-14)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Kobold Scout (PFS 1-11)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Kobold Warrior (1-14)": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Kobold Warrior (PFS 1-11)": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Larraz Virtanne": {
+      "items": {
+        "Games Lore": {
+          "name": "Знание (игры)"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Lelzeshin (Tier 3-4)": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Lelzeshin (Tier 5-6)": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Leopard (1-14)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Leshy Crafter (1-2)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Leshy Crafter (3-4)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Lesser Giant Short-faced Bear": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Lion": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n<b>Вспомнить информацию</b> СЛ 18 • Животное (Природа).<br>\n<b>Внимание:</b> +9; сумеречное зрение, нюх (вспомогательный) 30 футов.<br>\n<b>Навыки:</b> Акробатика +8, Атлетика +11, Скрытность +10.<br>\n<b>Сил</b> +4, <b>Лвк</b> +3, <b>Вын</b> +2, <b>Инт</b> -4, <b>Мдр</b> +2, <b>Хар</b> -2.\n<hr>\n<b>КБ:</b> 19; <b>Стойкость</b> +9, <b>Реакция</b> +10, <b>Воля</b> +7.<br>\n<b>ПЗ:</b> 45.\n<hr>\n<b>Скорость:</b> 30 футов.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: челюсти +11 [+6/+1], <b>урон:</b> 1d10+6 колющий и Хватка</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: когти +11 [+7/+3] (быстрое), <b>урон:</b> 1d8+6 режущий</span>\n<span class=\"in-box-ability\"><b>Стайный:</b> удары льва дополнительно наносят 1d4 урона существам в зоне досягаемости двух и более его союзников.\n</span>\n<span class=\"in-box-ability\"><b>Наскок</b> [one-action]: лев совершает Перемещение и Удар по окончании этого движения. Если в начале действия лев был спрятанным, он остаётся спрятанным, пока не завершит Удар.\n</span>\n<span class=\"in-box-ability\"><b>Атака исподтишка:</b> лев дополнительно наносит 1d6 урона за точность застигнутым врасплох существам.\n</span>",
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      },
+      "name": "Лев"
+    },
+    "Loyal Giant Fox": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Manifestation of Qxal (3-4)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Proboscis": {
+          "name": "Хоботок"
+        }
+      }
+    },
+    "Manifestation of Qxal (5-6)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Proboscis": {
+          "name": "Хоботок"
+        }
+      }
+    },
+    "Marcon Tinol (1-2)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Marcon Tinol (3-4)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Meleeka Sanvara (1-2)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Meleeka Sanvara (3-4)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Mercenary": {
+      "description": "<b>Источник:</b> Основная книга персонажа ведущего\n<br>\n\nБудь то война, защита каравана или проникновение в неприступную крепость — для наёмников по всему Голариону найдётся\nпредостаточно работы.\n<!-- <h3 class=\"h3-header\">Представители</h3> -->\n<!-- Телохранитель (Существо 1), Охотник за головами (Существо 4), Изгнанный революционер (Существо 10), Маг по найму (Существо 3), Убийца магов (Существо 8), Отряд наёмников (Существо 9), Зверобой (Существо 6), Крушитель осад (Существо 14) -->\n<h3 class=\"h3-header\">Персонажи ведущего смешанных народов</h3>\nНекоторые персонажи ведущего из других разделов Основной книги персонажа ведущего хорошо вписываются в эту группу.\nСобиратель костей (уровень 0), Холо-всадник (уровень 7), Холо-прагматик (уровень\n1), Удачливый скакун (уровень 8), Туннельная гадюка (уровень 1)\n<h3 class=\"h3-header\">Групповые решения</h3>\nВ любой крупной группе наёмников становится крайне важным определять, с какими клиентами стоит связываться. Хотя\nнекоторые отряды наёмников имеют строгую иерархию с назначенным лидером во главе, отряды обычно гораздо более\nдемократичны. В большинстве отрядов простое большинство голосов определяет, будет ли предложение принято или отклонено.\nДругие группы занимают промежуточное положение, используя демократические выборы для избрания одного лидера или малого\nсовета, который заключает сделки от их имени.\n<h3 class=\"h3-header\">Вступление в отряд</h3>\nРазные отряды наёмников предъявляют разные требования к потенциальным членам. Умение драться — это только начало. Отряды\nс более почётной репутацией требуют тщательных собеседований, кровавых клятв и даже проверки прошлого, в то время как\nотряды с более сомнительной репутацией примут умелого бойца без лишних вопросов. Иногда отряды формируются по принципу\nобщности народа. Орки, хобгоблины и дварфы имеют прославленные отряды наёмников, странствующие по региону Внутреннего\nморя, но почти все они примут одного новобранца не из своего народа, если его навыки достаточно ценны.\n<h3 class=\"h3-header\">Жаргон наёмников</h3>\nВот несколько словечек, обычно используемых наёмниками.<br>\n\n<span class=\"in-box-ability\"><b>Взломщик:</b> Тот, кто искусен во взломе замков и сейфов.</span><br>\n\n<span class=\"in-box-ability\"><b>Подкоп:</b> кража или контрабанда под землёй, часто через туннели.</span><br>\n\n<span class=\"in-box-ability\"><b>Лисий сон:</b> притворяться спящим, обычно для засады.</span><br>\n\n<span class=\"in-box-ability\"><b>Медик:</b> целитель.</span><br>\n\n<span class=\"in-box-ability\"><b>Таран:</b> мощный воин.</span><br>\n\n<span class=\"in-box-ability\"><b>Пращник:</b> заклинатель.</span><br>\n\n<span class=\"in-box-ability\"><b>Звон монет:</b> клятва верности тому, кто больше заплатит.</span><br>\n\n<span class=\"in-box-ability\"><b>Водная линия:</b> деньги отряда наёмников: «Отдыхайте в городе, пока водная линия высока, всем».</span><br>\n\n<span class=\"in-box-ability\"><b>Шептун:</b> любой, кто умеет скрытно передвигаться.</span>",
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      },
+      "name": "Наёмник"
+    },
+    "Metallic Sod Hound": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Mirrored Lelzeshin (Tier 3-4)": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Mirrored Lelzeshin (Tier 5-6)": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Mitflit (PFS 1-02)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Mitflit Sneak": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Mountain Goat": {
+      "items": {
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Mr. Chitters (5-6)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Mr. Chitters (7-8)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Mummy Brute": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Mummy Shambler": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Muraxi (3-4)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Muraxi (5-6)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Nalla, Rebel Leader (1-2)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Nalla, Rebel Leader (3-4)": {
+      "items": {
+        "Bastard Sword": {
+          "name": "Меч-бастард"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Nashaxian The Angered": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Glaive": {
+          "name": "Глефа"
+        }
+      }
+    },
+    "Nashaxian The Bored": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Glaive": {
+          "name": "Глефа"
+        }
+      }
+    },
+    "Neidre Fliavazzana (3-4)": {
+      "items": {
+        "Aspis Consortium Lore": {
+          "name": "Знание (Консорциум Аспидов)"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Neidre Fliavazzana (5-6)": {
+      "items": {
+        "Aspis Consortium Lore": {
+          "name": "Знание (Консорциум Аспидов)"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Nevashi (5-6)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Nevashi (7-8)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Offended Gambler": {
+      "items": {
+        "Games Lore": {
+          "name": "Знание (игры)"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Offended High Roller": {
+      "items": {
+        "Games Lore": {
+          "name": "Знание (игры)"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Ogre": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n\nОгры — дикие, аморальные и буйные великаны ростом в 10 футов, славящиеся силой и крайней жестокостью. Это настоящие садисты, обожающие убийства, пытки и насилие во всех его проявлениях. Огр наслаждается горем других и особенно любит мучить гуманоидов помельче, и чем жертва меньше и красивее — тем лучше. Ничего хорошего тех, кто угодил в сильные ручищи огра, не ждёт. Несмотря на крайнюю изобретательность в жестоких забавах, огры зачастую слишком тупы, чтобы понимать, что их жертва не отличается той же крепостью и терпимостью к боли, что и они сами, поэтому многие пленники умирают куда раньше, чем огр вдоволь натешится. Впрочем, оно, быть может, и к лучшему, поскольку психика переживших подобное насилие навсегда остаётся изуродованной. Если пленнику удаётся не растеряться, есть вероятность спастись, пообещав дикарям сокровища, добычу помясистей или зрелище покровавей, и, воспользовавшись тупоумием огров, не упустить возможность для побега. <br>\n\nОгры — общественные существа в самом худшем смысле этого слова. Они живут племенами, которые называют семьями, хоть члены племени и не всегда состоят в родстве. Кровосмешение для этих великанов в порядке вещей — они верят, что оно укрепляет и сплачивает семью, и во многом уродство и мутации огров обусловлены именно непрекращающимся близкородственным скрещиванием. Предводителем, или «боссом», семьи назначается самый могучий огр — как правило, матриарх или патриарх, а остальные члены семьи подчиняются ему, рискуя за неповиновение получить тумаков от верных приспешников босса. Огры селятся в пещерах, среди развалин или в невзрачных хижинах неподалёку от звериных троп или поселений гуманоидов, чтобы не утруждать себя, устраивая набеги. Логова эти неимоверно грязные и часто хранят следы их бесчинств.\n<!-- <h4 class=\"h4-header h4-header--legacy\">Представители</h4>\nОгр-босс (Существо 7), Огр-обжора (Существо 4), Ogre Hurler (Существо 4), Огр-боец (Существо 3) -->\n<h3 class=\"h3-header h3-header--legacy\">СОКРОВИЩА ОГРОВ</h3>\nЛоговища огров — отвратительные бойни, усеянные оторванными конечностями и заляпанные сомнительного происхождения пятнами. Иногда огры оставляют на память «блестяшки» вроде драгоценностей, но больше всего ценят грозного вида оружие и броню, особенно если те подходят огру по размеру.",
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        }
+      },
+      "name": "Огр"
+    },
+    "Ogre Glutton (PFS 1-05)": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Orc Alchemist": {
+      "description": "<b>Внимание:</b> +6; ночное зрение.<br>\n<b>Языки:</b> орочий.<br>\n<b>Навыки:</b> акробатика +7, Атлетика +6, Ремесло +9, Скрытность +7.<br>\n<b>Сил</b> +2, <b>Лвк</b> +3, <b>Вын</b> +3, <b>Инт</b> +3, <b>Мдр</b> +0, <b>Хар</b> –1.<br>\n<b>Снаряжение:</b> малая молния в бутылке (2), малая склянка кислоты (2), малый алхимический огонь (2), низший эликсир жизни (2), орочий кинжал-кастет.\n<hr>\n<b>КБ:</b> 17; <b>Стойкость</b> +9, <b>Реакция</b> +9, <b>Воля</b> +4.<br>\n<b>ПЗ:</b> 30.<br>\n<span class=\"in-box-ability\"><b>Свирепость</b> [reaction].</span>\n<hr>\n<b>Скорость:</b> 25 футов\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: орочий кинжал-кастет +8 (быстрое, разоружающее), <b>урон</b>.\n1d6+2 колющий </span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: кулак +7 (безоружное, быстрое, несмертельное, фехтовальное), <b>урон:</b> 1d4+2 дробящий </span>\n<span class=\"in-box-ability\"><b>Дистанционное</b> [one-action]: алхимическая бомба +9 (шаг дистанции 20 футов, брызги), <b>урон:</b> зависит от бомбы </span>",
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Orc Knuckle Dagger": {
+          "name": "Орочий кинжал-кастет"
+        }
+      },
+      "name": "Орк-алхимик"
+    },
+    "Osprey": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Palace Guard (PFS 1-17)": {
+      "items": {
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Paravaax (3-4)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Paravaax (5-6)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Pine Brute": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        }
+      }
+    },
+    "Plum Leshy (1-2)": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Plum Leshy (3-4)": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Prefect (Electrowhip) (3-4)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Prefect (Electrowhip) (5-6)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Prefect (Fist) (3-4)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Prefect (Fist) (5-6)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Ptiro Valner (1-2)": {
+      "items": {
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Ralthiss (1-2)": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Ralthiss (3-4)": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Reast Mycer (1-2)": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Flail": {
+          "name": "Цеп"
+        }
+      }
+    },
+    "Reast Mycer (3-4)": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Flail": {
+          "name": "Цеп"
+        }
+      }
+    },
+    "Rebel": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Rebel Brute": {
+      "items": {
+        "Falchion": {
+          "name": "Фальшион"
+        }
+      }
+    },
+    "Reefclaw (PFS 1-12)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Reefclaw Spawn": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
     "Ruffian": {
-      "description": "<b>Источник:</b> Основная книга игрока<br>\n\nВы считаете, что грубой силой и угрозами можно добиться гораздо большего, чем уловками и разного рода трюками. Может быть, вы член банды, разбойник с большой дороги или аристократ, любящий использовать власть семьи в качестве рычага давления.<br>\n\nДля достижения целей вы привыкли использовать любые подручные средства. Вы можете наносить урон атаки исподтишка любым оружием, а не только перечисленным в описании этой классовой особенности. Вы не получаете этого преимущества, если кость урона простого оружия больше d8 или кость урона особого или экзотического оружия больше d6 (после применения всех способностей, изменяющих величину кости урона*). При критическом успехе в проверке атаки подходящим оружием по цели, которая для вас застигнута врасплох, вы также применяете критический эффект используемого оружия.<br>\n\nНавык Запугивание и средняя броня становятся для вас изученными. Вы можете выбрать Силу в качестве своей ключевой характеристики. Когда вы становитесь экспертом лёгкой брони, ваш уровень умения для средней брони также повышается до экспертного, а когда вы становитесь мастером лёгкой брони — до мастерского.\n*Головорез может наносить урон атаки исподтишка при критическом попадании оружием с дескриптором добивающее, если указанная для этого дескриптора кость урона больше d8 или d6. Главное, чтобы базовая кость урона оружия была не больше d8 или d6 соответственно.",
+      "description": "<b>Источник:</b> Основная книга правил<br>\n\nВы считаете, что грубой силой и угрозами можно добиться гораздо большего, чем уловками и разного рода трюками. Может быть, вы бандит, состоящий в преступной группировке, а может — разбойник с большой дороги или аристократ, любящий использовать власть своей семьи в качестве рычага давления на окружающих. Впрочем, вы можете применять свои навыки и во благо, работая в частной охране или городской страже. <br>\n\nДля достижения целей вы привыкли использовать любые подручные средства. Вы можете совершать атаки исподтишка не только перечисленным в описании этой классовой особенности оружием, но и любым простым оружием. При критическом успехе в проверке атаки простым оружием по цели, которая застигнута врасплох (не может уделить достаточно внимания защите), вы также применяете критический эффект используемого оружия. Вы не получаете описанных преимуществ, если кость урона оружия больше d8 (после применения всех способностей, изменяющих величину кости урона). <br>\n\nНавык Запугивание и средняя броня становятся для вас изученными. Вы можете выбрать Силу в качестве своей ключевой характеристики. Когда вы становитесь экспертом лёгкой брони, ваш уровень умения для средней брони также повышается до экспертного, а когда вы становитесь мастером лёгкой брони — до мастерского.",
       "name": "Головорез"
+    },
+    "Sea Devil Invader": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    },
+    "Seaborn Captain": {
+      "items": {
+        "Ocean Lore": {
+          "name": "Знание (океан)"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Seaborn Fisher": {
+      "items": {
+        "Ocean Lore": {
+          "name": "Знание (океан)"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Skeletal Gladiator": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Skeletal Mage": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Skeletal Mount": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        }
+      }
+    },
+    "Skeleton Captain": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Skeleton Corporal": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Skeleton Soldier": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Spear Launcher (Q9:1-2)": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Spear Launcher (Q9:3-4)": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Spitting Acid 'Bushes' (5-6)": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        }
+      }
+    },
+    "Spitting Acid 'Bushes' (7-8)": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        }
+      }
+    },
+    "Steel Mephit": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Storm Acolyte": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Storm Warrior-Priest": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Technic Zombie (3-4)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Technic Zombie (5-6)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "The Ascendant (3-4)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Hoof": {
+          "name": "Копыто"
+        }
+      }
+    },
+    "The Ascendant (5-6)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Hoof": {
+          "name": "Копыто"
+        }
+      }
+    },
+    "Tough Giant Shrew": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Tough Mountain Goat": {
+      "items": {
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Toxic Snapjaw (3-4)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Toxic Snapjaw (5-6)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Unkillable Zombie Brute (PFS 1-13)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Vengeant Thorn (1-2)": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Vengeant Thorn (3-4)": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Veteran Guard Captain": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Vicious Vulpine": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Vigilant Guard": {
+      "items": {
+        "Longspear": {
+          "name": "Длинное копьё"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Voidworm Ouroboros": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Waterworks Rebel": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Weak Ceustodaemon (PFS 1-01)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Weak Green Hag": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Weak Soulbound Homunculus": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Weak Zephyr Hawk (PFS 1-24)": {
+      "items": {
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Webhekiz (3-4)": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Webhekiz (5-6)": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Witchwyrd (PFS 1-21)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Ranseur": {
+          "name": "Рунка"
+        }
+      }
+    },
+    "Wounded Orc Brute": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Orc Knuckle Dagger": {
+          "name": "Орочий кинжал-кастет"
+        }
+      }
+    },
+    "Young Sea Serpent": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zatqualmish (3-4)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Zatqualmish (5-6)": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Zombie Brute (PFS 1-18)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Zombie Charger": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zombie Riding Horse": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zombie Shambler (PFS 1-03)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zombie Warhorse": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
     }
   },
   "label": "Pfs Season 1 Bestiary"

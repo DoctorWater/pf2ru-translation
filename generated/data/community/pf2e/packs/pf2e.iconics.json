@@ -1,0 +1,440 @@
+{
+  "entries": {
+    "Amiri (Level 1)": {
+      "description": "<b>Источник:</b> Серия приключений Kingmaker. Руководство по спутникам<br>\n\n<b>Вспомнить информацию</b> СЛ 25 • Гуманоид (Общество).<br>\nЖенщина, разносторонний человек, варвар (происхождение охотник).<br>\n\n<b>Внимание:</b> +5; (экспертный).<br>\n\n<b>Языки:</b> Всеобщий, Халлит.<br>\n\n<b>Навыки:</b> Акробатика +5 (изученный), Атлетика +7 (изученный), Запугивание +4 (изученный), Природа +3 (изученный), Выживание +3 (изученный), Знание (военное дело) +3 (изученный).<br>\n\n<b>Сил</b> +4, <b>Лвк</b> +2, <b>Вын</b> +2, <b>Инт</b> +0, <b>Мдр</b> +0, <b>Хар</b> +1.<br>\n\n<b>Снаряжение:</b> +1 кинжал (разящий, которое она сама не использует, но может потенциально подарить персонажам игроков), крупный меч-бастард, 80 см, рюкзак, спальный мешок, поясные сумки (2), мел (10), огниво, крюк-кошка, сыромятный доспех, пилумы (4), малый эликсир жизни, паёк (2 недели), верёвка (50 футов), факелы (5), бурдюк.\n<hr>\n\n<b>КБ:</b> 18; <b>Стойкость</b> +7, <b>Реакция</b> +5, <b>Воля</b> +5.<br>\n\n<b>ПЗ:</b> 22.\n<hr>\n\n<b>Скорость:</b> 25 футов.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: крупный меч-бастард +7 [+2/-3] (полуторное d12), <b>урон:</b> 1d8+4 режущий</span>\n<span class=\"in-box-ability\"><b>Дистанционное</b> [one-action]: пилум +5 [+0/-5] (метательное), <b>урон:</b> 1d6+4 колющий</span>\n<span class=\"in-box-ability\"><b>Черты народа:</b> Природные амбиции</span>\n<span class=\"in-box-ability\"><b>Черты класса:</b> Яростное запугивание, Внезапный натиск</span>\n<span class=\"in-box-ability\"><b>Способности класса:</b> табу, Ярость, Инстинкт великана</span>\n<span class=\"in-box-ability\"><b>Общие черты:</b> Крепкий орешек, Невероятная инициатива</span>\n<span class=\"in-box-ability\"><b>Ярость</b> [one-action] (варвар, концентрация, ментальный, эмоции).</span>\n<span class=\"in-box-ability\"><b>Внезапный натиск</b> [two-actions] (варвар, дебют, усилие).</span>\n<span class=\"in-box-ability\"><b>Черты навыков:</b> Устрашающий взгляд, Наблюдение за дикой природой</span>",
+      "name": "Амири (1 уровень)"
+    },
+    "Droven (Level 1)": {
+      "items": {
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        }
+      }
+    },
+    "Droven (Level 3)": {
+      "items": {
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        }
+      }
+    },
+    "Droven (Level 5)": {
+      "items": {
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        }
+      }
+    },
+    "Ezren (Level 1)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Ezren (Level 3)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Ezren (Level 5)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Feiya (Level 1)": {
+      "items": {
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Feiya (Level 3)": {
+      "items": {
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Feiya (Level 5)": {
+      "items": {
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Fumbus (Level 1)": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        }
+      }
+    },
+    "Fumbus (Level 3)": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        }
+      }
+    },
+    "Fumbus (Level 5)": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        }
+      }
+    },
+    "Korakai (Level 1)": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        },
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Korakai (Level 3)": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        },
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Korakai (Level 5)": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        },
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Kyra (Level 1)": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Kyra (Level 3)": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Kyra (Level 5)": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Lem (Level 1)": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Lem (Level 3)": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Lem (Level 5)": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Lini (Level 1)": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Lini (Level 3)": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Lini (Level 5)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Merisiel (Level 1)": {
+      "items": {
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Merisiel (Level 3)": {
+      "items": {
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Merisiel (Level 5)": {
+      "items": {
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Mios (Level 1)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Mios (Level 3)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Mios (Level 5)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Nahoa (Level 1)": {
+      "items": {
+        "Labor Lore": {
+          "name": "Знание (рабочие)"
+        }
+      }
+    },
+    "Nahoa (Level 3)": {
+      "items": {
+        "Labor Lore": {
+          "name": "Знание (рабочие)"
+        }
+      }
+    },
+    "Nahoa (Level 5)": {
+      "items": {
+        "Labor Lore": {
+          "name": "Знание (рабочие)"
+        }
+      }
+    },
+    "Nhalmika (Level 3)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Nhalmika (Level 5)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Quinn (Level 1)": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Quinn (Level 3)": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Quinn (Level 5)": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Sajan (Level 1)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Sajan (Level 3)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Sajan (Level 5)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Samo (Level 1)": {
+      "items": {
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        }
+      }
+    },
+    "Samo (Level 3)": {
+      "items": {
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        }
+      }
+    },
+    "Samo (Level 5)": {
+      "items": {
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        }
+      }
+    },
+    "Seoni (Level 1)": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        }
+      }
+    },
+    "Seoni (Level 3)": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        }
+      }
+    },
+    "Seoni (Level 5)": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        }
+      }
+    },
+    "Thaleon (Level 1)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Art Lore": {
+          "name": "Знание (искусство)"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Thaleon (Level 3)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Art Lore": {
+          "name": "Знание (искусство)"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Thaleon (Level 5)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Art Lore": {
+          "name": "Знание (искусство)"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Ulka (Level 1)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Ulka (Level 3)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Ulka (Level 5)": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Valeros (Level 1)": {
+      "items": {
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Valeros (Level 3)": {
+      "items": {
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Valeros (Level 5)": {
+      "items": {
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    }
+  },
+  "label": "Iconics"
+}

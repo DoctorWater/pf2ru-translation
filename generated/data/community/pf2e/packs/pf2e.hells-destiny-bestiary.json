@@ -1,0 +1,724 @@
+{
+  "entries": {
+    "Advodaza": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Alcabanoth": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Angelic Host": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Anguished Hellfire": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Aquatic Viper Vine": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Archheathen's Fool": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Aspexia Rugatonn": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Mace": {
+          "name": "Булава"
+        }
+      }
+    },
+    "Athervox": {
+      "items": {
+        "Astronomy Lore": {
+          "name": "Знание (астрономия)"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Horn": {
+          "name": "Рог"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Bdellavritra": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Brimstone Corps": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Champion of Asmodeus": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Crowncrusher Bulwark": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Cultist of Torment": {
+      "items": {
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    },
+    "Daidian Ruel": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Deific Vessel of Asmodeus": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Dottari Excruciator Division": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Dream Drowner": {
+      "items": {
+        "Architecture Lore": {
+          "name": "Знание (архитектура)"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Elder Sweet Hag": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Elven Waverider Troop": {
+      "items": {
+        "Ocean Lore": {
+          "name": "Знание (океан)"
+        }
+      }
+    },
+    "First-Class Cavalry": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "First-Class Vordines": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Fog Hound": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Glittercrag Strix": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Golden Fiend Sister": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Martial Arts Lore": {
+          "name": "Знание (боевые искусства)"
+        }
+      }
+    },
+    "Gorthoklek": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Grachius Alazario": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Greater Hellcat": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Haunted Knife Collection": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Hellknight Amalgamite": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hellknight Hunter Squad": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Hellknight Paralictor": {
+      "items": {
+        "Mace": {
+          "name": "Булава"
+        }
+      }
+    },
+    "House Thrune Elite Infantry": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Ignaro Vollai": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Infernal Tide": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Liabriz Corborra": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Mace": {
+          "name": "Булава"
+        }
+      }
+    },
+    "Majordomo Cizoboseth": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Marala": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Flail": {
+          "name": "Цеп"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Mareshiah": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Horn": {
+          "name": "Рог"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Meliar Aructus": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Merztorlegon": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Murderous Mannequin": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Nemyra": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Nyvorlas Yandor": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Oath Howler": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Obrimar": {
+      "items": {
+        "Mace": {
+          "name": "Булава"
+        }
+      }
+    },
+    "Ochiastis": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Oourax": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Page and Chapter": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Palace Guard": {
+      "description": "<b>Источник:</b> Руководство ведущего<br>\n\n<b>Вспомнить информацию</b> СЛ 19 • Гуманоид (Общество).<br>\n<b>Внимание:</b> +15.<br>\n\n<b>Языки:</b> Всеобщий.<br>\n\n<b>Навыки:</b> Атлетика +12, Дипломатия +10, Запугивание +8.<br>\n\n<b>Сил</b> +4, <b>Лвк</b> +2, <b>Вын</b> +3, <b>Инт</b> +0, <b>Мдр</b> +4, <b>Хар</b> +2.<br>\n\n<b>Снаряжение:</b> кольчуга, алебарда, кандалы.\n<hr>\n\n<b>КБ:</b> 22; <b>Стойкость</b> +13, <b>Реакция</b> +8, <b>Воля</b> +10.<br>\n\n<b>ПЗ:</b> 60.<br>\n\n<span class=\"in-box-ability\"><b>Внеочередная атака</b> [reaction].</span>\n<hr>\n\n<b>Скорость:</b> 25 футов.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: алебарда +14 [+9/+4] (длинное, универсальное Р), <b>урон:</b> 1d10+7 колющий</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: кулак +12 [+8/+4] (быстрое, несмертельное), <b>урон:</b> 1d4+7 дробящий</span>\n<span class=\"in-box-ability\"><b>Королевский защитник:</b> навеки преданный своему господину дворцовый страж получает ситуативный бонус +2 к проверкам атаки при защите своего правителя.</span>",
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Mace": {
+          "name": "Булава"
+        }
+      },
+      "name": "Дворцовый страж"
+    },
+    "Pure Legion Squad": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Quelaunt": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n<b>Вспомнить информацию</b> СЛ 34 • Аберрация (Оккультизм).<br>\n<b>Внимание:</b> +29; виброчувствительность (вспомогательный) 60 футов.<br>\n<b>Языки:</b> акло; (не может говорить); телепатия 100 футов.<br>\n<b>Навыки:</b> Обман +30, Запугивание +30, Оккультизм +27.<br>\n<b>Сил</b> +6, <b>Лвк</b> +5, <b>Вын</b> +4, <b>Инт</b> +5, <b>Мдр</b> +6, <b>Хар</b> +8.\n<hr>\n<b>КБ:</b> 36; <b>Стойкость</b> +27, <b>Реакция</b> +26, <b>Воля</b> +31 (+33 против emotion).<br>\n<b>ПЗ:</b> 305. <b>Устойчивость:</b> ментальный. 15.\n<hr>\n<b>Скорость:</b> 40 футов; хождение по воздуху.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: когти +30 [+26/+22] (быстрое, длинное 10 футов, магический), <b>урон:</b> 3d8+12 режущий</span>\n<br>\n<span class=\"in-box-ability\"><b>Врождённые оккультные заклинания</b> (СЛ 39): <b>7 круг</b> — сокрушительное отчаяние (x3); <b>3 круг</b> — ужас (неограниченно); <b>2 круг</b> — безудержный смех; <b>Постоянные:</b> <b>(4 круг)</b> хождение по воздуху.</span><br>\n<span class=\"in-box-ability\"><b>Сила эмоций:</b> квелонт может неограниченно творить следующие заклинания домена жреца в качестве врождённых оккультных заклинаний 8 круга без затрат ФП: мания величия, неотразимая притягательность и ослепляющие амбиции\n</span>\n<span class=\"in-box-ability\"><b>Буря эмоций</b> [three-actions]: квелонт творит три или менее заклинания, выбранных из списка неограниченно используемых врождённых заклинаний и заклинаний силы эмоций.\n</span>\n<span class=\"in-box-ability\"><b>Пожирание эмоций</b> [one-action] (атака, ментальный, устранение, эмоции). <b>Частота:</b> 1 в раунд. <b>Эффект:</b> квелонт поглощает негативные эмоции одного существа в пределах 30 футов под действием вредоносного эффекта с дескриптором «эмоции». Цель проходит испытание Воли со СЛ 37 и при провале получает 4d10 ментального урона и шок на 1 раунд. Также при провале испытания цели квелонт восстанавливает такое же количество ПЗ и не тратит действие на Пожирание эмоций, что позволяет ему совершить ещё одно действие в этот ход.\n</span>\n<span class=\"in-box-ability\"><b>Быстрые удары</b> [two-actions] (атака): квелонт совершает три Удара в ближнем бою, каждый по отдельной цели в зоне досягаемости. При определении штрафа за последовательные атаки учитываются все Удары, но его значение не увеличивается, пока квелонт не совершит все атаки.\n</span>\n<span class=\"in-box-ability\"><b>Спираль отчаяния</b> [free-action] (ментальный, эмоции). <b>Условие:</b> существо проваливает испытание против врождённого заклинания квелонта или заклинания силы эмоций. <b>Эффект:</b> квелонт вторгается в разум этого существа, зароняя туда зёрна отчаяния и заглушая любую надежду на лучшее. Квелонт может немедленно прекратить один действующий на существо положительный эффект с дескриптором «эмоции».\n</span>\n<h3 class=\"h3-header h3-header--legacy\">ПРОЧИЕ КВЕЛОНТЫ</h3>\nСамое ужасное в историях о квелонтах то, что в некоторых из них описаны существа с иными способностями. Это вполне может означать, что квелонты — новая потусторонняя угроза, лишь недавно обратившая своё внимание на человечество.",
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      },
+      "name": "Квелонт"
+    },
+    "Rayhnne": {
+      "items": {
+        "Flail": {
+          "name": "Цеп"
+        }
+      }
+    },
+    "Reynard Hawk": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Rotrovio": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Special Forces Unit": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Stygian Serpent": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Talmandor": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Tareth Ivici": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "The Foresworn": {
+      "items": {
+        "War Flail": {
+          "name": "Боевой цеп"
+        }
+      }
+    },
+    "Thephrol": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greatclub": {
+          "name": "Двуручная дубина"
+        },
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Threshold Kerulkagon": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Thrune Agent": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Thrune Assassin": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Torment Binder": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Ulat-Kini Scout": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Ranseur": {
+          "name": "Рунка"
+        }
+      }
+    },
+    "Urdun Gravelhands": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Uro Adom": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Vanda Spitelash": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Vicious Levaloch Squad": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Vorrea Talminari": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Voulgarghas": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Wretched Diabolist": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Xoxren Killiani": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    }
+  },
+  "label": "Hells Destiny Bestiary"
+}

@@ -1,0 +1,488 @@
+{
+  "entries": {
+    "Abstalar Zantus": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Adimar Scarnetti": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Aliver \"Pillbug\" Podiker": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Arika Avertin": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Asmerelli": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Charn Scarnetti": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Chertus Jheed": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Clockwork Serpent": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Coloxus": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Cruncher": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Devil's Disciple": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Divine Warden Of Haagenti": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Horns": {
+          "name": "Рога"
+        }
+      }
+    },
+    "False Devil": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Fungus Tyrant": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Geist": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        }
+      }
+    },
+    "Ghast Cultist": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Flail": {
+          "name": "Цеп"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Giant Longlegs": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Glorkus": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Goblin Ghoul": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Greedspawn": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Iazmilor": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Isphinn": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Falchion": {
+          "name": "Фальшион"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Jordus Munt": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Kaleb Valdemar's Body": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Kanker": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Flail": {
+          "name": "Цеп"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Minargul": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Mnoghoth": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Narlo Nyrell": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Nualia": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Pthuminin": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Red Bishop": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Scarhorn": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Horns": {
+          "name": "Рога"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Serpentfolk Cultist": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Sicklefang Longlegs": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Statue of Alaznist": {
+      "items": {
+        "Ranseur": {
+          "name": "Рунка"
+        }
+      }
+    },
+    "Stickfoot": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Tiluatchek": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Vekensvok's Lampad": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Vizmivool": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Wolgur Wrabs": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zalavexus": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Ziondriel": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Ziradini": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Zoog": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Zoog Swarm": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    }
+  },
+  "label": "Seven Dooms For Sandpoint Bestiary"
+}

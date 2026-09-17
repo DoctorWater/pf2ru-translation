@@ -1,0 +1,670 @@
+{
+  "entries": {
+    "Animated Armor (BB)": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Basilisk (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Boar (BB)": {
+      "items": {
+        "Tusk": {
+          "name": "Бивень"
+        }
+      }
+    },
+    "Brine Shark (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Bugbear Prowler (BB)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Bugbear Tormentor (BB)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Caligni Dancer (BB)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Mace": {
+          "name": "Булава"
+        }
+      }
+    },
+    "Caligni Hunter (BB)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Caligni Skulker (BB)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Central Spears (BB)": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Cinder Rat (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Crawling Hand (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Doppelganger (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Drow Priestess (BB)": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Drow Sneak (BB)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Drow Warrior (BB)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Ferrous Butterfly (BB)": {
+      "items": {
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Forest Troll (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Gargoyle (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Ghost Commoner (BB)": {
+      "items": {
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Ghoul Stalker (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Giant Ant (BB)": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Giant Rat (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Giant Spider (BB)": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Giant Viper (BB)": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Goblin Commando (BB)": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        }
+      }
+    },
+    "Goblin Warrior (BB)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Harpy (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Hell Hound (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Hobgoblin Archer (BB)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Hobgoblin Soldier (BB)": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Horned Dragon (Juvenile, BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Horn": {
+          "name": "Рог"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Kobold Boss Zolgran (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kobold Mage (Black, BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kobold Mage (Blue, BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kobold Mage (Green, BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kobold Mage (Red, BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kobold Mage (White, BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kobold Scout (BB)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Kobold Trapmaster (BB)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Kobold Warrior (BB)": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Leopard (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Lukahn": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Magnetic Skink": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Mimic (BB)": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Minotaur Hunter (BB)": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Ogre Warrior (BB)": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Orc Commander (BB)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Orc Scrapper (BB)": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Orc Veteran (BB)": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Owlbear (BB)": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Pugwampi (BB)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Reefclaw (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Scythe Blades (BB)": {
+      "items": {
+        "Scythe": {
+          "name": "Коса"
+        }
+      }
+    },
+    "Sea Hag (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Severed Head (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Sewer Ooze (BB)": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Shadow Bat": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Shadow Gargoyle": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Shadow Twigjack": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Shulzara": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Skeletal Giant (BB)": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Horns": {
+          "name": "Рога"
+        }
+      }
+    },
+    "Skeleton Guard (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Sod Hound (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Spear Launcher (BB)": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "String Slime (BB)": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Twigjack (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Umbral Gnome Rockwarden (BB)": {
+      "items": {
+        "Scythe": {
+          "name": "Коса"
+        }
+      }
+    },
+    "Umbral Gnome Scout (BB)": {
+      "items": {
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Umbral Gnome Warrior (BB)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Viper (BB)": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Warg (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Water Scamp (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Web Lurker (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Wight (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Wolf (BB)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Xulgath Leader (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Xulgath Warrior (BB)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zephyr Hawk (BB)": {
+      "items": {
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Zombie Shambler (BB)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    }
+  },
+  "label": "Menace Under Otari Bestiary"
+}

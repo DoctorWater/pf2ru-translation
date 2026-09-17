@@ -110,25 +110,28 @@
         "Stabilize": {
           "Title": "Стабилизация"
         },
-        "Title": "Первая помощь"
+        "Title": "Первая Помощь"
       },
       "AffixATalisman": {
-        "Title": "Закрепление талисмана"
+        "Title": "Закрепление Талисмана"
       },
       "Aid": {
-        "Title": "Помощь товарищу"
+        "Title": "Помощь Товарищу"
+      },
+      "ArcaneSlam": {
+        "Title": "Мистический бросок"
       },
       "ArrestAFall": {
-        "Title": "Мягкое приземление"
+        "Title": "Мягкое Приземление"
       },
       "AvertGaze": {
-        "Title": "Отведение взгляда"
+        "Title": "Отведение Взгляда"
       },
       "AvoidNotice": {
-        "Title": "Незаметное перемещение"
+        "Title": "Незаметное Перемещение"
       },
       "Balance": {
-        "Title": "Удержание равновесия"
+        "Title": "Удержание Равновесия"
       },
       "BonMot": {
         "Title": "Подколка"
@@ -143,31 +146,31 @@
         "Title": "Угроза"
       },
       "CommandAnAnimal": {
-        "Title": "Команда животному"
+        "Title": "Команда Животному"
       },
       "ConcealAnObject": {
-        "Title": "Спрятать объект"
+        "Title": "Спрятать Объект"
       },
       "CoverTracks": {
-        "Title": "Заметание следов"
+        "Title": "Заметание Следов"
       },
       "Craft": {
         "SelectItemDialog": {
-          "CraftButtonLabel": "Создание предмета"
+          "CraftButtonLabel": "Создание Предмета"
         },
         "SelectSpellDialog": {
-          "CraftButtonLabel": "Создание предмета"
+          "CraftButtonLabel": "Создание Предмета"
         },
-        "Title": "Создание предмета"
+        "Title": "Создание Предмета"
       },
       "Crawl": {
         "Title": "Ползание"
       },
       "CreateADiversion": {
-        "Title": "Отвлекающий манёвр"
+        "Title": "Отвлекающий Манёвр"
       },
       "CreateForgery": {
-        "Title": "Создание подделки"
+        "Title": "Создание Подделки"
       },
       "DecipherWriting": {
         "Title": "Расшифровка"
@@ -179,7 +182,7 @@
         "Title": "Деморализация"
       },
       "DisableDevice": {
-        "Title": "Отключение устройства"
+        "Title": "Отключение Устройства"
       },
       "Disarm": {
         "Title": "Разоружение"
@@ -191,13 +194,13 @@
         "Title": "Распластывание"
       },
       "EarnIncome": {
-        "Title": "Зарабатывание денег"
+        "Title": "Зарабатывание Денег"
       },
       "Escape": {
         "Title": "Освобождение"
       },
       "Feint": {
-        "Title": "Финт"
+        "Title": "Отвлекающий Манёвр"
       },
       "Fly": {
         "Title": "Полёт"
@@ -206,10 +209,10 @@
         "Title": "Ломание"
       },
       "GatherInformation": {
-        "Title": "Сбор информации"
+        "Title": "Сбор Информации"
       },
       "GrabAnEdge": {
-        "Title": "Хватание за уступ"
+        "Title": "Хватание За Уступ"
       },
       "Grapple": {
         "Title": "Захват"
@@ -218,13 +221,13 @@
         "Title": "Спрятаться"
       },
       "HighJump": {
-        "Title": "Прыжок в высоту"
+        "Title": "Прыжок В Высоту"
       },
       "IdentifyAlchemy": {
-        "Title": "Опознание алхимии"
+        "Title": "Опознание Алхимии"
       },
       "IdentifyMagic": {
-        "Title": "Опознание магии"
+        "Title": "Опознание Магии"
       },
       "Impersonate": {
         "Title": "Маскировка"
@@ -233,31 +236,34 @@
         "Modular": {
           "Title": "Модульное"
         },
+        "Reload": {
+          "Title": "Перезарядка"
+        },
         "Title": "Взаимодействие"
       },
       "Leap": {
         "Title": "Прыжок"
       },
       "LearnASpell": {
-        "Title": "Изучение заклинания"
+        "Title": "Изучение Заклинания"
       },
       "Lie": {
         "Title": "Ложь"
       },
       "LongJump": {
-        "Title": "Прыжок в длину"
+        "Title": "Прыжок В Длину"
       },
       "MakeAnImpression": {
-        "Title": "Улучшение впечатления"
+        "Title": "Улучшение Впечатления"
       },
       "ManeuverInFlight": {
-        "Title": "Маневрирование в полёте"
+        "Title": "Маневрирование В Полёте"
       },
       "Mount": {
-        "Title": "Посадка или спешивание"
+        "Title": "Посадка Или Спешивание"
       },
       "PalmAnObject": {
-        "Title": "Незаметное подбирание"
+        "Title": "Незаметное Подбирание"
       },
       "Parry": {
         "ShortTitle": "Парирующее",
@@ -267,30 +273,30 @@
         "Title": "Выступление"
       },
       "PickALock": {
-        "Title": "Взлом замка"
+        "Title": "Взлом Замка"
       },
       "PointOut": {
         "Title": "Указание"
       },
       "RaiseAShield": {
-        "ReactionTitle": "Рефлекторная защита",
-        "SingleActionTitle": "Поднятие щита",
-        "Title": "Поднятие щита"
+        "ReactionTitle": "Рефлекторная Защита",
+        "SingleActionTitle": "Поднятие Щита",
+        "Title": "Поднятие Щита"
       },
       "Ready": {
-        "Title": "Подготовка действия"
+        "Title": "Готовности"
       },
       "RecallKnowledge": {
-        "Title": "Вспомнить информацию"
+        "Title": "Вспомнить Информацию"
       },
       "Release": {
         "Title": "Отпускание"
       },
       "Repair": {
         "SelectItemDialog": {
-          "RepairButtonLabel": "Починка предмета"
+          "RepairButtonLabel": "Починка Предмета"
         },
-        "Title": "Починка предмета"
+        "Title": "Починка Предмета"
       },
       "Reposition": {
         "Title": "Перестановка"
@@ -344,29 +350,32 @@
         "ShortTitle": "Укрытие",
         "Title": "Укрытие"
       },
+      "Tamper": {
+        "Title": "Вмешательство"
+      },
       "Track": {
         "Title": "Выслеживание"
       },
       "TreatDisease": {
-        "Title": "Лечение болезни"
+        "Title": "Лечение Болезни"
       },
       "TreatPoison": {
-        "Title": "Лечение отравления"
+        "Title": "Лечение Отравления"
       },
       "TreatWounds": {
         "Feats": {
-          "RiskySurgery": "Рискованная операция"
+          "RiskySurgery": "Рискованная Операция"
         },
-        "Label": "Лечение ранений"
+        "Label": "Лечение Ранений"
       },
       "Trip": {
-        "Title": "Сбивание с ног"
+        "Title": "Сбивание С Ног"
       },
       "TumbleThrough": {
         "Title": "Перекат"
       },
       "WhirlingThrow": {
-        "Title": "Бросок во вращении"
+        "Title": "Бросок Во Вращении"
       }
     },
     "ActionsActionsHeader": "Действия",
@@ -997,35 +1006,35 @@
       },
       "ExplosiveAmmunition": {
         "Greater": {
-          "Title": "Взрывной боеприпас (улучшенный)"
+          "Title": "Взрывной Боеприпас (Улучшенный)"
         },
         "Normal": {
-          "Title": "Взрывной боеприпас"
+          "Title": "Взрывной Боеприпас"
         }
       },
       "ExsanguinatingAmmunition": {
         "Greater": {
-          "Title": "Обескровливающая амуниция (улучшенная)"
+          "Title": "Обескровливающий боеприпас (Улучшенный)"
         },
         "Major": {
-          "Title": "Обескровливающая амуниция (высшая)"
+          "Title": "Обескровливающий боеприпас (Высший)"
         },
         "Normal": {
           "Title": "Обескровливающий боеприпас"
         }
       },
       "FreezingAmmunition": {
-        "Title": "Замораживающий боеприпас"
+        "Title": "Замораживающий Боеприпас"
       },
       "GlueBullet": {
         "Title": "Клеевая пуля"
       },
       "MeteorShot": {
         "Greater": {
-          "Title": "Метеорный патрон (улучшенный)"
+          "Title": "Метеорный патрон (Улучшенный)"
         },
         "Major": {
-          "Title": "Метеорный патрон (высший)"
+          "Title": "Метеорный патрон (Высший)"
         },
         "Normal": {
           "Title": "Метеорный патрон"
@@ -1046,7 +1055,7 @@
         }
       },
       "ShiningAmmunition": {
-        "Title": "Сияющий боеприпас"
+        "Title": "Сияющий Боеприпас"
       }
     },
     "AncestryFeatLevels": "Уровни черт народа",
@@ -1195,13 +1204,16 @@
           "Chuul": "Чуул",
           "Gogiteth": "Годжиет",
           "Gug": "Гуг",
+          "Ofalth": "Офальт",
           "Otyugh": "Отьюг"
         }
       },
       "AerialForm": {
         "ChoiceSet": {
-          "Bat": "Летучая мышь",
-          "Bird": "Птица"
+          "Bat": "Летучая Мышь",
+          "Bird": "Птица",
+          "Pterosaur": "Птерозавр",
+          "Wasp": "Оса"
         }
       },
       "AngelForm": {
@@ -1223,9 +1235,10 @@
         "Fangs": "Клыки",
         "Fist": "Кулак",
         "Foot": "Нога",
-        "Leaf": "Орден листа",
-        "Moonbeam": "Лунный свет",
+        "Leaf": "Орден Листа",
+        "Moonbeam": "Лунный Свет",
         "Tusks": "Бивни",
+        "Wave": "Орден волны",
         "Web": "Паутина"
       },
       "CosmicForm": {
@@ -1243,6 +1256,9 @@
         }
       },
       "DemonForm": {
+        "ChoiceSet": {
+          "Brimorak": "Биморак"
+        },
         "Note": {
           "AbrikandiluCritical": "При критическом попадании цель получает состояние @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm]{неуклюжесть 1} на 1 минуту."
         },
@@ -1269,7 +1285,12 @@
       },
       "InsectForm": {
         "ChoiceSet": {
-          "Scorpion": "Скорпион"
+          "Ant": "Муравей",
+          "Beetle": "Жук",
+          "Centipede": "Многоножка",
+          "Mantis": "Богомол",
+          "Scorpion": "Скорпион",
+          "Spider": "Паук"
         }
       },
       "MonstrosityForm": {
@@ -1277,6 +1298,9 @@
           "CaveWorm": "Пещерный червь",
           "Phoenix": "Феникс",
           "SeaSerpent": "Морской змей"
+        },
+        "TongueGrab": {
+          "Label": "Хваткий язык"
         }
       },
       "NatureIncarnate": {
@@ -1294,6 +1318,12 @@
           "GelatinousCube": "Желатиновый куб",
           "GrayOoze": "Серая жижа",
           "OchreJelly": "Бурое желе"
+        }
+      },
+      "PlantForm": {
+        "ChoiceSet": {
+          "Arboreal": "Лесной",
+          "Flytrap": "Мухоловка"
         }
       },
       "WormForm": {
@@ -1564,7 +1594,7 @@
         "summary": "Другое существо решает за вас."
       },
       "cursebound": {
-        "name": "Оковы проклятия"
+        "name": "Оковы Проклятия"
       },
       "dazzled": {
         "name": "Растерянность",
@@ -2544,9 +2574,9 @@
           "blowgun-darts": "Стрелки",
           "bolts": "Болты",
           "repeating-crossbow-magazine": "Магазин с пятью болтами",
-          "repeating-hand-crossbow-magazine": "Магазин с пятью болтами (ручной арбалет)",
+          "repeating-hand-crossbow-magazine": "Многозарядный ручной арбалет (обойма)",
           "repeating-heavy-crossbow-magazine": "Магазин для тяжёлого многозарядного арбалета",
-          "sling-bullets": "Пращное ядро"
+          "sling-bullets": "Пращное Ядро"
         },
         "Groups": {
           "General": "Общая"
@@ -2557,6 +2587,9 @@
         "FIELDS": {
           "reach": {
             "label": "Длинное"
+          },
+          "speed": {
+            "label": "Стремительная"
           }
         },
         "Plural": "Народы",
@@ -2601,6 +2634,7 @@
           "sankeit": "Санкейт",
           "scale-mail": "Чешуйчатый доспех",
           "scroll-robes": "Роба свитков",
+          "second-skin": "Вторая кожа",
           "splint-mail": "Пластинчатый доспех",
           "studded-leather-armor": "Клёпаный кожаный доспех",
           "subterfuge-suit": "Диверсионный комплект",
@@ -2611,7 +2645,7 @@
           "light-barding": "Лёгкая броня для животных"
         },
         "GradeOption": "{grade} (+{bonus}; укреплённый +{resilient})",
-        "Resilient": "Укреплённая",
+        "Resilient": "Укреплённая Руна",
         "Rune": {
           "Resilient": {
             "Label": "Укреплённая руна"
@@ -3545,6 +3579,11 @@
           "DiceNumber": "Количество костей"
         },
         "FIELDS": {
+          "ammo": {
+            "capacity": {
+              "label": "Вместимость"
+            }
+          },
           "expend": {
             "hint": "Этот параметр указывает, сколько боеприпасов расходуется при каждом дистанционном Ударе, совершаемым этим оружием. Другие способности могут ссылаться на значение расхода как на количество боеприпасов, необходимых для выполнения действия.",
             "label": "Расход"
@@ -3575,6 +3614,9 @@
         "Reload": {
           "LabelN": "Перезарядка {value}",
           "OneMinute": "1 минута"
+        },
+        "Reloader": {
+          "Reload1": "Перезарядка"
         },
         "Rune": {
           "Potency": "Усиления оружия",
@@ -3615,6 +3657,11 @@
     "ItemRemoveRuleElement": "Удалить правило",
     "ItemsLabel": "Предметы",
     "ItemTitle": "Предмет",
+    "IWR": {
+      "Custom": {
+        "Treerazer": "Древотёс"
+      }
+    },
     "Keybinding": {
       "CycleTokenStack": {
         "Hint": "Циклически менять Z-индекс у стопки токенов под курсором, перемещая верхний в самый низ.",
@@ -3639,26 +3686,96 @@
     },
     "Kingmaker": {
       "Army": {
+        "Alliance": {
+          "Kingdom": "Королевство"
+        },
+        "Armor": "Броня",
         "Condition": {
           "concealed": {
-            "name": "Плохая видимость"
+            "name": "Плохая Видимость"
           }
+        },
+        "Gear": {
+          "Armor": {
+            "rank1": {
+              "Name": "Магическая Броня"
+            }
+          }
+        },
+        "Label": "Армия",
+        "Save": {
+          "maneuver": "Манёвр",
+          "morale": "Боевой дух"
         }
       },
       "Charter": {
         "exploration": {
           "Name": "Исследование"
+        },
+        "open": {
+          "Name": "Дебют"
         }
       },
+      "Feature": {
+        "Tactic": "Тактика"
+      },
       "Kingdom": {
+        "Commodity": {
+          "lumber": "Древесина",
+          "stone": "Орден камня"
+        },
+        "Invested": "Настроенность",
         "LeadershipRole": {
           "emissary": "Посланник",
-          "general": "Общая"
+          "general": "Общая",
+          "warden": "Надзиратель"
+        },
+        "Ruin": {
+          "decay": "Разложение"
+        },
+        "Storage": "Подсумки"
+      },
+      "Settlement": {
+        "Label": "Поселение",
+        "Type": {
+          "city": "Город",
+          "metropolis": "Мегаполис",
+          "town": "Посёлок",
+          "village": "Деревня"
         }
       },
       "Skills": {
+        "agriculture": "Земледелие",
+        "arts": "Искусства",
+        "boating": "Лодочный транспорт",
+        "defense": "Оборона",
+        "engineering": "Инженерное дело",
         "exploration": "Исследование",
-        "magic": "Магия"
+        "folklore": "Традиции",
+        "industry": "Производство",
+        "intrigue": "Интрига",
+        "magic": "Магия",
+        "politics": "Политика",
+        "scholarship": "Образование",
+        "statecraft": "Управление",
+        "trade": "Торговля",
+        "warfare": "Военное дело",
+        "wilderness": "Дикие земли"
+      },
+      "Trait": {
+        "army": "Армия",
+        "cavalry": "Кавалерия",
+        "civic": "Городское",
+        "commerce": "Торговое",
+        "infantry": "Пехота",
+        "kingdom": "Королевство",
+        "leadership": "Лидерство",
+        "maneuver": "Манёвр",
+        "morale": "Боевой дух",
+        "region": "Регион",
+        "siege": "Осадные",
+        "skirmisher": "Разведчики",
+        "upkeep": "Содержание"
       }
     },
     "KitItems": "Предметы",
@@ -3987,20 +4104,48 @@
             "Human": "Человек",
             "Orc": "Орк"
           },
+          "Angel": {
+            "Cassisian": "Кассисиан"
+          },
           "Animal": {
-            "Animal": "Орден зверя",
+            "Animal": "Орден Зверя",
             "Specific": {
               "Ape": "Примат",
-              "Bat": "Летучая мышь",
+              "Bat": "Летучая Мышь",
+              "BatGiant": "Гигантская Летучая Мышь",
               "Boar": "Кабан",
+              "Centipede": "Многоножка",
+              "Dog": "Собака",
+              "Fish": "Рыба",
+              "Fox": "Лиса",
+              "Lizard": "Ящерица",
+              "Mantis": "Богомол",
+              "Rat": "Крыса",
+              "Raven": "Ворона",
               "Scorpion": "Скорпион",
               "Shark": "Акула",
-              "Wolf": "Волк"
+              "Spider": "Паук",
+              "Tiger": "Тигр",
+              "Wasp": "Оса",
+              "Wolf": "Волк",
+              "WolfDire": "Свирепый Волк",
+              "WormCave": "Пещерный червь"
             }
           },
+          "Azata": {
+            "Gancanagh": "Ганкане"
+          },
           "Barghest": "Баргест",
+          "Daemon": {
+            "Cacodaemon": "Какодаймон"
+          },
+          "Demon": {
+            "Succubus": "Суккуб"
+          },
           "Devil": {
-            "Imp": "Бес"
+            "Gylou": "Гайлоу",
+            "Imp": "Бес",
+            "Nessari": "Нессари"
           },
           "Elemental": {
             "Air": {
@@ -4037,6 +4182,13 @@
               "Small": "Небольшой элементаль дерева"
             }
           },
+          "Genie": {
+            "Faydhaan": "Фейдхаан",
+            "Ifrit": "Ифрит",
+            "Jaathoom": "Джаатум",
+            "Jabali": "Джабали",
+            "Jann": "Джанн"
+          },
           "Ghost": "Привидение",
           "Gimmerling": "Гиммерлинг",
           "Gosreg": "Гозрег",
@@ -4046,12 +4198,30 @@
           },
           "Hybrid": "Гибрид",
           "LamiaMatriarch": "Ламия-матриарх",
+          "Nymph": {
+            "DryadQueen": "Королева Дриад",
+            "NaiadQueen": "Королева Наяд",
+            "Nymph": "Наследие Нимфы"
+          },
           "Oni": "Они",
           "Owlbear": "Медвесыч",
           "Plant": {
             "Fungus": "Гриб",
             "Leshy": "Леший",
-            "Plant": "Растение"
+            "Plant": "Растение",
+            "SnappingFlytrap": "Кусачая Мухоловка"
+          },
+          "Protean": {
+            "Azuretzi": "Азуреци",
+            "Keketar": "Кекетар",
+            "Voidworm": "Пустотный Червь"
+          },
+          "Psychopomp": {
+            "Morrigna": "Морринья"
+          },
+          "Pukwudgie": "Пакваджи",
+          "Rakshasa": {
+            "Raktavarna": "Рактаварна"
           },
           "SeaSerpent": "Морской змей",
           "Skeleton": "Скелет",
@@ -4060,6 +4230,7 @@
           "Tree": "Дерево",
           "Unicorn": "Единорог",
           "Vampire": "Вампир",
+          "Vidileth": "Видилет",
           "Vilderavn": "Вильдеравн",
           "Yaoguai": "Яогуай",
           "Zombie": "Зомби"
@@ -4073,15 +4244,29 @@
       },
       "Coven": {
         "ShareSenses": {
-          "Name": "Общее восприятие"
+          "Name": "Общее Восприятие"
         }
       },
       "Cryptid": {
+        "Clobber": {
+          "Name": "Сокрушающий удар"
+        },
+        "HybridForm": {
+          "Name": "Форма гибрида"
+        },
         "ShiftingForm": {
-          "Name": "Изменчивая форма"
+          "Name": "Изменчивая Форма"
         },
         "Shockwave": {
           "Name": "Ударно-волновая"
+        },
+        "Stench": {
+          "Name": "Смрад"
+        }
+      },
+      "Dragon": {
+        "ChangeShape": {
+          "Name": "Смена Формы"
         }
       },
       "Dramofir": {
@@ -4090,28 +4275,67 @@
       "GauChoRong": {
         "SubsumedTrait": {
           "Amphibious": "Амфибия",
-          "Animal": "Орден зверя",
+          "Animal": "Орден Зверя",
           "Aquatic": "Подводный",
           "Humanoid": "Гуманоид"
         }
       },
+      "Ghast": {
+        "Stench": {
+          "Name": "Смрад"
+        }
+      },
       "Ghost": {
+        "Fetch": {
+          "Name": "Двойник"
+        },
         "Phantasmagoria": {
           "Name": "Фантасмагория"
+        },
+        "Revenant": {
+          "Name": "Ревенант"
         }
       },
       "LemureSubservience": {
-        "Defend": "Защита"
+        "Defend": "Защита",
+        "Fetch": "Двойник"
+      },
+      "Lich": {
+        "SiphonLife": {
+          "Name": "Siphon life"
+        }
+      },
+      "Marut": {
+        "Lightning": "Молния"
       },
       "Nemesis": {
+        "FastHealing": {
+          "Name": "Быстрое Исцеление"
+        },
         "Resilient": {
-          "Name": "Укреплённая"
+          "Name": "Укреплённая Руна"
+        }
+      },
+      "NopperaBo": {
+        "Impersonator": {
+          "AttackOfOpportunity": "Внеочередная Атака",
+          "Commander": "Командор",
+          "SneakAttack": "Атака Исподтишка"
+        }
+      },
+      "NymphQueen": {
+        "ChangeShape": {
+          "Name": "Смена Формы"
         }
       },
       "OrtMob": {
         "Subservience": {
-          "Hustle": "Спешка"
+          "Hustle": "Спешка",
+          "Rally": "Перегруппировка"
         }
+      },
+      "PhantasmalProtagonist": {
+        "AbilityLabel": "Героический фантазм"
       },
       "Puppet": {
         "Fiend": {
@@ -4121,7 +4345,17 @@
           "Label": "Отравитель"
         },
         "Undead": {
-          "Label": "Нежить"
+          "Label": "Загробное"
+        }
+      },
+      "ResurrectionDragon": {
+        "DeathlessServant": {
+          "Name": "Бессмертный служитель"
+        }
+      },
+      "SecretSociety": {
+        "TagTeam": {
+          "Name": "Работа в команде"
         }
       },
       "Skeleton": {
@@ -4130,19 +4364,60 @@
         }
       },
       "SkinShifter": {
-        "AnimalForm": "Форма животного"
+        "AnimalForm": "Форма Животного"
+      },
+      "SpringHeeledJack": {
+        "ChangeShape": {
+          "Name": "Смена Формы"
+        }
+      },
+      "UnionOrganizer": {
+        "Solidarity": {
+          "Name": "Солидарность"
+        }
       },
       "Vampire": {
+        "BubonicPlague": {
+          "Name": "Бубонная чума"
+        },
+        "ChangeShape": {
+          "Name": "Смена Формы"
+        },
+        "ChildrenOfTheNight": {
+          "Name": "Дети Ночи"
+        },
         "Dominate": {
           "Name": "Подчинение"
         },
+        "FastHealing": {
+          "Name": "Быстрое Исцеление"
+        },
+        "Rally": {
+          "Name": "Перегруппировка"
+        },
         "SwiftTracker": {
-          "Name": "Быстрый ловчий"
+          "Name": "Быстрый Ловчий"
         }
       },
       "Werecreature": {
+        "ChangeShape": {
+          "Name": "Смена Формы"
+        },
         "MoonFrenzy": {
-          "Name": "Лунное бешенство"
+          "Name": "Лунное Бешенство"
+        }
+      },
+      "WhisperDragon": {
+        "ChangeShape": {
+          "Name": "Смена Формы"
+        }
+      },
+      "Zombie": {
+        "BreathWeapon": {
+          "Name": "Губительное Дыхание"
+        },
+        "LightningRod": {
+          "Name": "Громоотвод"
         }
       }
     },
@@ -4161,7 +4436,7 @@
     "OracleCurses": {
       "Ancestor": {
         "Label": {
-          "Spellcasting": "Сотворение заклинаний"
+          "Spellcasting": "Заклинание"
         }
       }
     },
@@ -5426,7 +5701,7 @@
           "Name": "Подходи по одному"
         },
         "OversizedThrow": {
-          "Label": "Бросок тяжести"
+          "Label": "Бросок Тяжести"
         },
         "Superstition": {
           "RagingResistance": {
@@ -5542,23 +5817,35 @@
         }
       },
       "Champion": {
-        "RetributiveStrike": "Удар возмездия"
+        "ExaltedGreatness": {
+          "Label": "Возвышенное величие"
+        },
+        "RetributiveStrike": "Удар Возмездия"
       },
       "Cleric": {
         "DivineFont": {
-          "Healing": "Лечение"
+          "Healing": "Исцеление"
         }
       },
       "Cover": {
         "Prone": "Распластанность"
       },
+      "Dandy": {
+        "DoYouKnowWhoIAm": {
+          "City": "Город",
+          "Metropolis": "Мегаполис"
+        }
+      },
       "DedicationCraftingEntry": {
         "Herbalist": "Травник",
         "Poisoner": "Отравитель",
-        "Snarecrafter": "Создатель западней",
-        "TalismanDabbler": "Любитель талисманов"
+        "Snarecrafter": "Создатель Западней",
+        "TalismanDabbler": "Любитель Талисманов"
       },
       "Equipment": {
+        "ChimeraFlail": {
+          "LionLabel": "Лев"
+        },
         "FuryCocktail": {
           "DoubleLabel": "Двойной"
         },
@@ -5566,12 +5853,111 @@
           "StrikeLabel": "Бенгальский огонь"
         }
       },
+      "EternalLegend": {
+        "DeathFromAbove": {
+          "Label": "Смерть с небес"
+        }
+      },
+      "Exemplar": {
+        "DestinedVictory": {
+          "Label": "Предначертанная победа"
+        },
+        "EnergizedSpark": {
+          "Label": "Заряженная искра"
+        },
+        "Epithet": {
+          "BornOfTheBonesOfTheEarth": {
+            "Label": "Рождённый из костей земли"
+          }
+        },
+        "EternityIncineratingBlaze": {
+          "Label": "Испепеляющее вечность пламя"
+        },
+        "Ikon": {
+          "BandsOfImprisonment": {
+            "Label": "Ленты заточения"
+          },
+          "BarrowsEdge": {
+            "Label": "Могильное лезвие"
+          },
+          "EyeCatchingSpot": {
+            "Label": "Привлекательная родинка"
+          },
+          "FetchingBangles": {
+            "Label": "Чарующие браслеты"
+          },
+          "GazeSharpAsSteel": {
+            "Label": "Взор, острый, как сталь"
+          },
+          "GleamingBlade": {
+            "Label": "Сияющий клинок"
+          },
+          "HandsOfTheWildling": {
+            "Label": "Руки дикаря"
+          },
+          "HornOfPlenty": {
+            "Label": "Рог изобилия"
+          },
+          "MirroredAegis": {
+            "Label": "Зеркальная эгида"
+          },
+          "MortalHarvest": {
+            "Label": "Cмертельная жатва"
+          },
+          "NobleBranch": {
+            "Label": "Благородная ветвь"
+          },
+          "PeltOfTheBeast": {
+            "Label": "Шкура зверя"
+          },
+          "ScarOfTheSurvivor": {
+            "Label": "Шрам выжившего"
+          },
+          "ShadowSheath": {
+            "Label": "Теневые ножны"
+          },
+          "SkinHardAsHorn": {
+            "CrashAgainstMe": {
+              "Label": "Разбейся об меня"
+            }
+          },
+          "SkybearersBelt": {
+            "Label": "Пояс небодержца"
+          },
+          "Starshot": {
+            "Label": "Звёздный выстрел"
+          },
+          "ThousandLeagueSandals": {
+            "Label": "Тысячемильные сандалии"
+          },
+          "TitansBreaker": {
+            "Label": "Крушитель титанов"
+          },
+          "UnfailingBow": {
+            "Label": "Безотказный лук"
+          },
+          "VictorsWreath": {
+            "Label": "Венец победителя"
+          }
+        },
+        "InfiniteBladesCelestialArrow": {
+          "Label": "Небесная стрела бесконечных клинков"
+        },
+        "SevenColoredCosmicBridge": {
+          "Label": "Семицветный вселенский мост"
+        },
+        "Sunwrecker": {
+          "Label": "Солнцелом"
+        }
+      },
       "Feat": {
         "BurnIt": {
           "Label": "Зажигай!"
         },
         "FeyInfluence": {
-          "Gremlin": "Гремлин"
+          "Dryad": "Дриада",
+          "Gremlin": "Гремлин",
+          "Unicorn": "Единорог"
         }
       },
       "Formian": {
@@ -5582,7 +5968,34 @@
         }
       },
       "Genie": {
-        "Ifrit": "Ифрит"
+        "Faydhaan": "Фейдхаан",
+        "Ifrit": "Ифрит",
+        "Jaathoom": "Джаатум",
+        "Jabali": "Джабали",
+        "Janni": "Джанн"
+      },
+      "Goblin": {
+        "MutantGoblin": {
+          "Gills": {
+            "Label": "Жабры"
+          }
+        }
+      },
+      "Guardian": {
+        "PerfectProtection": {
+          "Label": "Безупречная защита"
+        },
+        "Taunt": {
+          "Label": "Провокация"
+        }
+      },
+      "Inventor": {
+        "PersistentBoost": {
+          "Label": "Продолжительное усиление"
+        },
+        "Unstable": {
+          "Stable": "Конюшни"
+        }
       },
       "Investigator": {
         "DeviseAStratagem": {
@@ -5604,15 +6017,19 @@
       },
       "Kobold": {
         "DragonbloodParagon": {
-          "StrongjawKobold": "Кусачий кобольд",
-          "VenomtailKobold": "Жалохвостый кобольд"
+          "Dracomancer": "Дракономант",
+          "KoboldBreath": {
+            "Label": "Дыхание Кобольда"
+          },
+          "StrongjawKobold": "Кусачий Кобольд",
+          "VenomtailKobold": "Жалохвостый Кобольд"
         }
       },
       "Label": {
         "DamageType": "Тип урона"
       },
       "MagicalExperiment": {
-        "TouchTelepathy": "Телепатическое касание"
+        "TouchTelepathy": "Телепатическое Касание"
       },
       "MartialProficiency": {
         "AdvancedMonasticWeaponry": "Продвинутое монашеское оружие",
@@ -5624,9 +6041,15 @@
       "Modifier": {
         "Bonus": "Бонус"
       },
+      "Monk": {
+        "FiveGodsRam": {
+          "RollOptionLabel": "Таран пяти богов"
+        }
+      },
       "Moyishuu": {
         "Soulfeel": {
-          "Fury": "Инстинкт гнева"
+          "Fury": "Инстинкт гнева",
+          "Sorrow": "Печаль"
         }
       },
       "Mummy": {
@@ -5653,6 +6076,7 @@
         "Three": "Три",
         "Two": "Два"
       },
+      "ObjectMemory": "Память предмета",
       "Oracle": {
         "NudgeTheScales": {
           "Death": "Смерть",
@@ -5667,6 +6091,9 @@
           "Magic": "Магия"
         }
       },
+      "PathfinderAgentDedication": {
+        "ThoroughReports": "Подробные отчеты"
+      },
       "PreciseStrike": {
         "Finisher": "Решающий удар"
       },
@@ -5675,20 +6102,31 @@
           "DancingBlade": {
             "Guard": {
               "Title": "Стражник"
+            },
+            "Push": {
+              "Title": "Отталкивание"
             }
           }
         },
         "PsiCantripLabels": {
           "Daze": "Ступор",
-          "DetectMagic": "Обнаружение магии",
+          "DetectMagic": "Обнаружение Магии",
+          "DistortionLens": "Преломляющая линза",
           "Figment": "Вымысел",
+          "ForbiddenThought": "Запретная мысль",
           "Frostbite": "Обморожение",
+          "GlimpseWeakness": "Видение уязвимости",
           "Guidance": "Наставление",
           "Ignition": "Поджигание",
+          "ImaginaryWeapon": "Воображаемое оружие",
           "Message": "Сообщение",
+          "PhaseBolt": "Межфазный снаряд",
           "Shield": "Щит",
           "TelekineticHand": "Телекинетическая рука",
-          "TelekineticProjectile": "Телекинетический снаряд"
+          "TelekineticProjectile": "Телекинетический Снаряд",
+          "TelekineticRend": "Телекинетическое раздирание",
+          "ThermalStasis": "Температурная стабильность",
+          "WarpStep": "Искажённые шаги"
         }
       },
       "Ranger": {
@@ -5707,11 +6145,17 @@
       "Raxilite": {
         "Inheritor": {
           "Daredevil": "Смельчак",
-          "Emissary": "Посланник"
+          "Emissary": "Посланник",
+          "Physician": "Врач"
         }
       },
       "RevealingLight": {
         "Label": "Озаряющий свет"
+      },
+      "RivethunInvoker": {
+        "InvokeOffense": {
+          "Label": "Призвать нападение"
+        }
       },
       "Rogue": {
         "Debilitation": {
@@ -5743,28 +6187,43 @@
           "Family": "Семья"
         }
       },
+      "Seasons": {
+        "Winter": "Зима"
+      },
+      "SneakAttack": "Атака Исподтишка",
       "Sorcerer": {
         "Bloodline": {
           "BloodMagicLabel": {
+            "Angelic": "Божественная Аура",
             "Draconic": "Доспех из чешуи"
           }
         }
+      },
+      "SpecialtyCrafting": {
+        "Engineering": "Инженерное дело"
       },
       "SpellEffectPreciousMetals": {
         "Copper": "Медь",
         "Gold": "Золото"
       },
+      "SpellEffectThermalRemedy": {
+        "FireResistance": "Устойчивость к огню"
+      },
       "Spellshape": {
         "CodexofDestructionAndRenewal": {
           "RollOptionLabel": {
-            "Healing": "Лечение"
+            "Healing": "Исцеление"
           }
         }
       },
       "StarlitSentinel": {
         "Constellation": {
-          "Archer": "Лучник"
+          "Archer": "Лучник",
+          "Ogre": "Огр"
         }
+      },
+      "SterlingDynamo": {
+        "Label": "Первоклассное динамо"
       },
       "SubstituteRoll": {
         "Assurance": "Уверенность"
@@ -5773,7 +6232,7 @@
         "Eidolon": {
           "Dragon": {
             "DragonBreath": {
-              "Label": "Драконье дыхание"
+              "Label": "Драконье Дыхание"
             }
           }
         }
@@ -5799,14 +6258,26 @@
           "Amulet": {
             "Label": "Амулет"
           },
+          "Bell": {
+            "Label": "Колокольчик"
+          },
+          "Chalice": {
+            "Label": "Чаша"
+          },
           "Lantern": {
             "Label": "Фонарь"
           },
           "Mirror": {
             "Label": "Зеркальце"
           },
+          "Regalia": {
+            "Label": "Регалия"
+          },
           "Shield": {
             "Label": "Щит"
+          },
+          "Tome": {
+            "Label": "Фолиант"
           },
           "Wand": {
             "Label": "Жезл"
@@ -5814,6 +6285,27 @@
           "Weapon": {
             "Label": "Оружие"
           }
+        },
+        "TalismanEsoterica": "Эзотерические талисманы"
+      },
+      "Werecreature": {
+        "Werebear": {
+          "Label": "Медведь-Оборотень"
+        },
+        "Weremoose": {
+          "Label": "Лось-оборотень"
+        },
+        "Wererat": {
+          "Label": "Крыса-Оборотень"
+        },
+        "Wereshark": {
+          "Label": "Акула-оборотень"
+        },
+        "Weretiger": {
+          "Label": "Тигр-оборотень"
+        },
+        "Werewolf": {
+          "Label": "Волк-Оборотень"
         }
       },
       "Witch": {
@@ -5822,14 +6314,27 @@
         },
         "Patron": {
           "Theme": {
+            "BabaYaga": "Баба яга",
+            "ChoirPolitic": "Хор единства",
+            "Cobyslarni": "Кобисларни",
+            "DevourerOfDecay": "Пожиратель разложения",
             "FaithsFlamekeeper": "Хранитель пламени веры",
+            "MosquitoWitch": "Комариная ведьма",
+            "ParadoxOfOpposites": "Парадокс противоположностей",
+            "RippleInTheDeep": "Рябь в глубине",
             "SilenceInSnow": "Молчание снегов",
             "SpinnerOfThreads": "Ткач судеб",
             "StarlessShadow": "Беззвёздная тень",
             "TheInscribedOne": "Носитель писания",
             "TheResentment": "Горечь",
+            "TheUnseenBroker": "Незримый посредник",
+            "WhisperOfWings": "Шёпот крыльев",
             "WildingSteward": "Служитель природы"
           }
+        },
+        "WitchsArmaments": {
+          "EldritchNails": "Жуткие Ногти",
+          "LivingHair": "Ожившие Волосы"
         }
       }
     },
@@ -5926,7 +6431,8 @@
       "Plains": "Равнинная",
       "Sky": "Небесная",
       "Swamp": "Болотная",
-      "Underground": "Подземная"
+      "Underground": "Подземная",
+      "ZeroGravity": "Невесомость"
     },
     "Time": {
       "Duration": "Длительность",
@@ -6124,7 +6630,7 @@
     "TraitChampion": "Поборник",
     "TraitChangeling": "Подменыш",
     "TraitCharauKa": "Чарау-ка",
-    "TraitCharm": "Приворот",
+    "TraitCharm": "Очарование",
     "TraitCircus": "Цирк",
     "TraitCleric": "Жрец",
     "TraitClimbing": "Лазание",
@@ -6152,6 +6658,7 @@
     "TraitContact": "Контакт",
     "TraitContingency": "Заготовка",
     "TraitCouatl": "Коатль",
+    "TraitCriticalFusion": "Критическое объединение",
     "TraitCurse": "Проклятие",
     "TraitCursebound": "Оковы проклятия",
     "TraitCursed": "Проклятие",
@@ -6478,6 +6985,7 @@
     "TraitDescriptionZombie": "Неразумная нежить, представляющая собой голодный до живой плоти гниющий труп.",
     "TraitDestiny": "Судьба",
     "TraitDetection": "Обнаружение",
+    "TraitDeviant": "Отклонение",
     "TraitDevil": "Дьявол",
     "TraitDhampir": "Дампир",
     "TraitDinosaur": "Динозавр",
@@ -6503,6 +7011,8 @@
     "TraitElixir": "Эликсир",
     "TraitEmotion": "Эмоции",
     "TraitEnvironmental": "Окружение",
+    "TraitEnvoy": "Посланник",
+    "TraitEsoterica": "Эзотерика",
     "TraitEtchedOntoAWeaponWOAnarchicRune": "Выгравировано на оружии без бунтарской руны",
     "TraitEtchedOntoAWeaponWOAxiomaticRune": "Выгравировано на оружии без праведной руны",
     "TraitEtchedOntoAWeaponWOHolyRune": "Выгравировано на не священном оружии",
@@ -6529,15 +7039,19 @@
     "TraitFinisher": "Решающий удар",
     "TraitFinite": "Ограниченный",
     "TraitFire": "Огонь",
+    "TraitFleshwarp": "Искажённый",
     "TraitFlexible": "Гибкий",
     "TraitFlourish": "Усилие",
     "TraitFocus": "Фокальное",
     "TraitFocused": "Фокальный",
+    "TraitFoldaway": "Складной",
     "TraitForce": "Сила",
     "TraitForceful": "Напористое",
     "TraitFortune": "Удача",
     "TraitFreeHand": "Наручное",
+    "TraitFulu": "Фулу",
     "TraitFungus": "Гриб",
+    "TraitGadget": "Гаджет",
     "TraitGeneral": "Общая",
     "TraitGenie": "Гений",
     "TraitGhost": "Привидение",
@@ -6548,23 +7062,31 @@
     "TraitGolem": "Голем",
     "TraitGraft": "Трансплантат",
     "TraitGrapple": "Хваткое",
+    "TraitGraveknight": "Могильный Рыцарь",
     "TraitGremlin": "Гремлин",
+    "TraitGrimoire": "Гримуар",
+    "TraitGuardian": "Защитник",
+    "TraitGunslinger": "Стрелок",
     "TraitHag": "Карга",
     "TraitHalfling": "Полурослик",
     "TraitHampering": "Замедляющее",
+    "TraitHarnessed": "Закрепляемое",
     "TraitHaunt": "Видение",
     "TraitHealing": "Исцеление",
     "TraitHeldOneHand": "Удерживаемое, 1 рука",
     "TraitHeldOneHandFreeStanding": "Удерживаемое, 1 рука или без рук",
     "TraitHeldOneTwoHands": "Удерживаемое, 1 или 2 руки",
     "TraitHeldTwoHands": "Удерживаемое, 2 руки",
+    "TraitHerald": "Вестник",
     "TraitHeritage": "Родословная",
     "TraitHex": "Наговор",
+    "TraitHindering": "Задерживающее",
     "TraitHobgoblin": "Хобгоблин",
     "TraitHoly": "Священный",
     "TraitHryngar": "Хрингар",
     "TraitHuman": "Человек",
     "TraitHumanoid": "Гуманоид",
+    "TraitHungerseed": "Ненасытный",
     "TraitIfrit": "Ифрит",
     "TraitIkon": "Икона",
     "TraitIllusion": "Иллюзия",
@@ -6578,13 +7100,17 @@
     "TraitInfusion": "Смешение",
     "TraitIngested": "Пища",
     "TraitInhaled": "Дыхание",
+    "TraitInjection": "Инъекционное",
     "TraitInjury": "Рана",
+    "TraitInscribed": "Начертанное",
     "TraitIntelligent": "Разумный",
     "TraitInteract": "Взаимодействие",
     "TraitInventor": "Изобретатель",
     "TraitInvested": "Настроенность",
     "TraitInvestigator": "Следователь",
+    "TraitJotunborn": "Йотунорожденный",
     "TraitJousting": "Кавалерийское",
+    "TraitKaiju": "Кайдзю",
     "TraitKholo": "Холо",
     "TraitKickback": "Отдача",
     "TraitKineticist": "Кинетик",
@@ -6592,12 +7118,16 @@
     "TraitKitsune": "Кицунэ",
     "TraitKobold": "Кобольд",
     "TraitLaminar": "Ламинарный",
+    "TraitLashunta": "Лашунта",
+    "TraitLaunching": "Запускающее",
     "TraitLeshy": "Леший",
     "TraitLight": "Свет",
     "TraitLineage": "Подвид",
     "TraitLinguistic": "Язык",
     "TraitLitany": "Литания",
     "TraitLizardfolk": "Людоящер",
+    "TraitLocathah": "Атамару",
+    "TraitLozenge": "Леденец",
     "TraitMagic": "Магия",
     "TraitMagical": "Магический",
     "TraitManifestation": "Воплощение магии",
@@ -6607,22 +7137,29 @@
     "TraitMerfolk": "Мерфолк",
     "TraitMetal": "Металл",
     "TraitMindless": "Неразумный",
+    "TraitMindshift": "Переосмысление",
     "TraitMinion": "Подручный",
     "TraitMinotaur": "Минотавр",
     "TraitMisfortune": "Неудача",
+    "TraitMissive": "Послание",
+    "TraitModification": "Модификация",
     "TraitModular": "Модульное",
     "TraitMonitor": "Наблюдатель",
     "TraitMonk": "Монах",
     "TraitMorlock": "Морлок",
     "TraitMorph": "Метаморфоза",
+    "TraitMounted": "Устанавливаемое",
     "TraitMove": "Движение",
     "TraitMulticlass": "Мультикласс",
     "TraitMummy": "Мумия",
     "TraitMutagen": "Мутаген",
     "TraitMutant": "Мутант",
+    "TraitMystic": "Мистик",
     "TraitMythic": "Мифический",
+    "TraitNagaji": "Нагаджи",
+    "TraitNecromancer": "Некромант",
     "TraitNephilim": "Нефилим",
-    "TraitNightmare": "Кошмар",
+    "TraitNightmare": "Мара",
     "TraitNoisy": "Шумная",
     "TraitNonlethal": "Несмертельное",
     "TraitNymph": "Нифма",
@@ -6638,11 +7175,13 @@
     "TraitOverflow": "Переполнение",
     "TraitParry": "Парирующее",
     "TraitPetitioner": "Проситель",
+    "TraitPhantom": "Фантом",
     "TraitPlant": "Растение",
     "TraitPoison": "Яд",
     "TraitPolymorph": "Полиморф",
+    "TraitPonderous": "Тяжеловесное",
     "TraitPoppet": "Куколка",
-    "TraitPortable": "Карманная руна",
+    "TraitPortable": "Переносное",
     "TraitPossession": "Вселение",
     "TraitPotion": "Зелье",
     "TraitPrecious": "Ценный",
@@ -6652,6 +7191,8 @@
     "TraitProcessed": "Приготовляемый",
     "TraitPropulsive": "Убойное",
     "TraitProtean": "Протеанин",
+    "TraitPsyche": "Открытый разум",
+    "TraitPsychic": "Экстрасенс",
     "TraitPsychopomp": "Психопомп",
     "TraitQlippoth": "Клипот",
     "TraitRage": "Ярость",
@@ -6677,17 +7218,22 @@
     "TraitReach50": "Длинное 50 фт",
     "TraitReach60": "Длинное 60 фт",
     "TraitReckless": "Неосторожный",
+    "TraitRecovery": "Возвратное",
+    "TraitReflection": "Отражение",
+    "TraitRelic": "Реликвия",
     "TraitReload": "Перезарядка",
     "TraitReload0": "Перезарядка 0",
     "TraitReload1": "Перезарядка 1",
     "TraitReload1Min": "Перезарядка 1 мин",
     "TraitReload2": "Перезарядка 2",
     "TraitRepeating": "Многозарядное",
-    "TraitResilient": "Укреплённая",
+    "TraitResilient": "Укреплённая Руна",
     "TraitRevelation": "Разоблачение",
     "TraitRogue": "Плут",
     "Traits": "Дескрипторы",
+    "TraitSamsaran": "Самсаран",
     "TraitSanctified": "Освящённый",
+    "TraitSarangay": "Сарангай",
     "TraitScatter": "Разброс",
     "TraitScatter10": "Разброс 10",
     "TraitScatter15": "Разброс 15",
@@ -6695,7 +7241,9 @@
     "TraitScatter5": "Разброс 5",
     "TraitScroll": "Свиток",
     "TraitScrying": "Тайновидение",
+    "TraitSeaDevil": "Морской дьявол",
     "TraitSecret": "Тайна",
+    "TraitSedacthy": "Седактий",
     "TraitSerpentfolk": "Змеелюд",
     "TraitSeugathi": "Сеугати",
     "TraitShade": "Отблеск",
@@ -6703,6 +7251,7 @@
     "TraitShove": "Толкающее",
     "TraitSkeleton": "Скелет",
     "TraitSkill": "Навык",
+    "TraitSkirmish": "Боестолкновение",
     "TraitSkulk": "Скрытник",
     "TraitsLabel": "Дескрипторы",
     "TraitSleep": "Сон",
@@ -6711,7 +7260,10 @@
     "TraitSonic": "Звук",
     "TraitSorcerer": "Чародей",
     "TraitSoulbound": "Одушевлённый",
+    "TraitSpellgun": "Чарострел",
+    "TraitSpellheart": "Сердце заклинания",
     "TraitSpellshape": "Метамагия",
+    "TraitSpellshot": "Стрелок-заклинатель",
     "TraitSpirit": "Дух",
     "TraitSplash": "Брызги",
     "TraitSplash10": "Брызги 10 фт",
@@ -6720,6 +7272,7 @@
     "TraitStaff": "Посох",
     "TraitStamina": "Выносливость",
     "TraitStance": "Стойка",
+    "TraitSteam": "Паровой",
     "TraitStructure": "Строение",
     "TraitSubjectiveGravity": "Субъективная гравитация",
     "TraitSubtle": "Незаметное",
@@ -6731,9 +7284,11 @@
     "TraitSwashbuckler": "Сорвиголова",
     "TraitSweep": "Размашистое",
     "TraitSylph": "Сильф",
+    "TraitTactic": "Тактика",
     "TraitTalisman": "Талисман",
     "TraitTalos": "Талос",
     "TraitTane": "Тейн",
+    "TraitTanuki": "Тануки",
     "TraitTattoo": "Татуировка",
     "TraitTearing": "Разрывающее",
     "TraitTech": "Технологический",
@@ -6741,6 +7296,7 @@
     "TraitTeleportation": "Телепортация",
     "TraitTengu": "Тэнгу",
     "TraitTethered": "Привязанное",
+    "TraitThaumaturge": "Тауматург",
     "TraitThrown": "Метательное",
     "TraitThrown10": "Метательное 10 фт",
     "TraitThrown100": "Метательное 100 фт",
@@ -6753,8 +7309,10 @@
     "TraitThrown60": "Метательное 60 фт",
     "TraitThrown80": "Метательное 80 фт",
     "TraitTime": "Время",
+    "TraitTraining": "Тренировочное",
     "TraitTranscendence": "Трансцендентность",
     "TraitTrap": "Ловушка",
+    "TraitTrial": "Обязательство",
     "TraitTrip": "Сбивающее",
     "TraitTripkee": "Трипки",
     "TraitTroll": "Тролль",
@@ -6771,9 +7329,11 @@
     "TraitUndine": "Ундина",
     "TraitUnholy": "Нечестивый",
     "TraitUnique": "Уникальный",
+    "TraitUnstable": "Нестабильный",
     "TraitUntyped": "Без типа",
     "TraitUrdefhan": "Урдефан",
     "TraitVampire": "Вампир",
+    "TraitVehicular": "Транспортное",
     "TraitVenomous": "Ядовитое",
     "TraitVersatile": "Универсальное",
     "TraitVersatileAcid": "Универсальное Кислота",
@@ -7052,7 +7612,7 @@
         "chakri": "Чакри",
         "clan-dagger": "Клановый кинжал",
         "clan-pistol": "Клановый пистоль",
-        "claw-blade": "Клинок-коготь",
+        "claw-blade": "Клинок-Коготь",
         "club": "Дубинка",
         "coat-pistol": "Карманный пистолет",
         "combat-fishing-pole": "Боевая удочка",
@@ -7074,6 +7634,7 @@
         "dueling-pistol": "Дуэльный пистоль",
         "dwarven-dorn-dergar": "Дварфийский дорн-дергар",
         "dwarven-scattergun": "Дварфийский дробовик",
+        "dwarven-war-axe": "Дварфийская Секира",
         "earthbreaker": "Землелом",
         "elven-curve-blade": "Эльфийская сабля",
         "explosive-dogslicer": "Взрывной собачий тесак",
@@ -7089,6 +7650,7 @@
         "fire-lance": "Огненное копье",
         "fist": "Кулак",
         "flail": "Цеп",
+        "flamethrower": "Огнемёт",
         "flingflenser": "Лезвиемёт",
         "flintlock-musket": "Кремневый мушкет",
         "flintlock-pistol": "Кремневый пистоль",
@@ -7099,7 +7661,7 @@
         "gaff": "Багор",
         "gakgung": "Гакгун",
         "gauntlet": "Латная рукавица",
-        "gauntlet-bow": "Наручный арбалет",
+        "gauntlet-bow": "Перчатка-арбалет",
         "gladius": "Гладиус",
         "glaive": "Глефа",
         "gnome-amalgam-musket": "Гномий амальгамный мушкет",
@@ -7269,6 +7831,7 @@
     "WeaponGroupDart": "Дротики",
     "WeaponGroupFirearm": "Огнестрельное",
     "WeaponGroupFlail": "Цепы",
+    "WeaponGroupFlame": "Орден пламени",
     "WeaponGroupHammer": "Молоты",
     "WeaponGroupKnife": "Ножи",
     "WeaponGroupLabel": "Группа",
@@ -7280,6 +7843,7 @@
     "WeaponGroupShield": "Щиты",
     "WeaponGroupShock": "Грозовая",
     "WeaponGroupSling": "Пращи",
+    "WeaponGroupSniper": "Снайпер",
     "WeaponGroupSonic": "Звук",
     "WeaponGroupSpear": "Копья",
     "WeaponGroupSword": "Мечи",
@@ -7310,7 +7874,7 @@
         }
       },
       "called": {
-        "Name": "Противящийся зову"
+        "Name": "Противящийся Зову"
       },
       "coating": {
         "Name": "Покрывающая руна"
@@ -7335,6 +7899,9 @@
       },
       "decaying": {
         "Name": "Разлагающая"
+      },
+      "deflecting": {
+        "Name": "Отклоняющий"
       },
       "demolishing": {
         "Name": "Разрушающая"
@@ -7527,7 +8094,7 @@
         "Name": "Милосердная руна"
       },
       "nightmare": {
-        "Name": "Кошмар"
+        "Name": "Мара"
       },
       "pacifying": {
         "Name": "Умиротворяющая руна"
@@ -7694,7 +8261,7 @@
       "WaywardWarp": {
         "WarpField": {
           "Earth": "Земля",
-          "Storm": "Орден бури",
+          "Storm": "Орден Бури",
           "Water": "Вода"
         }
       }
@@ -7703,13 +8270,13 @@
       "Equipment": {
         "SolarianCrystals": {
           "WeaponPotency": {
-            "Label": "Усиления оружия"
+            "Label": "Руна Усиления Оружия"
           }
         }
       },
       "Hellknight": {
         "Order": {
-          "Chain": "Кольчужная"
+          "Chain": "Цепь"
         }
       }
     }

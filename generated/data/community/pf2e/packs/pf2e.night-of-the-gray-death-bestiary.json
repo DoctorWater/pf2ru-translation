@@ -1,0 +1,123 @@
+{
+  "entries": {
+    "Chakanaj": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Conqueror Worm": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Gray Death": {
+      "items": {
+        "Hand": {
+          "name": "Рука"
+        }
+      }
+    },
+    "Gray Gardener Assassin": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Gray Gardener Director General": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Sword Cane": {
+          "name": "Меч-трость"
+        }
+      }
+    },
+    "Gray Gardener Enforcer": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Keznin Nevarmo": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Mateena Lumlin": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Sword Cane": {
+          "name": "Меч-трость"
+        }
+      }
+    },
+    "Miss Whisper": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Riekanoy": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Tumblak": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Worm Prophet": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Zintaya Calbieste": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    }
+  },
+  "label": "Night Of The Gray Death Bestiary"
+}

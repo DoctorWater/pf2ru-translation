@@ -1,0 +1,242 @@
+{
+  "entries": {
+    "Ailuran": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Blarghest": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Chea": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Divine Warden of Brigh": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        }
+      }
+    },
+    "Duhgik": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Edolpho Phinelli": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Eleukas": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Firebrand Brass Dragon (Ancient)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Floolf": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Goblin Zombie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Gristleburst": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Hellknight Centaur": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Lisavet": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Mari Lwyd": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Morlibint": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Nonsequitaur": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Nosferotter": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Ogre Hurler": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Pr'rall": {
+      "items": {
+        "Hunting Lore": {
+          "name": "Знание (охота)"
+        }
+      }
+    },
+    "Psstpsstmitl": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Urok": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Wendlyn": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Weredigo": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Whispering Way Medusa": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Wordsmith": {
+      "description": "<b>Источник:</b> Тёмный архив<br>\n<b>Домен:</b> знание (apocryphal).<br>\n<b>Дистанция:</b> касание. <b>Цели:</b> 1document written by a single author and comprised of written text in a single language.<br>\n<b>Длительность:</b> until the next time you Refocus.\n<hr>\nYou're a devotee of knowledge with an unmatched command of the language used to spread that knowledge, and you can reshape the written word into a form more understandable to your audience. The language of the target's written text shifts to a language you know. This shift doesn't change the text's contents beyond minor translation differences, nor does it grant the reader any understanding of the original language.",
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      },
+      "name": "Wordsmith"
+    }
+  },
+  "label": "Blog Bestiary"
+}

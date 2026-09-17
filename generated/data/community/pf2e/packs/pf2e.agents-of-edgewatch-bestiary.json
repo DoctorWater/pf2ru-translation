@@ -1,0 +1,1243 @@
+{
+  "entries": {
+    "Agent of the Gray Queen": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Agradaemon": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Alchemical Horror": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Alchemist Aspirant": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Almiraj": {
+      "description": "<b>Источник:</b> Рёв дикой природы<br>\n\n<b>Вспомнить информацию</b> СЛ 21 • Животное (Природа).<br>\n<b>Внимание:</b> +14; виброчувствительность (вспомогательная) 40 футов.<br>\n\n<b>Навыки:</b> Атлетика +13, Скрытность +10, Выживание +8.<br>\n\n<b>Сил</b> +5, <b>Лвк</b> +3, <b>Вын</b> +4, <b>Инт</b> -4, <b>Мдр</b> +0, <b>Хар</b> +3.\n<hr>\n\n<b>КБ:</b> 20; <b>Стойкость</b> +14, <b>Реакция</b> +11, <b>Воля</b> +8.<br>\n\n<b>ПЗ:</b> 63.<br>\n\n<span class=\"in-box-ability\"><b>Пугающее присутствие</b> (аура, ментальный, ужас, эмоции): 5 футов, СЛ 22. Существа, критически провалившие испытание, также получают состояние паника на 1 раунд.</span>\n<span class=\"in-box-ability\"><b>Внеочередная атака</b> [reaction]: только рогом. Существа, подверженные состоянию паники, получают дополнительно 1d6 продолжительного урона кровотечением. При критическом попадании существо падает, получая состояние распластанность.</span>\n<hr>\n\n<b>Скорость:</b> 35 футов, рытьё 25 футов.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: рог +13 [+8/+3], <b>урон:</b> 2d8+7 режущий</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: челюсти +13 [+8/+3], <b>урон:</b> 2d6+7 колющий и Хватка</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: коготь +13 [+9/+5] (быстрое), <b>урон:</b> 2d4+7 режущий</span>\n<span class=\"in-box-ability\"><b>Смертельная встряска</b> [one-action]. <b>Требования:</b> альмираж удерживает существо в состоянии захват. <b>Эффект:</b> альмираж сжимает челюсти на существе и яростно трясёт его, пытаясь добить. Существо получает 2d6 дробящего урона и должно преуспеть в испытании Стойкости СЛ 20, иначе получает состояние слабость 1. Существа Небольшого размера или меньше получают штраф обстоятельств -2 к этому испытанию.</span>\n<span class=\"in-box-ability\"><b>Таранный бросок</b> [two-actions]: альмираж опускает голову и яростно бросается к выбранной жертве. Альмираж совершает Перемещение дважды. Если он завершает перемещение в зоне ближнего боя с хотя бы одним противником, он совершает Удар рогом по этому противнику. Этот Удар наносит дополнительно 1d6 продолжительного урона кровотечением.</span>\n<span class=\"in-box-ability\"><b>Под землю</b> [one-action]. <b>Требования:</b> альмираж удерживает существо Среднего или меньшего размера в состоянии захват. <b>Эффект</b>.\n  альмираж пытается скрыться с добычей, зарываясь в землю. Захваченное существо должно преуспеть в испытании Реакции СЛ 20, иначе будет утянуто под землю, пока альмираж совершает Рытьё на расстояние вплоть до своей Скорости. При успехе в испытании существо Освобождается, а альмираж продолжает рытьё как обычно. При провале захваченное существо должно задержать дыхание или начинает задыхаться под землёй.</span>",
+      "items": {
+        "Horn": {
+          "name": "Рог"
+        }
+      },
+      "name": "Альмираж"
+    },
+    "Antaro Boldblade": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Avarek": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Avsheros the Betrayer": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Baatamidar": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Barnacle Ghoul": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Battle Leader Rekarek": {
+      "items": {
+        "Longspear": {
+          "name": "Длинное копьё"
+        }
+      }
+    },
+    "Binumir": {
+      "items": {
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Black Whale Guard": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Games Lore": {
+          "name": "Знание (игры)"
+        }
+      }
+    },
+    "Black Whale Guard (F3)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Games Lore": {
+          "name": "Знание (игры)"
+        }
+      }
+    },
+    "Blackfingers Acolyte": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Bloody Barber Goon": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Bloody Berleth": {
+      "items": {
+        "Shovel": {
+          "name": "Лопата"
+        }
+      }
+    },
+    "Blune Bandersworth": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Architecture Lore": {
+          "name": "Знание (архитектура)"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Bolar Of Stonemoor": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        }
+      }
+    },
+    "Bregdi": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Calennia": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Camarach": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Carvey": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Casino Bouncer": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Chalky": {
+      "items": {
+        "Syringe": {
+          "name": "Шприц"
+        }
+      }
+    },
+    "Child Of Venom": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Clockwork Amalgam": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Clockwork Arms": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Clockwork Injector": {
+      "items": {
+        "Syringe": {
+          "name": "Шприц"
+        }
+      }
+    },
+    "Copper Hand Illusionist": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Copper Hand Rogue": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Daemonic Infector": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Daemonic Rumormonger": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        }
+      }
+    },
+    "Daemonic Skinner": {
+      "items": {
+        "Cleaver": {
+          "name": "Мясницкий нож"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Diobel Sweeper Chemist": {
+      "items": {
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Diobel Sweeper Tough": {
+      "items": {
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Dreadsong Dancer": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Eberark": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Eunice": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Farming Lore": {
+          "name": "Знание (фермерство)"
+        }
+      }
+    },
+    "Excorion": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Excorion Paragon": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Fayati Alummur": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Franca Laurentz": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Frefferth": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Gage Carlyle": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Games Lore": {
+          "name": "Знание (игры)"
+        }
+      }
+    },
+    "Gang Tough": {
+      "items": {
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Garrote Master Assassin": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Ghaele Of Kharnas": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Giant Joro Spider": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Gloaming Will-o'-Wisp": {
+      "items": {
+        "Shock": {
+          "name": "Электрический разряд"
+        }
+      }
+    },
+    "Grabble Forden": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Graem": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Graveknight Of Kharnas": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Gref": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Grick": {
+      "description": "<b>Источник:</b> Корона короля кобольдов<br>\n<b>Вспомнить информацию</b> СЛ 20 • Аберрация (Оккультизм).<br>\n<b>Внимание:</b> +8; ночное зрение, нюх (вспомогательный) 30 футов.<br>\n<b>Языки:</b> Акло; (не может говорить).<br>\n<b>Навыки:</b> Атлетика +9, Скрытность +8 (+10 в каменистой местности).<br>\n<b>Сил</b> +4, <b>Лвк</b> +3, <b>Вын</b> +2, <b>Инт</b> -3, <b>Мдр</b> +3, <b>Хар</b> -2.\n<hr>\n<b>КБ:</b> 20; <b>Стойкость</b> +7, <b>Реакция</b> +10, <b>Воля</b> +10.<br>\n<b>ПЗ:</b> 35. <b>Устойчивость:</b> физический урон 5 (кроме магического).<br>\n<span class=\"in-box-ability\"><b>Цепкое щупальце</b> [reaction]. <b>Условие:</b> существо в зоне досягаемости грика использует действие с дескриптором «движение» или покидает клетку во время совершённого им действия с дескриптором «движение». Эффект: грик совершает Удар щупальцем по цели. Если это критический удар, а спровоцировало его действие с дескриптором «движение», грик срывает это действие.</span>\n<hr>\n<b>Скорость:</b> 25 футов, лазание 20 футов.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: челюсти +11 [+6/+1], <b>урон:</b> 1d12+6 режущий</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: щупальце +11 [+7/+3] (быстрое), <b>урон:</b> 1d8+6 дробящий</span>\n<h3 class=\"h3-header\">ДЖУНГЛЕВЫЕ ГРИКИ</h3>\nЭтот подвид грика приспособился к жизни на поверхности и имеет зелёноватый окрас. Такие грики рыщут по подлеску или залезают на деревья, чтобы обрушиться на ничего не подозревающих жертв. Они получают бонус к Скрытности в лесистой местности, а не каменистой. Джунглевые грики крепче своих подземных собратьев: примените элитные изменения.",
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      },
+      "name": "Грик"
+    },
+    "Grimwold": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Grinlowe": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Grospek Lavarsus": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Hegessik": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Hestriviniaas": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Hundun Chaos Mage": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Il'setsya Wyrmtouched": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Inky Tendrils": {
+      "items": {
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Iroran Skeleton": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Ixusoth": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Jonis Flakfatter": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Kapral": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kekker": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Kemeneles": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Kolo Harvan": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Lie-Master": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Living Mural": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Lord Guirden": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Lusca": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Lyrma Swampwalker": {
+      "items": {
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    },
+    "Maurrisa Jonne": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Minchgorm": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Miogimo": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Miriel Grayleaf": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Mobana": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Mother Venom": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Mr. Snips": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Myrna Rath": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Myrucarx": {
+      "items": {
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Najra Lizard": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Nenchuuj": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Norgorberite Poisoner": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Obrousian": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Ofalth Zombie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Olansa Terimor": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Overdrive Imentesh": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Penqual": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Pickled Punk": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Poison Eater": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Priest of Blackfingers": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Prospecti Statue": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Pulping Golem": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Ralso": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Ravenile Rager": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Reginald Vancaskerkin": {
+      "items": {
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        }
+      }
+    },
+    "Rhevanna": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Sad Liza": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Scathka": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Secret-Keeper": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Shikwashim Mercenary": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Shredskin": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Shristi Melipdra": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Siege Shard": {
+      "items": {
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Skebs": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Skinsaw Murderer": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Skinsaw Seamer": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Skitterstitch": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Sleepless Sun Veteran": {
+      "items": {
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Slithering Rift": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Starwatch Commando": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Svartalfar Killer": {
+      "items": {
+        "Elven Curve Blade": {
+          "name": "Эльфийская сабля"
+        }
+      }
+    },
+    "Tenome": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Teraphant": {
+      "items": {
+        "Horn": {
+          "name": "Рог"
+        },
+        "Trunk": {
+          "name": "Хобот"
+        }
+      }
+    },
+    "The Inkmaster": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "The Rabbit Prince": {
+      "items": {
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Stabbing Beast": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Tiderunner Aquamancer": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Twisted Jack": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Tyrroicese": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Ulressia The Blessed": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Vargouille": {
+      "description": "<b>Источник:</b> Корона короля кобольдов<br>\n<b>Вспомнить информацию</b> СЛ 21 • Аберрация (Оккультизм), Бестия (Религия).<br>\n<b>Внимание:</b> +8; ночное зрение.<br>\n<b>Языки:</b> Даймонический.<br>\n<b>Навыки:</b> Акробатика +8, Атлетика +4, Запугивание +6, Скрытность +8.<br>\n<b>Сил</b> +0, <b>Лвк</b> +4, <b>Вын</b> +2, <b>Инт</b> -3, <b>Мдр</b> +2, <b>Хар</b> +0.\n<hr>\n<b>КБ:</b> 18; <b>Стойкость</b> +6, <b>Реакция</b> +10, <b>Воля</b> +8.<br>\n<b>ПЗ:</b> 28.\n<hr>\n<b>Скорость:</b> полёт 25 футов.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою:</b> укус +10 [+6/+2] (быстрое, фехтовальное), <b>урон:</b> 1d8 колющий и 1d6 яд</span>\n<span class=\"in-box-ability\"><b>Незаживающие раны</b> (некромантия, оккультный, проклятие): существо, получившее урон ядом от варгвила, должно успешно пройти испытание Стойкости со СЛ 18, иначе окажется под действием проклятия. Проклятое существо не может восстанавливать ПЗ ничем, кроме магии, и любой, творящий заклинание для излечения этого существа, должен успешно пройти проверку нейтрализации со СЛ 18 — в противном случае исцеление не подействует. Уровень нейтрализации — варгвила равен его уровню существа. Жертва может повторно проходить испытание Стойкости со СЛ 18 один раз в день (обычно во время ежедневной подготовки), чтобы прекратить проклятие. Оно заканчивается автоматически, если исцелить существо до максимума ПЗ.</span>\n<span class=\"in-box-ability\"><b>Поцелуй варгвила</b> [three-actions] (болезнь, оккультный, превращение). <b>Требования:</b> варгвил рядом с гуманоидным существом, которое парализовано, без сознания или согласно. Эффект: варгвил сливается с беспомощной или согласной жертвой в пародии на любящий поцелуй. После этого существо должно пройти испытание, иначе постепенно начнёт обращаться в варгвила. Состояния тошноты, ошеломления и без сознания от Поцелуя варгвила нельзя прекратить или снизить, пока болезнь не исцелена. Стадия болезни не увеличивается, если жертва на солнечном свету или в области эффекта с дескриптором «свет» 3 круга или выше. <b>Испытание:</b> стойкости со СЛ 18. <b>Стадия 1:</b> никаких эффектов (2 часа). <b>Стадия 2:</b> волосы начинают лезть из головы, и жертва получает тошноту 1 (2 часа). <b>Стадия 3:</b> уши жертвы удлиняются, превращаясь в крылья, зубы её вытягиваются и заостряются, и жертва получает ошеломление 1 (2 часа). <b>Стадия 4:</b> аналогична стадии 3, но жертва без сознания (2 часа). <b>Стадия 5:</b> смерть; голова жертвы превращается в нового варгвила, отделяется от тела и отправляется творить зло.\n</span>\n<span class=\"in-box-ability\"><b>Визг варгвила</b> [two-actions] (зрение, оккультный, слух, устранение, эвокация): варгвил неестественно широко раскрывает рот и издаёт пронзительный визг. Все существа в пределах 60 футов, которые видят и слышат варгвила, должны пройти испытание Стойкости со СЛ 15.\n<br>\n<b>Успех:</b> существо избегает эффекта и невосприимчиво к этой способности на 24 часа.\n<br>\n<b>Провал:</b> существо получает паралич до конца своего следующего хода.\n<br>\n<b>Критический провал:</b> существо получает паралич. Оно может проходить испытание снова в конце каждого своего хода, при этом СЛ снижается на 1 при каждом новом испытании.\n</span>\n \n <h3 class=\"h3-header\">ПРОНИКНОВЕНИЕ ЗЛА</h3>\n Иногда злые маги призывают и расселяют варгвилов по окрестностям, но у этих мелких бестий есть и более коварный способ пересечь границы планов. На кладбищах, подверженных влиянию даймонов или культов Всадников Апокалипсиса, свежие трупы порой служат порталами на Абаддон — и тогда новые варгвилы рождаются из голов мертвецов.",
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      },
+      "name": "Варгвил"
+    },
+    "Vaultbreaker Ooze": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Veksciralenix": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Venom Mage": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Washboard Dog Tough": {
+      "items": {
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Water Elemental Vessel": {
+      "items": {
+        "Wave": {
+          "name": "Волна"
+        }
+      }
+    },
+    "Water Elemental Vessel (I2)": {
+      "items": {
+        "Wave": {
+          "name": "Волна"
+        }
+      }
+    },
+    "Wrent Dicaspiron": {
+      "items": {
+        "Cleaver": {
+          "name": "Мясницкий нож"
+        }
+      }
+    },
+    "Wynsal Starborn": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Zeal-damned Ghoul": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zealborn": {
+      "items": {
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Zrukbat": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    }
+  },
+  "label": "Agents Of Edgewatch Bestiary"
+}

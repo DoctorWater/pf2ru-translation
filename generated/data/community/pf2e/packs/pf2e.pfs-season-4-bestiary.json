@@ -1,8 +1,1470 @@
 {
   "entries": {
+    "Abyssal Drool": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Abyssal Warhound": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Abyssal Warhound General": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Abyssal Warhound Pack Leader": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Accursed Succubus": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Adagio": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
     "Allegro": {
-      "description": "<b>Источник:</b> Основная книга игрока.\n<hr>\n\nВы ускоряете темп выступления, заставляя союзников двигаться быстрее. Вы изучаете фокус-композицию аллегро.",
+      "description": "<b>Источник:</b> Основная книга правил.\n<hr>\n\nВы ускоряете темп выступления, заставляя союзников двигаться быстрее. Вы изучаете фокус-композицию аллегро.",
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      },
       "name": "Аллегро"
+    },
+    "Ambush Assassin": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Ambush Observer": {
+      "items": {
+        "Sap": {
+          "name": "Мягкая дубинка"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Ambush Raider": {
+      "items": {
+        "Architecture Lore": {
+          "name": "Знание (архитектура)"
+        },
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        },
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Ambush Runner": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        },
+        "Hatchet": {
+          "name": "Топорик"
+        },
+        "Lumber Lore": {
+          "name": "Знание (древесина)"
+        }
+      }
+    },
+    "Ambush Spy": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Animated Leather Armor": {
+      "items": {
+        "Gauntlet": {
+          "name": "Латная рукавица"
+        },
+        "Glaive": {
+          "name": "Глефа"
+        }
+      }
+    },
+    "Animated Leather Armor (4-99)": {
+      "items": {
+        "Gauntlet": {
+          "name": "Латная рукавица"
+        },
+        "Glaive": {
+          "name": "Глефа"
+        }
+      }
+    },
+    "Aslynn": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Aslynn the Dream Taker": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Aslynn's Eye": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Aslynn's Sharper Eye": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Bandit Skullcracker": {
+      "items": {
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        }
+      }
+    },
+    "Bloody Barber Gang Leader": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Bloody Barber Thief": {
+      "items": {
+        "Sap": {
+          "name": "Мягкая дубинка"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Bolger Trusk (5-6)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Bolger Trusk (7-8)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Brinna": {
+      "items": {
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        }
+      }
+    },
+    "Bugbear Bully": {
+      "items": {
+        "Greatclub": {
+          "name": "Двуручная дубина"
+        }
+      }
+    },
+    "Bugbear Creeper": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Bugbear Night Terror": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Bugbear Raider": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Bugbear Slasher": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Bugbear Terror": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Bugbear Trickster": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Burrowing Viper Rat": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Charlatan (PFS 4-05)": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Combustive Zombie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Coven Grave Hag": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Coven Winter Hag": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Cunning Vampire Spawn": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Damaged Automaton": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Deimostride (7-8)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Deimostride (9-10)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Denufair": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Depleted Roiling Incant": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Dero Stalker (PFS 4-05)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Determined Rhenei (1-2)": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Determined Rhenei (3-4)": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Dorenea": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Dream of Doom": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Elite Animate Dream (PFS 4-11)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Elite Cave Bear (PFS 4-07)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Elite Combustive Zombie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Elite Palace Skelm (PFS 4-11)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Elite Smokesight Deadeye Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Elite Smokesight Hunter Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Elite Smokesight Prowler Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Elite Smokesight Stalker Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Elite Smokesight Wight Captain": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Elite Smokesight Wight Commander": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Elite Sulfur Zombie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Elven Fence": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Elven Grave Robber": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shovel": {
+          "name": "Лопата"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Elven Hunter": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Elven Torchbearer": {
+      "items": {
+        "Architecture Lore": {
+          "name": "Знание (архитектура)"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Elven Tracker": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Enormous Rat": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Evasive Vampire Count": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Faded Animate Dream": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Farah Al-Saleel (3-4)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Farah Al-Saleel (5-6)": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Fasiel Ibn Sazadin (5-6)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Festering Vermlek": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Mace": {
+          "name": "Булава"
+        }
+      }
+    },
+    "Fetid Familiar": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Fey-Touched Great Wolf": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Fireball Rune": {
+      "description": "<b>Источник:</b> Основная книга правил\n<br>\n\n<b>Сложность:</b> простая.\n<br>\n<b>Скрытность:</b> СЛ 24 (экспертный).\n<br>\n<b>Описание:</b> невидимая руна, создающая невидимую сферу-сенсор радиусом 20 футов.\n<hr>\n<b>Обезвреживание:</b> Воровство со СЛ 22 (экспертный) для стирания руны без активации или рассеивание магии (3 круг; СЛ нейтрализации 20) для её нейтрализации.\n<br>\n<span class=\"in-box-ability\"><b>Огненный шар</b> [reaction] (мистический, эвокация, огонь). <b>Условие:</b> в область сенсора входит живое существо. <b>Эффект:</b> руна вызывает взрыв огненного шара с центром в клетке спровоцировавшего существа. Это огненный шар 3 круга, наносящий 6d6 урона огнём (обычное испытание Реакции со СЛ 22).</span>",
+      "name": "Руна Огненного Шара"
+    },
+    "Fleshwarp Apprentice": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Giant Fetid Familiar": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Grace of the Owl": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Greater Barghest (PFS 4-07)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Grim Rictus Bridge Guard": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Grim Rictus Robber": {
+      "items": {
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Growling Shadow Drake": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Harpy Forager": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Harpy Wailer": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Infested Clockwork Vessel": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Larcius": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Spiked Gauntlet": {
+          "name": "Шипованная латная рукавица"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Lemming Rat": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Liaskra (1-2)": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Liaskra (3-4)": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Living Boulder (PFS 4-04)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Menacing Shadow Drake": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Mutant Shadow Drake": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Mutated Scorpion": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Nathatel": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Nathatel (3-4)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Nathatel (5-6)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Nathatel (7-8)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Overtaxed Vrisk": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Pappy Draighean": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Pappy Draighean (5-6)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Patched Up Automaton": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Possessed Clockwork Vessel": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Potted Violet Etheroot": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Pups": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Recon Scout": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Revna the Brave (5-6)": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        },
+        "Hatchet": {
+          "name": "Топорик"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Revna the Brave (7-8)": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        },
+        "Hatchet": {
+          "name": "Топорик"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Rhenei (1-2)": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Rhenei (3-4)": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Seldrick Dralston (1-2)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Seldrick Dralston (3-4)": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Serraleth": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Serraleth (7-8)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Shard of Aslynn (1-2)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Shard of Aslynn (3-4)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Skeletal Pathfinder": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Glaive": {
+          "name": "Глефа"
+        }
+      }
+    },
+    "Skeletal Pathfinder Veteran": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Skulk Raider": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Smokesight Deadeye Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Smokesight Hunter Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Smokesight Prowler Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Smokesight Stalker Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Smokesight Wight Captain": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Smokesight Wight Commander": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Sounrel (3-4)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Sounrel (5-6)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Stabilized Black Pudding": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Stabilized Ochre Jelly": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Suhko (1-2)": {
+      "items": {
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Suhko (3-4)": {
+      "items": {
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Transformed Bremix (7-8)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Transformed Bremix (9-10)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Transformed Narcela (7-8)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Transformed Narcela (9-10)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Travel Worn Lurker In Light": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Tsimaan": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Ulfen Soldier": {
+      "items": {
+        "Hatchet": {
+          "name": "Топорик"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Undead Nathatel": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Undead Nathatel (7-8)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Urdefhan Blood Mage (PFS 4-11)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Kukri": {
+          "name": "Кукри"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Urdefhan High Tormentor (PFS 4-11)": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Veteran Ulfen Soldier": {
+      "items": {
+        "Hatchet": {
+          "name": "Топорик"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Veteran Vermlek": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Vrisk": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Weak Cunning Vampire Spawn": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Weak Evasive Vampire Count": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Well-Fed Potted Violet Etheroot": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Witch of the Owl": {
+      "items": {
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Witch's Eye": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Witch's Gaze": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Witch's Talon": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Witch's Wing": {
+      "items": {
+        "Bastard Sword": {
+          "name": "Меч-бастард"
+        }
+      }
     }
   },
   "label": "Pfs Season 4 Bestiary"

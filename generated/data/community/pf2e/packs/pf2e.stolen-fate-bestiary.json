@@ -1,0 +1,855 @@
+{
+  "entries": {
+    "All-Seeing Hajeck": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Aquatic Viper Vine": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Arodeth": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Arzuu": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Geology Lore": {
+          "name": "Знание (геология)"
+        }
+      }
+    },
+    "Bhanyada Behemoth": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Bhanyada Scavenger": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Blade Magus": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Blade Mercenary": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Blood-Pear Tree": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Root": {
+          "name": "Корень"
+        }
+      }
+    },
+    "Bolti Sorrinson": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Crystalline Sentinel": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Geology Lore": {
+          "name": "Знание (геология)"
+        }
+      }
+    },
+    "Demongate Colossus": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Derhii": {
+      "items": {
+        "Falchion": {
+          "name": "Фальшион"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Dieral Myrnese": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Diskrasia The Sharp": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Drustan": {
+      "items": {
+        "Bastard Sword": {
+          "name": "Меч-бастард"
+        }
+      }
+    },
+    "Endlo Kiver": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        }
+      }
+    },
+    "Ephialtes": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Fabled Harrowkin": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Fabrina The Spinster": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Fate's Prophet": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Gegnir": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ghalzarokh": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Guardian Aluum": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Hala The Rod": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hurlilu": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Ildamir": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Kannijo": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Markish Aghayarea": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    },
+    "Mercenary Assassin": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Mighty Bul-Gae": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Mivanian Soldier": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Mogaran": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Ndede": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Nornhound": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Oppali": {
+      "items": {
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Queen Kawlinawk": {
+      "items": {
+        "Falchion": {
+          "name": "Фальшион"
+        }
+      }
+    },
+    "Quoppopak Mummy": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Raskus": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Raven Nicoletta": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Scaleseed Nagaji": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Shaldar Falls-Far": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Sickened Doprillu": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Simple Harrowkin": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Sonnorae": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Speaker Of Svaryr": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Storied Harrowkin": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        }
+      }
+    },
+    "Suvarden": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Svaryr Commander": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Svaryr Soldier": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "The Betrayal": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Courtesan": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Cricket": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Crows": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Dance": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Fool": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Inquisitor": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Joke": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Keeper": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "The Peacock": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Prince of Wolves": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Queen Mother": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Shadow Prince": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Teamster": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Trader": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Twin": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Unicorn": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Wanderer": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Winged Serpent": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ticktock": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Torgral": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Trexima Butoi": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Hand": {
+          "name": "Рука"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Uniila": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Uniila Occultist": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Usilket": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Vehanezhad": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Vharnev the Butcher": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Battle Axe": {
+          "name": "Боевой топор"
+        }
+      }
+    },
+    "Vincuvicar": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "War Flail": {
+          "name": "Боевой цеп"
+        }
+      }
+    },
+    "Voricose": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Whip": {
+          "name": "Кнут"
+        }
+      }
+    },
+    "Xiuli Cachu": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Falchion": {
+          "name": "Фальшион"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zashuvin": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Zellara Esmeranda": {
+      "items": {
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    }
+  },
+  "label": "Stolen Fate Bestiary"
+}

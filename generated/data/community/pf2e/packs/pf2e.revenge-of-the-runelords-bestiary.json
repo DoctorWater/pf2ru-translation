@@ -1,0 +1,584 @@
+{
+  "entries": {
+    "Abysium Sentinel": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Adamantine Sentinel": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Headbutt": {
+          "name": "Удар головой"
+        }
+      }
+    },
+    "Aethusa": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Ancient One": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ancient One (The Ashen Man's Anger)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Animate Nightmare (Disaster)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Animate Nightmare (Disorder)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Animate Nightmare (Famine)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Animate Nightmare (Plague)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Areelu Vorlesh": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Ayavah": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Baolen": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Belimarius": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Bittersweet Sister": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Clockwork Whale": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Commander Yrasthura": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longspear": {
+          "name": "Длинное копьё"
+        }
+      }
+    },
+    "Czaresia": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Mace": {
+          "name": "Булава"
+        }
+      }
+    },
+    "Dream Aethusa": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Elder Shantak": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Elemental Tsunami": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n<b>Вспомнить информацию</b> СЛ 28 • Элементаль (Мистицизм, Природа).<br>\n<b>Внимание:</b> +22; ночное зрение.<br>\n<b>Языки:</b> акван.<br>\n<b>Навыки:</b> Атлетика +23, Скрытность +23.<br>\n<b>Сил</b> +6, <b>Лвк</b> +6, <b>Вын</b> +6, <b>Инт</b> +0, <b>Мдр</b> +3, <b>Хар</b> +0.<br>\n<span class=\"in-box-ability\"><b>Связь с водой:</b> когда элементаль не касается воды, он получает\nзамедление 1 и не может использовать ответные действия.</span>\n<hr>\n<b>КБ:</b> 31; <b>Стойкость</b> +21, <b>Реакция</b> +22, <b>Воля</b> +19.<br>\n<b>ПЗ:</b> 195. <b>Невосприимчивость:</b> кровотечение, паралич, сон, яд. <b>Устойчивость:</b> огонь 10.<br>\n<span class=\"in-box-ability\"><b>Водоворот</b> (аура, вода): 50 футов. Когда элементаль в водоёме, вода этого водоёма в области становится пересечённой местностью для Плавания существ без дескриптора «вода».\n</span>\n<hr>\n<b>Скорость:</b> 35 футов, плавание 100 футов.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: волна +24 [+19/+14] (длинное 20 футов), <b>урон:</b> 2d12+12 дробящий, Отталкивание или притягивание на 10 футов</span>\n<span class=\"in-box-ability\"><b>Тушение</b> [one-action] (вода, первобытный, преграждение): элементаль гасит всё пламя в 20-футовой эманации. Немагический огонь он тушит автоматически, а магическое пламя пытается нейтрализовать (модификатор нейтрализации +20).\n</span>\n<span class=\"in-box-ability\"><b>Прилив</b> [two-actions]: элементальное цунами быстро увеличивает занимаемое пространство до области водоворота. Находящиеся в области водоворота существа получают 5d12 + 6 дробящего урона (обычное испытание Стойкости со СЛ 31). При провале существо отталкивается на 20 футов. После этого элементальное цунами возвращается в обычное пространство. После применения способности элементальное цунами может использовать её повторно только через 1d4 раунда.\n</span>",
+      "items": {
+        "Wave": {
+          "name": "Волна"
+        }
+      },
+      "name": "Элементальное Цунами"
+    },
+    "Eron of Jandelay": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Erzgeist": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Gavergash": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Goldgorger": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Greedspawn": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Glaive": {
+          "name": "Глефа"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Jandelay Tolokand": {
+      "items": {
+        "Hand": {
+          "name": "Рука"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Javownir": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Kandirvek": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Knight of Malice": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Kraken Caller": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    },
+    "Liralarue": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        }
+      }
+    },
+    "Lograsi": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Lythazossa": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Maddenmist": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Maze-Weaver": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Misery Siktempora": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Natbakh": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Peacock Phoenix": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Phantom of Desire": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Pridespawn Sentinel": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Quoroc": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Risen Runelord (Envy)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord (Gluttony)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord (Greed)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord (Lust)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord (Pride)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord (Sloth)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord (Wrath)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord Aethusa II": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord Alaznist": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord Haphrama": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord Jurah": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord Kaliphesta": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord Karzoug": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord of Envy (Prison)": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Risen Runelord Xirie": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Runelord Xanderghul": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Runic Warmaw": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Silent Devotee": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "The Ashen Man": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Trinity Initiate": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        }
+      }
+    },
+    "Vesinra": {
+      "items": {
+        "Falchion": {
+          "name": "Фальшион"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Vogorond": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Watcher": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    }
+  },
+  "label": "Revenge Of The Runelords Bestiary"
+}

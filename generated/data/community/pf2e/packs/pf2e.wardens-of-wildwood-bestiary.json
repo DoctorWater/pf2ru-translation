@@ -1,8 +1,559 @@
 {
   "entries": {
+    "Alyce Quinley": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
     "Arboreal Sapling": {
-      "description": "<b>Источник:</b> Основная книга игрока<br>\n\nВаш верный зверь — ожившее дерево, связанное родственными  узами с лесовиками-стражами и регентами. У него дескриптор  «растение» вместо дескриптора «животное», но в остальном он  следует правилам верного зверя. Обычно их выбирают только друиды  ордена зверя, также принадлежащие к ордену листа.\n<br>\n\n<b>Доступ:</b> вы член ордена листа.\n<br>\n\n<b>Размер:</b> небольшой.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: ветвь, <b>урон:</b> 1d8 дробящий.</span><br>\n\n<b>Сил</b> +3, <b>Лвк</b> +1, <b>Вын</b> +2, <b>Инт</b> -4, <b>Мдр</b> +2, <b>Хар</b> +0.<br>\n\n<b>Пункты здоровья:</b> 8.<br>\n\n<b>Навык:</b> Скрытность.<br>\n\n<b>Восприятие:</b> сумеречное зрение.<br>\n\n<b>Перемещение:</b> 25 футов.<br>\n\n<b>Поддержка:</b> лесовик-росток проращивает корни вокруг врага, мешая  ему двигаться. До начала вашего следующего хода, если вы  попадаете и наносите урон существу в зоне досягаемости вашего лесовика-ростка, первая клетка, в которую оно перемещается  после получения урона, считается пересечённой местностью.\n<br>\n\n<b>Особый манёвр:</b> метание камня\n\n<p>@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.a0tx6exmB9v9CUsj]{Метание камня}</p>",
-      "name": "Лесовик-росток"
+      "description": "<b>Источник:</b> Руководство опытного игрока<br>\n\nВаш верный зверь — ожившее дерево, связанное родственными узами  с лесовиками-стражами и регентами. У него дескриптор «растение» вместо дескриптора «животное», но в остальном он следует  правилам верного зверя. Обычно их выбирают только друиды ордена  листа.\n<br>\n\n<b>Доступ:</b> Орден листа.<br>\n\n<b>Размер:</b> небольшой.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: ветвь, <b>урон:</b> 1d8 дробящий.</span><br>\n\n<b>Сил</b> +3, <b>Лвк</b> +1, <b>Вын</b> +2, <b>Инт</b> -4, <b>Мдр</b> +2, <b>Хар</b> +0.<br>\n\n<b>Пункты здоровья:</b> 8.<br>\n\n<b>Навык:</b> Скрытность.<br>\n\n<b>Восприятие:</b> сумеречное зрение.<br>\n\n<b>Скорость:</b> 25 футов.<br>\n\n<b>Поддержка:</b> лесовик-росток проращивает корни вокруг врага, мешая  ему двигаться. До начала вашего следующего хода, если вы попадаете  и наносите урон существу в зоне досягаемости вашего лесовика-  ростка, первая клетка, в которую оно перемещается после получения  урона, считается пересечённой местностью.<br>\n\n<b>Особый манёвр:</b> метание камня\n\n<p>@UUID[Compendium.pf2e.bestiary-ability-glossary-srd.Item.a0tx6exmB9v9CUsj]{Метание камня}</p></br>",
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      },
+      "name": "Лесовик-Росток"
+    },
+    "Arboreal Sapstriker": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Arboreal Shepherd": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Ardande Ghost": {
+      "items": {
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Avathrael Realmshaper": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Architecture Lore": {
+          "name": "Знание (архитектура)"
+        },
+        "Art Lore": {
+          "name": "Знание (искусство)"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Azhana": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Bee Covered Ohancanu": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Besieged Logging Crew": {
+      "items": {
+        "Lumber Lore": {
+          "name": "Знание (древесина)"
+        }
+      }
+    },
+    "Blighted Speaker in Spores": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Bonebleacher Bugbear": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        },
+        "Hatchet": {
+          "name": "Топорик"
+        }
+      }
+    },
+    "Bystander": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Chetamog": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Coiled Conifer": {
+      "items": {
+        "Root": {
+          "name": "Корень"
+        }
+      }
+    },
+    "Drinesh": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Druulbach": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Durnolith": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Emorga All-Seer": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Eyelet": {
+      "items": {
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Gritblight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Hateful Bear": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Hateful Hodag": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Hateful Logger": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Inrik Vanderholl": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Izurran": {
+      "items": {
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Khasprickle": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Koata Inuu": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Leshy Mob": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Luruvin": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Ogre Bully": {
+      "items": {
+        "Hatchet": {
+          "name": "Топорик"
+        }
+      }
+    },
+    "Ohancanu": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Old Thornbarker": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Otis": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Phytohydra": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Phytomancer Ghost": {
+      "items": {
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Primal Mantis": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Primal Warden of Zibik": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Putrifer": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Rancorous Druids": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        }
+      }
+    },
+    "Redwood Leshy": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Rootridden": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Ruzadoya Swiftmane": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Ruzadoya's Chosen": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Shadebound Pixie Guard": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Shadow Sage": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Silene": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Splintershank": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Stormdrinker": {
+      "items": {
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Sylvarindarian": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "The Bee-Man of Bellis": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Thrailorn": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Timberweb": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Tumbo": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Unaasi": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Verdant Swordkeeper": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Wildwood Sentry": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Woodweave Caterpillar": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        }
+      }
+    },
+    "Wraithvine": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Wraithvine Offshoot": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zasir": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Zibik": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
     }
   },
   "label": "Wardens Of Wildwood Bestiary"

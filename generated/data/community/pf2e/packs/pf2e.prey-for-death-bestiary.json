@@ -1,7 +1,330 @@
 {
   "entries": {
+    "Agent of Taraksun": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Alktherisa and Omprisgor": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Berserker Ordulf": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Bloodfog": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Bloody Hands": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Celasik": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Divine Living Rune": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Dronuk": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Frost Roc": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Frostripper": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Gorumite Infantry": {
+      "items": {
+        "Gorum Lore": {
+          "name": "Знание (Горум)"
+        }
+      }
+    },
+    "Gorumite Veteran": {
+      "items": {
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Gorumite Warpriest": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Mantis Keeper": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Ordulf Bladecaller": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Rage Rider": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Red Mantis Assassin": {
+      "description": "<b>Источник:</b> Путеводитель по миру<br>\n\nВы — ассасин Красного Богомола, призванный на службу богом-богомолом и поклявшийся преследовать свою жертву до края света и даже дальше.\n\n<p><strong>Посвящение Ассасина Красного Богомола</strong></p>\n\n<p><strong>Простая Магия Красного Богомола</strong></p>\n\n<p><strong>Продвинутая Магия Красного Богомола</strong></p>\n\n<p><strong>Багровый Саван</strong></p>\n\n<p><strong>Хватка Ачакека</strong></p>\n\n<p><strong>Форма Богомола</strong></p>\n\n<p><strong>Исчезновение</strong></p>\n\n<p><strong>Обучение Вернай</strong></p>\n\n<p><strong>Атака Молельщика</strong></p>",
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      },
+      "name": "Ассасин Красного Богомола"
+    },
+    "Red Mantis Conspirator": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Rhysaphine": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Roc Rider": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Saint Fang": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Shirota": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Sister Maeri": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Talaro": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
     "Temperbrand": {
       "name": "Темпербрэнд"
+    },
+    "The First Blade": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "The Promised One": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Valkyrie of Gorum": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Valkyrie Tempest": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Vatumledor": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Vofnir": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
     }
   },
   "label": "Prey For Death Bestiary"

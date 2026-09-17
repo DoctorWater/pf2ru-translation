@@ -1,0 +1,1231 @@
+{
+  "entries": {
+    "Aeolaeka": {
+      "description": "<b>Источник:</b> Основной бестиарий<br>\n<b>Вспомнить информацию</b> СЛ 30 • Небожитель (Религия).<br>\n<b>Внимание:</b> +23; ночное зрение, виброчувствительность (точный) 60\nфутов.<br>\n<b>Языки:</b> драконий, эмпирейский, петран; разговор с камнями, истинная речь.<br>\n<b>Навыки:</b> Атлетика +25, Дипломатия +22, Запугивание +22, Природа\n+23.<br>\n<b>Сил</b> +6, <b>Лвк</b> +4, <b>Вын</b> +7, <b>Инт</b> +2, <b>Мдр</b> +5, <b>Хар</b> +4.<br>\n<b>Снаряжение:</b> +1 разящий боевой молот.\n<hr>\n<b>КБ:</b> 33; <b>Стойкость</b> +25, <b>Реакция</b> +20, <b>Воля</b> +23.<br>\n<b>ПЗ:</b> 250. <b>Уязвимости:</b> холодное железо 15, нечестивый 15.\n<hr>\n<b>Скорость:</b> 25 футов, рытьё 25 футов; скольжение сквозь твердь.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: <i>боевой молот</i> +25 [+20/+15]\n  (магический, священный, толкающее), <b>урон:</b> 2d8+12 дробящий</span>\n<span class=\"in-box-ability\"><b>Врождённые сакральные заклинания</b> (СЛ 32, атака +24): <b>6 круг</b> — окаменение,\nустойчивая опора; <b>5 круг</b> — излечение, указатель, каменная стена, буря клинков; <b>3 круг</b> — приземление (неограниченно); <b>Постоянные:</b> <b>(5 круг)</b> разговор с камнями, истинная речь.</span><br>\n<span class=\"in-box-ability\"><b>Скольжение сквозь твердь:</b> эолека может использовать Рытьё сквозь\n  грунт или камень. При этом она перемещается с полной скоростью рытья, не оставляя после себя ни туннелей, ни\n  каких-либо следов перемещения.\n</span>\n<span class=\"in-box-ability\"><b>Освобождение земли</b> [two-actions] (земля, концентрация, сакральный): эолека воплощает катящиеся камни на 60-футовой линии. Существа на этой\n  линии получают 10d6 дробящего урона (испытание Реакции со СЛ 35). Область превращается в пересечённую местность на 24\n  часа, пока оставшиеся камни не рассыплются в пыль. После применения способности эолека может использовать её повторно\n  только через 1d4 раунда.\n  <br>\n  <b>Критический успех:</b> существо не получает урона.\n  <br>\n  <b>Успех:</b> существо получает половину урона.\n  <br>\n  <b>Провал:</b> существо получает полный урон и распластывается.\n  <br>\n  <b>Критический провал:</b> существо получает двойной урон, распластывается и неподвижно до\n  Освобождения (СЛ 32) от камней.\n</span>\n<span class=\"in-box-ability\"><b>Статуя</b> [one-action] (концентрация): эолека притворяется статуей, пока\n  не совершит действие. У неё автоматический результат 45 для проверок Обмана и СЛ Обмана при попытках\n  выдать себя за статую.\n</span>",
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      },
+      "name": "Эолека"
+    },
+    "Afziaka Brute": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Hoof": {
+          "name": "Копыто"
+        }
+      }
+    },
+    "Afziaka Stalker": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Agorron Guard": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Scythe": {
+          "name": "Коса"
+        }
+      }
+    },
+    "Ancient Skaveling": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Aquatic Ooze": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Arboreal Snag": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Root": {
+          "name": "Корень"
+        }
+      }
+    },
+    "Arboreal Snag (Axan Wood)": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Root": {
+          "name": "Корень"
+        }
+      }
+    },
+    "Arghun the Annihilator": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Azmakian Effigy": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Basiri, Wellspring Keeper": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Blaanlool": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Bloodshroud": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        }
+      }
+    },
+    "Bulette": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n<b>Вспомнить информацию</b> СЛ 24 • Животное (Природа).<br>\n<b>Внимание:</b> +16; ночное зрение, нюх (вспомогательный) 30 футов.<br>\n<b>Навыки:</b> Акробатика +16, Атлетика +21.<br>\n<b>Сил</b> +7, <b>Лвк</b> +2, <b>Вын</b> +6, <b>Инт</b> -4, <b>Мдр</b> +2, <b>Хар</b> -2.\n<hr>\n<b>КБ:</b> 30; <b>Стойкость</b> +20, <b>Реакция</b> +16, <b>Воля</b> +14.<br>\n<b>ПЗ:</b> 120.\n<hr>\n<b>Скорость:</b> 40 футов, рытьё 30 футов; могучий прыгун.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: челюсти +21 [+16/+11], <b>урон:</b> 2d10+10 колющий</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: когти +21 [+17/+13] (быстрое), <b>урон:</b> 2d8+10 режущий</span>\n<span class=\"in-box-ability\"><b>Излюбленная добыча:</b> булей получает ситуативный бонус +1 к проверкам атаки и броскам урона челюстями против выбранного в качестве излюбленной добычи типа существ. Если не указано иное, такой добычей считаются полурослики. Эльфы никогда не бывают для булеев излюбленной добычей.\n</span>\n<span class=\"in-box-ability\"><b>Удар с наскока</b> [two-actions]: булей совершает Прыжок в высоту или Прыжок в длину. Если в высшей точке Прыжка в высоту или при приземлении при Прыжке в длину булей оказывается рядом с врагом, он может немедленно совершить по нему Удар когтями. Если булей прыгнул хотя бы на 5 футов в высоту или на 20 футов в длину, он может совершить два Удара когтями вместо одного. Штраф за последовательные атаки не увеличивается, пока булей не совершит все Удары когтями в качестве части этого занятия.\n</span>\n<span class=\"in-box-ability\"><b>Могучий прыгун:</b> при успешном Прыжке в высоту булей подпрыгивает на 10 футов (при критически успешном — на 20 футов).\n</span>\n<h3 class=\"h3-header h3-header--legacy\">РАЦИОН БУЛЕЕВ</h3>\nНесмотря на то что булей готовы сожрать почти любое живое существо, которое удалось поймать, большинство особенно радо полакомиться полуросликами или лошадьми. При отсутствии мяса булей едят растения или различные неживые предметы, несмотря на то что никакой питательной ценности они не представляют. По всей видимости, прожорливость этих существ есть лишь проявление некого глубинного инстинкта.",
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      },
+      "name": "Булей"
+    },
+    "Charghar": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        }
+      }
+    },
+    "Chattering Jaws": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Cobblebone Swarm": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Collapsing Bridge": {
+      "description": "<b>Источник:</b> Серия приключений Kingmaker. Руководство по спутникам<br>\n\n<b>Сложность:</b> простая.<br>\n\n<b>Скрытность:</b> СЛ 25 (или 0, если персонаж игрока понял, что опоры на грани обрушения).<br>\n\n<b>Описание:</b> когда опора обрушивается, сам мост с грохотом падает в реку.\n<hr>\n\n<b>Обезвреживание:</b> опоры можно восстановить за несколько недель, тем самым нивелируя опасность. На усмотрение ведущего заклинания вроде каменной стены или силовой стены могут быть использованы для более быстрого укрепления опор, однако такие заклинания, скорее всего, недоступны персонажам игроков в этот момент.<br>\n\n<b>КБ:</b> 21, <b>Стойкость</b> +9, <b>Реакция</b> +9.<br>\n\n<b>Твёрдость опор:</b> 10, <b>ПЗ:</b> 58 (ПП 29), на данный момент каждая имеет 10 ПЗ. <b>Невосприимчивость:</b> критические удары, невосприимчивости объектов, урон за точность.<br>\n\n<span class=\"in-box-ability\"><b>Обрушение</b> [reaction]. <b>Условие:</b> опора уничтожена. Эффект: мост обру- шается. Любое существо, находящееся на мосту между красными пунктирными линиями, падает на 30 футов в воду или на землю, получая соответствующий урон, а также дополнительно 5d6 дробящего урона (обычное испытание Реакции со СЛ 24) от осыпающихся обломков; существо в пределах пяти футов от красной пунктирной линии может попытаться пройти испытание Реакции со СЛ 24 для Хватания за уступ, чтобы не упасть.</span><br>\n\nСущество внизу, находящееся либо непосредственно под мостом, либо в пределах 10 футов от него, должно пройти испытание Реакции со СЛ 24. Существо, не находящееся непосредственно под мостом, улучшает результат своего испытания на одну степень.\n<br>\n\n<b>Критический успех:</b> существо не получает урона.\n<br>\n\n<b>Успех:</b> существо получает 2d8 + 9 дробящего урона.\n<br>\n\n<b>Провал:</b> существо получает 4d8 + 18 дробящего урона и распластывается.\n<br>\n\n<b>Критический провал:</b> существо получает 8d8+ 18 дробящего урона и распластывается, а также становится неподвижно из-за придавивших его обломков рухнувшего моста.",
+      "name": "Падающий мост"
+    },
+    "Creeping Crone": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Crooked Coffin Brewer": {
+      "items": {
+        "Alcohol Lore": {
+          "name": "Знание (алкоголь)"
+        }
+      }
+    },
+    "Dead Faine": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Decrosia": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Drowned Mummy": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    },
+    "Drusilla": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Ectoplasmic Amalgam": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Facetbound Cascader": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Facetbound Nullifier": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Firebrand Bastion": {
+      "items": {
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Ghast Outlaw": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Ghiasi": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ghiasi's Double": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ghiono": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ghoul Antipaladin": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Flail": {
+          "name": "Цеп"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Ghoul Crocodile": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Ghoul Gnawer": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Ghoul Razorclaw": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Grace \"The Rhino\" Owano": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Graelar the Whisper": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Granite Vulture": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Grave Hag": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Guloval": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Harmony In Agony": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Hollow Husk": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Hyrune Loxenna": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Intellect Assemblage": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Iron Taviah": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Kapoacinth": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Kelganth": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Hand": {
+          "name": "Рука"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kemnebi": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Kemnebi's Puppet": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Kepgeda the Hag-Nailed": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Kerinza": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        }
+      }
+    },
+    "Lasheeli": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Matron Uldrula": {
+      "items": {
+        "Boneyard Lore": {
+          "name": "Знание (Костяной двор)"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Meat Guardian": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Scythe": {
+          "name": "Коса"
+        }
+      }
+    },
+    "Mechanical Laborer": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Mithral Golem": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Mosghuta, Boss Cow": {
+      "items": {
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Mummy Valet": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Necrohulk Flailer": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Necrohulk Smasher": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Necromancer Troop": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        }
+      }
+    },
+    "Necromunculus": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Nwanyian Archer": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Nydazuul": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Opkherab": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Pesgahi the Poisoner": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Phantom Soldiers": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Pokmit Bloody-Pike": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longspear": {
+          "name": "Длинное копьё"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Prachalla": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Prince Doriel": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Princess Kerinza": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Pyrogeist": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Restored Doll": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Rival Corpsekiller": {
+      "items": {
+        "Glaive": {
+          "name": "Глефа"
+        }
+      }
+    },
+    "Rival Necromancer": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Rotbomber": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Ruby": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Rumin Purgo": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        }
+      }
+    },
+    "Rust Hag": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Sahni Bride-Of-The-Sea": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Sahreg the Dirge Screamer": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Sallowdrudge": {
+      "items": {
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    },
+    "Seldeg Bheldis": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Shabti Slayer": {
+      "items": {
+        "Boneyard Lore": {
+          "name": "Знание (Костяной двор)"
+        },
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Shabti Votary": {
+      "items": {
+        "Boneyard Lore": {
+          "name": "Знание (Костяной двор)"
+        },
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Shadow Leydroth": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Shadow Worm": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Shadowforged Guardian": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Shimmernewt": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Sickle Blade": {
+      "items": {
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Skeletal Knight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Skeleton Rival Corpsekiller": {
+      "items": {
+        "Glaive": {
+          "name": "Глефа"
+        }
+      }
+    },
+    "Skeleton Rival Necromancer": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Skewering Hall": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Skull Fairy": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Sorvinaesen": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Soul Slime": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Straugh": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Sulvik": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Teaching Assistant": {
+      "items": {
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Tenebric Giant": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Scythe": {
+          "name": "Коса"
+        }
+      }
+    },
+    "Terra-cotta Soldier": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Terrorguard": {
+      "items": {
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Tombstone Troll": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Umbraex": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Urbulinex": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Vampire Guardian": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Vampire Rival Necromancer": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Vampire Taviah": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Vanth Warrior": {
+      "items": {
+        "Boneyard Lore": {
+          "name": "Знание (Костяной двор)"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Scythe": {
+          "name": "Коса"
+        }
+      }
+    },
+    "Vice-Chancellor Vikroti Stroh": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Hand": {
+          "name": "Рука"
+        }
+      }
+    },
+    "Virulak Necromancer": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Virulak Villager": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Weeping Jack": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Wheel Archon": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Yshula": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Yulthruk": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Yurgak": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Flail": {
+          "name": "Цеп"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zombie Chuul": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Zombie Horse": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zombie Hound": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zombie Rival Necromancer": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Zuntishan Guard": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    }
+  },
+  "label": "Blood Lords Bestiary"
+}

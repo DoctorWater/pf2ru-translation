@@ -1,7 +1,611 @@
 {
   "entries": {
+    "\"Lucky\" Lanks": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Akrida": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Alethsia": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Ambrost Mugland": {
+      "items": {
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Anjelique Loveless": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Atticus": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Brighite Herexen": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        }
+      }
+    },
+    "Bristlebane": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Whip": {
+          "name": "Кнут"
+        }
+      }
+    },
+    "Captured Dezullon": {
+      "items": {
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Chemical Zombie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Chimeric Manticore": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Clearwater Cleaner": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Clockwork Buccaneer": {
+      "items": {
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Clockwork Door Warden": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Clockwork Handler": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Clockwork Puppeteer": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Clockwork Shambler": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Clockwork Sphinx": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Compromised Door Warden": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Corrupt Shieldmarshal (Clan Pistol)": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Corrupt Shieldmarshal (Jezail)": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Daelum": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        }
+      }
+    },
+    "Dewey Daystar": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Disgorged Zombie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Drela": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Follower of Shumfallow": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Gilded Gunner Goon": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Gilded Gunner Safecracker": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Glass Buccaneer": {
+      "items": {
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Glass Elephant": {
+      "items": {
+        "Trunk": {
+          "name": "Хобот"
+        },
+        "Tusk": {
+          "name": "Бивень"
+        }
+      }
+    },
+    "Glass Sentry": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Glaz Nixbrix": {
+      "items": {
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Gold Tank Broker": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Gunmarshal": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Hansin": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Headless Rustler": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "I": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Ibrium": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Elemental Lore": {
+          "name": "Знание (элементали)"
+        }
+      }
+    },
+    "Ioton (F6)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Irkem Dresh": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Kreeth-Ni": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Masu": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Mutant Bat": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Mutant Desert Drake": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Mutant Giant Toad": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Ogre Slug": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Palzu": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Parsus": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Powderkeg Punk Bombardier": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Powderkeg Punk Gunner": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Prairie Drake": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Pyronite Ooze": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Roxy": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Rust Ooze": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Scarecophagus": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Shock Zombie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Shoma Lyzerius": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Skeletal Crocodile": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
     "Slick": {
+      "description": "<b>Источник:</b> Основная книга правил<br>\n<b>Использование:</b> носимая броня. <b>Вес:</b> —\n<hr>\n\nЭта руна делает броню скользкой, как будто она покрыта тонким слоем масла. Вы получаете бонус предмета +1 к проверкам Акробатики для Освобождения или Протискивания.\n<h2 class=\"h2-header h2-header--legacy\">СКОЛЬЗКАЯ<span class=\"item-type\">Предмет 5</span></h2>\n<b>Источник:</b> Основная книга правил<br>\n<b>Цена:</b> 45 зм\n<h2 class=\"h2-header h2-header--legacy\">Скользкая (Улучшенная)<span class=\"item-type\">Предмет 8</span></h2>\n<b>Источник:</b> Основная книга правил<br>\n<b>Цена:</b> 450 зм.<br>\n\nБонус предмета увеличивается до +2.\n<h2 class=\"h2-header h2-header--legacy\">Скользкая (Высшая)<span class=\"item-type\">Предмет 16</span></h2>\n<b>Источник:</b> Основная книга правил<br>\n<b>Цена:</b> 9,000 зм.<br>\n\nБонус предмета увеличивается до +3.",
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      },
       "name": "Скользкая"
+    },
+    "Sludgespine Killer": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Smog Giant": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Headbutt": {
+          "name": "Удар головой"
+        }
+      }
+    },
+    "Spellscar Sky Marauder": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Steaming Kingdom Bartender": {
+      "items": {
+        "Alcohol Lore": {
+          "name": "Знание (алкоголь)"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Swee Pup": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "The Claws of Time": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Vewslog": {
+      "items": {
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Vivielle Ramslay": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Yeast Ooze": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
     }
   },
   "label": "Outlaws Of Alkenstar Bestiary"

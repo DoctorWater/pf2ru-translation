@@ -1,0 +1,1183 @@
+{
+  "entries": {
+    "Abendego Brute": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Abendego Jailer": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Abendego Priest": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Ajbal Kimon": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    },
+    "Alate Ant": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Anadi Fateweaver": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Anadi Lurker": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Anadi Seeker": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Ancient Rivener": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Aspect of Hunger": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Aspect of Immortality": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Avatar Of Walkena": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Ba'aupa Mdoudu": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Bharlen Sajor": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Biloko Reaver": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Binji": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Bog Mummy Amalgamation": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Boggard Hunter": {
+      "items": {
+        "Greatclub": {
+          "name": "Двуручная дубина"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Chromatic Ooze": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Clockwork Clock Tower": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Contemplative": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Contemplative Meditant": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Contemplative Mentor": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Cookie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        }
+      }
+    },
+    "Crawling Slurry": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Crimson Acolyte": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Cyclops Bully": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greatclub": {
+          "name": "Двуручная дубина"
+        }
+      }
+    },
+    "Dajermube": {
+      "description": "<b>Источник:</b> Сакральные таинства<br>\nДаджермуб, некогда смертная женщина из народа мванги и потомок бога Чохара, возглавила восстание против Совета Мваньиса, стремившегося уничтожить почитание Древних Солнечных Богов. Попытка обрести божественность в храме Затмения была прервана на пике, когда её сразила арбалетная стрела, обрекая Даджермуб на мучительные столетия между жизнью и смертью, пока герои не освободили храм и не позволили завершить её преображение. Её облик двойственен: на свету она предстаёт высокой темнокожей женщиной с гривой кудрей, подсвеченных солнцем, а в тени её формы уподобляются изящной львице, что отражено в её символе — луне, затмевающей солнце. Она олицетворяет безопасность укрытия во тьме и очищающую силу света, поощряя последователей помогать другим, не забывая о собственных устремлениях, и использовать все доступные средства, прокладывая уникальные пути. Даджермубе охраняет тех, кто ищет спасения в тени, запрещая использовать тьму для вреда невинным, и стремится свергнуть бога-короля Валкену, чтобы вернуть престол жителям Мзали, одновременно осваивая пределы своей новой божественной силы и восстанавливая утраченные способности повеливания светом и тенью.<br>\n<b>Категория:</b> прочие боги.<br>\n<b>Наказы:</b> стремиться к своим собственным целям, прокладывать свой собственный путь, когда просят, стараться помогать другим достигать их цели, использовать все свои ресурсы.<br>\n<b>Табу:</b> намеренно мешать другим достигать благородных целей, поддерживать других, забывая о себе, и наоборот, использовать тени для причинения вреда невинным.<br>\n<b>Область интересов:</b> путешествия, самореализация, тени.<br>\n<b>Религиозный символ:</b> луна, частично затмевающая солнце.<br>\n<b>Священное животное:</b> лев.<br>\n<b>Священные цвета:</b> золотой, зелёный, серебряный\n<h2 class=\"h2-header\">Преимущества Последователей</h2>\n<b>Воспитанный в вере:</b> сила или Мудрость.<br>\n<b>Божественный источник:</b> повреждение или излечение.<br>\n<b>Дескриптор:</b> можно выбрать «священный».<br>\n<b>Божественный навык:</b> Атлетика.<br>\n<b>Любимое оружие:</b> двуручный клевец.<br>\n<b>Домены:</b> амбиции, свобода, луна, солнце.<br>\n<b>альтернативные домены:</b> города, самоанализ, звёзды, рвение.<br>\n<b>Заклинания жреца:</b> 1 круг: тёмные нити, 2 круг: маскировка в полутени, 5 круг: лунное бешенство",
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      },
+      "name": "Даджермуб"
+    },
+    "Damibwa": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Dimari-Diji": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Drenchdead": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Dwandek": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Hand": {
+          "name": "Рука"
+        }
+      }
+    },
+    "Fire-pot Ubanu": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Formian Mageslayer": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Formian Queen": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Formian Worker": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Froglegs": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Gambulami": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Gbahali": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Giant Mining Bee": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Giant Tsetse Fly": {
+      "items": {
+        "Proboscis": {
+          "name": "Хоботок"
+        }
+      }
+    },
+    "Giant Worker Bee": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Gluttonworm": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Gnagrif": {
+      "items": {
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        }
+      }
+    },
+    "Gold Defender": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Golgopo": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Grave Karina": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Great Grodair": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Grippli Jinxer": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Grippli Skirmisher": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Grouloop": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        },
+        "Sickle": {
+          "name": "Серп"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Halbrux Far-sight": {
+      "items": {
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Greatclub": {
+          "name": "Двуручная дубина"
+        }
+      }
+    },
+    "Hivebound Arboreal": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Root": {
+          "name": "Корень"
+        }
+      }
+    },
+    "I'iko Dragon": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Ikeshti Brood-Minder": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Iobane Magus": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Ixamè": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Horn": {
+          "name": "Рог"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Jackal Guard": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Karumzek": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Karumzek Swarm": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Kilia Mwibo": {
+      "items": {
+        "Root": {
+          "name": "Корень"
+        }
+      }
+    },
+    "King of Biting Ants": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Kiru": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Kolbo": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Kreekoss": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Kurshkin": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Lignified Adamantine Golem": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Living Sun-Spire": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Loakan": {
+      "items": {
+        "Cooking Lore": {
+          "name": "Знание (кулинария)"
+        },
+        "Greatclub": {
+          "name": "Двуручная дубина"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Mashkudu The Bully": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Mpeshi": {
+      "items": {
+        "Horn": {
+          "name": "Рог"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Mpondo": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Bastard Sword": {
+          "name": "Меч-бастард"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Mutated Sewer Ooze": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Nairu": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Nkiruka": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Norgorberite Spy": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Old Thrasher": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Onyiji": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Pugwampi (SoT)": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Ravager Of Tindalos": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Reborn Sun Hunter": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Reborn Sun Mage": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Reborn Sun Warrior": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Red Commander Ant": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Red Guard Ant": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Red Queen": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Reth": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Riding Frog": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Salathiss": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Screaming Sulfur": {
+      "items": {
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Serpentfolk Granitescale": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Longspear": {
+          "name": "Длинное копьё"
+        }
+      }
+    },
+    "Serpentfolk Venom Caller": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Shianshi Waymaker": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        }
+      }
+    },
+    "Shobhad Enforcer": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        }
+      }
+    },
+    "Shobhad Sniper": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Skartitch Chip-Tooth": {
+      "items": {
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Slana": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Soul Swarm": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Sparkeater": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Spawn of Taon": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Ssumzili": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Stone Ghost": {
+      "items": {
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Sun Warrior Brigade": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Sunburst Corpse": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Ta'apundo": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        }
+      }
+    },
+    "Takulu Ot": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Taon": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Tatterthread": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Terwa Chosen": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Terwa Prodigy": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Terwa Star Reader": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Tollvych": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Ghostly Hand": {
+          "name": "Призрачная рука"
+        }
+      }
+    },
+    "Umbo": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Unshadowed Anchor Root": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Unshadowed Haibram": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Unshadowed Koride": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Unshadowed Mariama": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Unshadowed Okoro": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Games Lore": {
+          "name": "Знание (игры)"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Urbel": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Pick": {
+          "name": "Клевец"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Wereant Poisoner": {
+      "items": {
+        "Kukri": {
+          "name": "Кукри"
+        }
+      }
+    },
+    "Worknesh": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Yonsuu": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    },
+    "Yorulu": {
+      "items": {
+        "Sap": {
+          "name": "Мягкая дубинка"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    }
+  },
+  "label": "Strength Of Thousands Bestiary"
+}

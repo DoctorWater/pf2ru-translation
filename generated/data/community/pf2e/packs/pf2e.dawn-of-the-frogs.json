@@ -1,0 +1,39 @@
+{
+  "entries": {
+    "Boggard Guard": {
+      "items": {
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Leather Cap": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Young Monitor Lizard": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Zungur": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Tongue": {
+          "name": "Язык"
+        },
+        "Trident": {
+          "name": "Трезубец"
+        }
+      }
+    }
+  },
+  "label": "Standalone Adventures"
+}

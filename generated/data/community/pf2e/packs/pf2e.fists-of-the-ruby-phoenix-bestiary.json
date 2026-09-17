@@ -1,0 +1,835 @@
+{
+  "entries": {
+    "Abbot Tsujon": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Amihan": {
+      "items": {
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Angoyang": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Anugobu Apprentice": {
+      "items": {
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Anugobu Wondercrafter": {
+      "items": {
+        "Engineering Lore": {
+          "name": "Знание (инженерия)"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Archery Specialist": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Arms of Balance (Jivati Rovat)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Arms of Balance (Pravan Majinapti)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Arms of Balance (Ranya Shibhatesh)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Arms of Balance (Usvani)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Artus Rodrivan": {
+      "items": {
+        "Elven Curve Blade": {
+          "name": "Эльфийская сабля"
+        }
+      }
+    },
+    "Blue Viper (Level 14)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Blue Viper (Level 16)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Blue Viper (Level 20)": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Bul-Gae": {
+      "description": "<b>Источник:</b> Тянь-Ша. Путеводитель по миру<br>\n\n<b>Вспомнить информацию</b> СЛ 32 • Зверь (Мистицизм, Природа).<br>\n<b>Внимание:</b> +26; ночное зрение, нюх (вспомогательный) 60 футов.<br>\n\n<b>Языки:</b> тяньский.<br>\n\n<b>Навыки:</b> Атлетика +28, Запугивание +23, Скрытность +23, Выживание +25.<br>\n\n<b>Сил</b> +8, <b>Лвк</b> +4, <b>Вын</b> +7, <b>Инт</b> +5, <b>Мдр</b> +6, <b>Хар</b> +4.\n<hr>\n\n<b>КБ:</b> 33; <b>Стойкость</b> +28, <b>Реакция</b> +22, <b>Воля</b> +25.<br>\n\n<b>ПЗ:</b> 255. <b>Устойчивость:</b> холод 15, огонь 15.<br>\n\n<span class=\"in-box-ability\"><b>Аура затмения</b> (аура, оккультный, тьма): 100 футов. Свет и тени причудливо искажаются вокруг буль-гэ. Немагический яркий свет ослабляется до тусклого в пределах ауры. Когда существо пытается совершить действие с дескриптором свет в пределах ауры, оно должно пройти испытание Воли СЛ 34. При провале действие прерывается.</span>\n<span class=\"in-box-ability\"><b>Солнечная вспышка</b> (огонь, оккультный). <b>Условие:</b> буль-гэ получает урон. <b>Эффект:</b> буль-гэ выпускает солнечную вспышку в пределах 30-футовой эманации. Каждое существо в области получает 6d8 урона огнём (обычное испытание Реакции СЛ 34). При критическом провале существо также получает 2d10 продолжительного урона огнём. После использования этой способности пламя буль-гэ остывает, и он не может использовать <i>Солнечную вспышку</i> снова до тех пор, пока не использует способность Лунный взрыв.</span>\n<hr>\n\n<b>Скорость:</b> 40 футов.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: челюсти +27 [+23/+19] (быстрое), <b>урон:</b> 2d8+12 колющий и 2d6 холод или огонь и Нокдаун</span>\n<span class=\"in-box-ability\"><b>Мастерство температур:</b> буль-гэ обладает полным контролем над силами холода и огня. Каждый раз, когда он атакует своими челюстями, он может по желанию сделать так, чтобы дополнительный урон был либо уроном холодом, либо уроном огнём.</span>\n<span class=\"in-box-ability\"><b>Лунный взрыв</b> [two-actions] (оккультный, холод): буль-гэ выпускает поток потустороннего холода, который наносит 6d8 урона холодом каждому существу в пределах 10-футовой эманации (обычное испытание Реакции СЛ 34). При критическом провале существо также получает состояние замедление 2 на 1 раунд. После использования этого умения пламя буль-гэ разгорается, и он не может использовать Лунный взрыв снова, пока не применит своё ответное действие Солнечная вспышка.</span>\n<span class=\"in-box-ability\"><b>Теневой скачок</b> [one-action] (оккультный, телепортация, тень). <b>Условие:</b> буль-гэ находится в области тусклого света или темноте. <b>Эффект:</b> буль-гэ ныряет внутрь одной тени и появляется вновь в другой, расположенной в пределах 40 футов от исходной позиции.</span>\n<h3 class=\"h3-header\"> Затменный свет</h3>\nБуль-гэ приносят с собой искажённый свет затмения, куда бы они ни отправились. Этот искажённый свет придаёт окружающему свету синий отттенок и смещает спектр видимых цветов, придавая миру зловещую, приглушённую атмосферу.",
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      },
+      "name": "Буль-гэ"
+    },
+    "Canopy Elder": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Root": {
+          "name": "Корень"
+        },
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Caustic Monitor": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Desecrated Guardian": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Drake Courser": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Dread Roc": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Dromornis": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Elder Cauthooj": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Flying Mountain Kaminari": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Golarion's Finest (Brartork)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Golarion's Finest (Han)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Golarion's Finest (Jun)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Golarion's Finest (Krankkiss)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Golarion's Finest (Mingyu)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Golarion's Finest (Numoriz)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Golarion's Finest (Paunnima)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Golarion's Finest (Rajna)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Gomwai": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Grandfather Mantis": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Grave Spinosaurus": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Gumiho": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Halspin the Stung": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Hantu Belian": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hantu Denai": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Huldrin Skolsdottir": {
+      "items": {
+        "Trident": {
+          "name": "Трезубец"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Hummingbird": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Inmyeonjo": {
+      "items": {
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Jaiban": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Ji-yook (Gumiho Form)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Ji-yook (Level 13)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Ji-yook (Level 9)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Jin-hae": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Joon-seo": {
+      "items": {
+        "Whip": {
+          "name": "Кнут"
+        }
+      }
+    },
+    "Kas Xi Rai": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Ki Adept": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Ki Adept (Ahmoza Twins)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Koto Zekora": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greatclub": {
+          "name": "Двуручная дубина"
+        }
+      }
+    },
+    "Kun": {
+      "description": "<b>Источник:</b> Тянь-Ша. Путеводитель по миру<br>\n\n<b>Вспомнить информацию</b> СЛ 34 • Зверь (Мистицизм, Природа).<br>\n<b>Внимание:</b> +27; ночное зрение, Световая Слепота, Волночувствительность 60 футов.<br>\n\n<b>Языки:</b> талассийский; (не может говорить).<br>\n\n<b>Навыки:</b> Акробатика +25, Атлетика +29, Запугивание +22, Выживание +25.<br>\n\n<b>Сил</b> +8, <b>Лвк</b> +4, <b>Вын</b> +7, <b>Инт</b> +1, <b>Мдр</b> +5, <b>Хар</b> +4.\n<hr>\n\n<b>КБ:</b> 36; <b>Стойкость</b> +29, <b>Реакция</b> +24, <b>Воля</b> +23.<br>\n\n<b>ПЗ:</b> 230. <b>Устойчивость:</b> холод 10. <b>Уязвимости:</b> священный 10.<br>\n\n<span class=\"in-box-ability\"><b>Злоба</b> [reaction]. <b>Условие:</b> существо, находящееся в пределах досягаемости хвоста Куня, использует действие, чтобы исцелить или помочь кому-либо ещё <b>Эффект:</b> Кунь отбивает спровоцировавшее существо своим хвостом, нанося Удар. При попадании действие прерывается, и существо отбрасывается на 10 футов.</span>\n<span class=\"in-box-ability\"></span>\n<hr>\n\n<b>Скорость:</b> плавание 40 футов.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: челюсти +28 [+23/+18] (длинное 15 футов), <b>урон:</b> 3d12+14 колющий и Хватка и Сердце тьмы</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: хвост +28 [+23/+18] (длинное 20 футов, размашистое), <b>урон:</b> 3d12+14 дробящий</span>\n<span class=\"in-box-ability\"><b>Врождённые первобытные заклинания</b> (СЛ 32): <b>7 круг</b> — тьма (неограниченно), стена льда; <b>5 круг</b> — власть над водой (неограниченно).</span><br>\n\n<span class=\"in-box-ability\"><b>Горловина</b> [two-actions] (вода, первобытный, холод): Кунь резко вдыхает, втягивая тепло и всех существ, находящихся в воде, в 60-футовом конусе. Существа получают 10d8 урона холодом и должны пройти испытание Стойкости со СЛ 33. Кунь не может вновь использовать Горловину в течение 1d4 раунда.<br>\n\n<b>Критический успех:</b> существо избегает эффекта.<br>\n\n<b>Успех:</b> существо получает половину урона.<br>\n\n<b>Провал:</b> существо получает полный урон и притягивается на 30 футов к Куню.<br>\n\n<b>Критический провал:</b> существо получает двойной урон и притягивается на 60 футов к Куню.\n</span>\n<span class=\"in-box-ability\"><b>Сердце тьмы:</b> всякий раз, когда Кунь наносит удар челюстями из области темноты, его челюсти наносят дополнительный урон духом в размере 2d6 и приобретают дескриптор нечестивый.\n</span>\n<span class=\"in-box-ability\"><b>Проглатывание</b> [one-action] (атака): Огромный, 3d12+7 дробящий, Прорыв 30</span>\n<h3 class=\"h3-header\"> Перемена в сердце</h3>\nВ крайне редких случаях и по своим собственным загадочным причинам Кунь может пожертвовать частью своей силы, чтобы претерпеть постоянную, разовую трансформацию. В конце этой трансформации Кунь выпрыгивает из океана, позволяя солнцу полностью окутать его. В процессе этого Кунь превращается из ненавистной рыбы в благородную и любопытную птицу называемую Пэн.",
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      },
+      "name": "Кунь"
+    },
+    "Lantondo": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Lophiithu": {
+      "items": {
+        "Innate Occult Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Maalya": {
+      "items": {
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Mafika Ayuwari": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Mage of Many Styles": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Mammoth Turtle": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Master Xun": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Muckish Creep": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Nai Yan Fei": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Old Man Statue": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Orochi": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Planar Terra-cotta Soldier": {
+      "items": {
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Portal Eater": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Rai Sho Disciple": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Rai Sho Postulant": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Ran-to (Level 14)": {
+      "items": {
+        "Gauntlet": {
+          "name": "Латная рукавица"
+        }
+      }
+    },
+    "Ran-to (Level 16)": {
+      "items": {
+        "Gauntlet": {
+          "name": "Латная рукавица"
+        }
+      }
+    },
+    "Ran-to (Level 20)": {
+      "items": {
+        "Gauntlet": {
+          "name": "Латная рукавица"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Razu": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Rivka (Cimurlian)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Rivka (Igroon)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Rivka (Kujiba)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Rivka (Mogaru)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Rivka (Yorak)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Sanzuwu": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Shadow Yai": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Glaive": {
+          "name": "Глефа"
+        }
+      }
+    },
+    "Shino Hakusa (Level 14)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Shino Hakusa (Level 16)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Sigbin": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Sixth Pillar Student": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Speakers to the Wind (Gnoll Cascade Bearer)": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Spinel Leviathan Syndara": {
+      "items": {
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Spirit Turtle": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Sthira": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Greatsword": {
+          "name": "Двуручный меч"
+        }
+      }
+    },
+    "Syu Tak-nwa (Level 20)": {
+      "items": {
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Taiga Yai": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Takatorra (Level 13)": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Takatorra (Level 9)": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Tamikan": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Tino (Oni Form)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Head": {
+          "name": "Голова"
+        }
+      }
+    },
+    "Tino Tung (Level 13)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Tino Tung (Level 9)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Troff Frostknuckles": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Tyrannosaurus Imperator": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Umbasi": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Urnak Lostwind": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Watchtower Poltergeist": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Weapon Master": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Weapon Master (Under the Pale Sun Dervishes)": {
+      "items": {
+        "Scimitar": {
+          "name": "Скимитар"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Yabin (White Serpent Form)": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Yarrika Mulandez": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    }
+  },
+  "label": "Fists Of The Ruby Phoenix Bestiary"
+}

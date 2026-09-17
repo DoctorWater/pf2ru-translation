@@ -1,0 +1,581 @@
+{
+  "entries": {
+    "Abyss-warped Trees": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        }
+      }
+    },
+    "Arboreal Tar Tree": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Ardissa Prendergant": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Ashen Swale": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Azi": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Bargott": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Beaver": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Bone Warrior": {
+      "items": {
+        "Bastard Sword": {
+          "name": "Меч-бастард"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Burning Mammoth Commando": {
+      "items": {
+        "Hatchet": {
+          "name": "Топорик"
+        }
+      }
+    },
+    "Burning Mammoth Hunter": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Burning Mammoth Longshield": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Burning Mammoth Reaver": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        }
+      }
+    },
+    "Cairn Wight (G4)": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Calcifda": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Castoroides": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Corrupted Elder Tree": {
+      "items": {
+        "Branch": {
+          "name": "Ветвь"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Root": {
+          "name": "Корень"
+        }
+      }
+    },
+    "Desiak": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Elk": {
+      "description": "<b>Источник:</b> Рёв дикой природы<br>\n\nВаш верный зверь — это лось или другие подобные сохатые, например, карибу, крупная лань или олень.<br>\n\n<b>Размер:</b> средний или Крупный.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: рога, <b>урон:</b> 1d8 колющий.</span><br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: копыто (быстрое), <b>урон:</b> 1d6 дробящий.</span><br>\n\n<b>Сил</b> +3, <b>Лвк</b> +2, <b>Вын</b> +2, <b>Инт</b> -4, <b>Мдр</b> +1, <b>Хар</b> +0.<br>\n\n<b>Пункты здоровья:</b> 8.<br>\n\n<b>Навык:</b> Запугивание.<br>\n\n<b>Восприятие:</b> сумеречное зрение.<br>\n\n<b>Скорость:</b> 30 футов.<br>\n\n<b>Примечание:</b> скакун.<br>\n\n<b>Поддержка:</b> ваш лось демонстрирует угрозу, размахивая рогами. До начала вашего следующего хода, каждый раз, когда вы попадаете Ударом по существу в зоне досягаемости лося, оно получает состояние испуг 1.<br>\n\n<b>Особый манёвр:</b> бросок рогами\n\n<p><strong>Antler Catapult</strong></p>",
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        }
+      },
+      "name": "Лось"
+    },
+    "Everburning Mammoth": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Gathganara": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Giant Tapir": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Giant Tapir (Snared)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Glyptodon": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Graylok Ambusher": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Hatchet": {
+          "name": "Топорик"
+        }
+      }
+    },
+    "Graylok Artillerist": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Graylok Gatebreaker": {
+      "items": {
+        "Battle Axe": {
+          "name": "Боевой топор"
+        }
+      }
+    },
+    "Groplit": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Hegremon": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Hobji": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Idovik": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Tusk": {
+          "name": "Бивень"
+        }
+      }
+    },
+    "Ivarsa": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Jesseri The Hailstorm": {
+      "items": {
+        "Primal Spontaneous Spells": {
+          "name": "Спонтанные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Kadlaka": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Longspear": {
+          "name": "Длинное копьё"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Lagofir": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Loblobi": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Lomok": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Long-horned Bison": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Long-horned Bison Beheaded": {
+      "items": {
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Megaloceros": {
+      "description": "<b>Источник:</b> Серия приключений Kingmaker<br>\n\n<b>Вспомнить информацию</b> СЛ 21 • Животное (Природа).<br>\n<b>Внимание:</b> +10; сумеречное зрение, нюх (вспомогательный) 30 футов.<br>\n\n<b>Навыки:</b> Атлетика +13, Выживание +10.<br>\n\n<b>Сил</b> +5, <b>Лвк</b> +3, <b>Вын</b> +5, <b>Инт</b> -4, <b>Мдр</b> +2, <b>Хар</b> +0.\n<hr>\n\n<b>КБ:</b> 21; <b>Стойкость</b> +13, <b>Реакция</b> +11, <b>Воля</b> +8.<br>\n\n<b>ПЗ:</b> 58.<br>\n\n<span class=\"in-box-ability\"><b>Сбрасывание</b> [reaction]: СЛ 21</span>\n<hr>\n\n<b>Скорость:</b> 50 футов.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: оленьи рога +13 [+8/+3] (смертоносное d8), <b>урон:</b> 2d6+7 колющий</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: копыто +13 [+9/+5] (быстрое), <b>урон:</b> 2d4+7 дробящий</span>\n<span class=\"in-box-ability\"><b>Яростный натиск</b> [two-actions]: мегалоцерос совершает Перемещение дважды и Удар копытом. При попадании мегалоцерос дополнительно наносит 2d4 дробящего урона.</span>\n<h3 class=\"h3-header\"> РОГА МЕГАЛОЦЕРОСА</h3>\nРога мегалоцероса — один из самых впечатляющих трофеев, за который, как известно, можно выручить изрядную сумму среди коллекционеров, особенно тех, кто живёт вдали от регионов, где обитают эти величественные олени. За комплект рогов мегалоцероса в отличном состоянии можно выручить 20 зм, но, как и в случае с любыми другими трофеями, торговля такими изделиями может привлечь внимание злобных друидов, мстительных следопытов или возмущённых натуралистов.",
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        }
+      },
+      "name": "Мегалоцерос"
+    },
+    "Metuak": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Hatchet": {
+          "name": "Топорик"
+        }
+      }
+    },
+    "Necrohusk": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Pakano": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Pakano (Level 12)": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Rhino Warriors": {
+      "items": {
+        "Pick": {
+          "name": "Клевец"
+        }
+      }
+    },
+    "Rime Sludge": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Roru": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Skeletal Woolly Rhinoceros": {
+      "items": {
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Summer Hora": {
+      "items": {
+        "Astronomy Lore": {
+          "name": "Знание (астрономия)"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Summer Hora Queen": {
+      "items": {
+        "Astronomy Lore": {
+          "name": "Знание (астрономия)"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Tar Ooze": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Tar Zombie Mammoth": {
+      "items": {
+        "Trunk": {
+          "name": "Хобот"
+        },
+        "Tusk": {
+          "name": "Бивень"
+        }
+      }
+    },
+    "Tar Zombie Predator": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Tar Zombie Snatcher": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Throttled Blindheim": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Turkek": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Varilyn \"Vare\" Eridge": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Venexus": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Venexus's Chosen": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Venexus's Wyrmling": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Weykoward": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Yana No-trail": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Zombie Mammoth": {
+      "description": "<b>Источник:</b> Book of the Dead<br>\n\n<b>Вспомнить информацию</b> СЛ 28 • Нежить (Религия).<br>\n<b>Внимание:</b> +17; Ночное зрение.<br>\n\n<b>Навыки:</b> Атлетика +24.<br>\n\n<b>Сил</b> +7, <b>Лвк</b> +0, <b>Вын</b> +5, <b>Инт</b> -5, <b>Мдр</b> +2, <b>Хар</b> -3.<br>\n\n<span class=\"in-box-ability\"><b>Медленный:</b> у зомби постоянно замедление 1, он не может использовать ответные действия.</span>\n<hr>\n\n<b>КБ:</b> 27; <b>Стойкость</b> +22, <b>Реакция</b> +15, <b>Воля</b> +19.<br>\n\n<b>ПЗ:</b> 290 (пустотное исцеление). <b>Невосприимчивость:</b> эффекты с дескриптором смерть, болезнь, ментальный, паралич, яд, без сознания. <b>Уязвимости:</b> позитивный 10, режущий 10.<br>\n\n<span class=\"in-box-ability\"><b>Отсекание хобота:</b> если мамонт-зомби получает критический удар атакой, наносящей режущий урон, эта атака отсекает его хобот. Все схваченные или обездвиженные хоботом существа немедленно освобождаются, а мамонт лишается Удара хоботом и Улучшенного сдавливания.<br>\n\nХобот начинает ползать по полю боя самостоятельно, действуя в инициативе сразу после мамонта. Он обладает всеми характеристиками мамонта-зомби, но у него КБ 23, 50 ПЗ и скорость 10 футов; кроме того, он не способен совершать Удары ногой, Удары бивнем и Шаткое затаптывание. Урон, нанесённый отсечённому хоботу, не влияет на самого мамонта. \n</span>\n<hr>\n\n<b>Скорость:</b> 45 футов.<br>\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: бивень +24 [+19/+14] (зона досягаемости 15 футов), <b>урон:</b> 3d10+13 колющий\n</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: хобот +24 [+19/+14] (зона досягаемости 15 футов), <b>урон:</b> 2d10+7 дробящий и Улучшенная Хватка\n</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: стопа +24 [+19/+14] (зона досягаемости 10 футов), <b>урон:</b> 2d10+13 дробящий\n</span>\n<span class=\"in-box-ability\"><b>Улучшенное Сдавливание</b> [one-action]: 2d10+7 дробящий, СЛ 30\n</span>\n<span class=\"in-box-ability\"><b>Шаткое затаптывание</b> [two-actions]: As Затаптывание (крупный или меньше, нога, СЛ 30), но мамонт-зомби перемещается на расстояние вплоть до своей скорости, а не вплоть до удвоенной скорости.\n</span>",
+      "items": {
+        "Trunk": {
+          "name": "Хобот"
+        },
+        "Tusk": {
+          "name": "Бивень"
+        }
+      },
+      "name": "Мамонт-зомби"
+    },
+    "Zombie Megaloceros": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        }
+      }
+    }
+  },
+  "label": "Quest For The Frozen Flame Bestiary"
+}

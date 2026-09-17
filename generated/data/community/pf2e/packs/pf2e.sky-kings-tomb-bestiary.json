@@ -1,0 +1,680 @@
+{
+  "entries": {
+    "Alchemist Ivy": {
+      "items": {
+        "Sap": {
+          "name": "Мягкая дубинка"
+        },
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Algerschmick": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Anarchic Living Graffiti": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Ancestor Statue": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Ashrin": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        }
+      }
+    },
+    "Blacknoon Apprentice": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Bronwyl Holloward": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Caligni Assassin": {
+      "items": {
+        "Spiked Gauntlet": {
+          "name": "Шипованная латная рукавица"
+        }
+      }
+    },
+    "Crimson Worm Statue": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Dwarven Monster Hunter": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        }
+      }
+    },
+    "Enraged Dream": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ether Sprite": {
+      "items": {
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Fazil": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Four-Tooth": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Giant Bloodseeker": {
+      "items": {
+        "Proboscis": {
+          "name": "Хоботок"
+        }
+      }
+    },
+    "Glacial Worm": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Gray Worm": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Hagegraf Royal Guard": {
+      "items": {
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Heartbroken Dream": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Heldin Ulgincamp": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Hhrulkaz": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Hrungul Ironeye": {
+      "items": {
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Hryngar Assassin": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hryngar Battlepriest": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hryngar Forgepriest": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Light Hammer": {
+          "name": "Лёгкий молот"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hryngar King's Agent": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hryngar Officer": {
+      "items": {
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Hryngar Rager": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hryngar Skull Collector": {
+      "items": {
+        "Greataxe": {
+          "name": "Двуручный топор"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Hryngar Veteran": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Hyphae Tyrant": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Jinkin": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n<b>Вспомнить информацию</b> СЛ 15 • Фея (Природа).<br>\n<b>Внимание:</b> +7; ночное зрение.<br>\n<b>Языки:</b> подземный.<br>\n<b>Навыки:</b> Акробатика +7, Ремесло +5 (+7 для ловушек), Обман +5, Природа +5, Скрытность +7, Воровство +7.<br>\n<b>Сил</b> -2, <b>Лвк</b> +4, <b>Вын</b> +0, <b>Инт</b> +2, <b>Мдр</b> +2, <b>Хар</b> +2.<br>\n<b>Снаряжение:</b> короткий меч.\n<hr>\n<b>КБ:</b> 17; <b>Стойкость</b> +6, <b>Реакция</b> +10, <b>Воля</b> +7.<br>\n<b>ПЗ:</b> 19. <b>Уязвимость:</b> холодное железо 2.\n<hr>\n<b>Скорость:</b> 30 футов.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: короткий меч +9 [+5/+1] (быстрое, магический, универсальное Р, фехтовальное), <b>урон:</b> 1d6-2 колющий</span>\n<br>\n<span class=\"in-box-ability\"><b>Врождённые первобытные заклинания</b> (СЛ 17): <b>Фокусы:</b> <b>(1 круг)</b> мелкие фокусы.</span><br>\n<span class=\"in-box-ability\"><b>Атака исподтишка:</b> джинкин дополнительно наносит 1d6 урона за точность застигнутым врасплох существам.\n</span>\n<span class=\"in-box-ability\"><b>Пакость</b> (первобытный, превращение, проклятие): группа из шести джинкинов может объединиться, чтобы наложить проклятие на предмет на дистанции 60 или менее футов. Процесс занимает 1 час, но при этом незаметен, и джинкины при этом могут Спрятаться. Джинкины предпочитают портить магические предметы. Проклятие делает предмет ненадёжным (при Взаимодействии с предметом или Активации предмета существо совершает чистую проверку со СЛ 5 и при провале тратит дей ствие впустую), добавляет нелепое требование для его использования или создаёт иной эффект схожей силы. </span>",
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      },
+      "name": "Джинкин"
+    },
+    "Juvenile Cave Worm (Azure)": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Juvenile Cave Worm (Crimson)": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Juvenile Cave Worm (Glacial)": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Juvenile Cave Worm (Gray)": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Juvenile Cave Worm (Rock)": {
+      "items": {
+        "Body": {
+          "name": "Тело"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Krohan (Possessed)": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Krohan Veldollow": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Pick": {
+          "name": "Клевец"
+        }
+      }
+    },
+    "Lady Shimmersnip": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Mumkuh": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Narseigus Wormcaller": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Ornery Augdunars": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Plague Zombie": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n<b>Вспомнить информацию</b> СЛ 15 • Нежить (Религия).<br>\n<b>Внимание:</b> +3; ночное зрение.<br>\n<b>Навыки:</b> Атлетика +7.<br>\n<b>Сил</b> +4, <b>Лвк</b> -2, <b>Вын</b> +3, <b>Инт</b> -5, <b>Мдр</b> +0, <b>Хар</b> -2.<br>\n<span class=\"in-box-ability\"><b>Медленный:</b> у зомби постоянно замедление 1, он не может использовать ответные действия.</span>\n<hr>\n<b>КБ:</b> 13; <b>Стойкость</b> +6, <b>Реакция</b> +3, <b>Воля</b> +4.<br>\n<b>ПЗ:</b> 50 (негативное исцеление). <b>Невосприимчивость:</b> эффекты с дескриптором смерть, болезнь, ментальный, паралич, яд, без сознания. <b>Уязвимость:</b> позитивный 10, режущий 10.\n<hr>\n<b>Скорость:</b> 25 футов.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: кулак + 9 [+4/-1], <b>урон:</b> 1d8+4 дробящий, Хватка и зомби-чума</span>\n<span class=\"in-box-ability\"><b>Челюсти</b> [one-action] (атака). <b>Требования:</b> у зомби есть существо в захвате или обездвиженное существо. <b>Эффект:</b> зомби совершает по этому существу безоружный Удар челюстями в ближнем бою (модификатор атаки +9, 1d12 + 4 колющего урона).\n</span>\n<span class=\"in-box-ability\"><b>Зомби-чума</b> (болезнь, некромантия): заражённое существо не может исцелить полученный от зомби-чумы урон, пока не исцелится от болезни. <b>Испытание:</b> стойкости со СЛ 18. <b>Стадия 1:</b>бессимптомный переносчик (1 день). <b>Стадия 2:</b>1d6 негативного урона (1 день). <b>Стадия 3:</b>1d6 негативного урона (1 день). <b>Стадия 4:</b>166 негативного урона (1 день). <b>Стадия 5:</b>смерть, существо немедленно восстаёт из мёртвых в виде чумного зомби.\n</span>",
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      },
+      "name": "Чумной Зомби"
+    },
+    "Redcap Cavalry": {
+      "items": {
+        "Scythe": {
+          "name": "Коса"
+        }
+      }
+    },
+    "Skibrellon": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Slime Puppeteer": {
+      "items": {
+        "Tail": {
+          "name": "Хвост"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Soulbound Doll (Sky King's Tomb)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Soulbound Mauler (Chaotic Evil)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Soulbound Mauler (Chaotic Good)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Soulbound Mauler (Chaotic Neutral)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Soulbound Mauler (Lawful Evil)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Soulbound Mauler (Lawful Good)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Soulbound Mauler (Lawful Neutral)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Soulbound Mauler (Neutral Evil)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Soulbound Mauler (Neutral Good)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Soulbound Mauler (Neutral)": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Sporeborn Myceloid": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Sporeborn Sheep": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Stonemaker": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Stoneriver": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        },
+        "Tongue": {
+          "name": "Язык"
+        }
+      }
+    },
+    "Tuom Molgrade": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Hatchet": {
+          "name": "Топорик"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Ulat-Kini Initiate": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Ulat-Kini Mindreaver": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Unfeeling Empath": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Veavieve": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Voxnia": {
+      "items": {
+        "Arcane Spontaneous Spells": {
+          "name": "Спонтанные мистические заклинания"
+        },
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Zivzeb": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    }
+  },
+  "label": "Sky Kings Tomb Bestiary"
+}

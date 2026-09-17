@@ -1,0 +1,581 @@
+{
+  "entries": {
+    "Adiutor": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Adjutant Hellknight Armiger": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Alceo Demetrias": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Aurocan": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Horn": {
+          "name": "Рог"
+        }
+      }
+    },
+    "Besunas": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Brakknap": {
+      "items": {
+        "Divine Spontaneous Spells": {
+          "name": "Спонтанные сакральные заклинания"
+        }
+      }
+    },
+    "Caeto Vulaunex": {
+      "items": {
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Captain Lamperia Bane": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Rapier": {
+          "name": "Рапира"
+        }
+      }
+    },
+    "Chelaxian Loyalist": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Chelaxian Loyalist Leader": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Chelaxian Recruit": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Coarti Spy": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Deathless Acolyte of Urgathoa": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        },
+        "Scythe": {
+          "name": "Коса"
+        }
+      }
+    },
+    "Draconic Fumecrux": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Drude": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Drunken Isgeri Slayer": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Elite Ort": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Erinys Sister Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Ezio Gaeta": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "False Hellbreaker": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        }
+      }
+    },
+    "Fiendish Viro Ahala": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Gauntlet": {
+          "name": "Латная рукавица"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Gliding River Snake": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Godclaw Hellcrown": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Gredress Tilnanos": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Demon Lore": {
+          "name": "Знание (демоны)"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longspear": {
+          "name": "Длинное копьё"
+        }
+      }
+    },
+    "Hecatinia": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Hedvend VI": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Hellknight Field-Maralictor": {
+      "items": {
+        "Bastard Sword": {
+          "name": "Меч-бастард"
+        },
+        "Gauntlet": {
+          "name": "Латная рукавица"
+        },
+        "Spear": {
+          "name": "Копьё"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Hestlebeth": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Illcayna Alonnor": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Insidiator": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Wing": {
+          "name": "Крыло"
+        }
+      }
+    },
+    "Instillo": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Isgeri Slayer": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Jordis Serelli": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Kylix": {
+      "items": {
+        "Alcohol Lore": {
+          "name": "Знание (алкоголь)"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Lefranek Meyal": {
+      "items": {
+        "Sickle": {
+          "name": "Серп"
+        }
+      }
+    },
+    "Nayren Allurajix": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        },
+        "Whip": {
+          "name": "Кнут"
+        }
+      }
+    },
+    "Novice Hellknight Armiger": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Morningstar": {
+          "name": "Моргенштерн"
+        }
+      }
+    },
+    "Novitiate of the Golden Erinys": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Odvolos": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Longspear": {
+          "name": "Длинное копьё"
+        }
+      }
+    },
+    "Phoebe Demetrias": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Redcap": {
+      "description": "<b>Источник:</b> Бестиарий<br>\n<b>Вспомнить информацию</b> СЛ 20 • Фея (Природа).<br>\n<b>Внимание:</b> +12; сумеречное зрение.<br>\n<b>Языки:</b> всеобщий, сильван.<br>\n<b>Навыки:</b> Акробатика +13, Атлетика +15, Обман +11, Запугивание +13, Природа +10, Скрытность +13.<br>\n<b>Сил</b> +4, <b>Лвк</b> +4, <b>Вын</b> +2, <b>Инт</b> +1, <b>Мдр</b> +1, <b>Хар</b> +2.<br>\n<b>Красный колпак</b> (некромантия, первобытный): шерстяная шапка красного колпака окрашена кровью\nего жертв. Если колпак лишится своей шапки, то потеряет быстрое исцеление, а также получит штраф состояния -4 к броскам урона. Он может создать новый колпак за 10 минут, но не получит его преимуществ, пока не сделает его красным с помощью Вымачивания в крови. Шапка не даёт преимуществ другим существам, кроме создавшего её красного колпака.<br>\n<b>Снаряжение:</b> железные башмаки, красный колпак, коса.\n<hr>\n<b>КБ:</b> 21; <b>Стойкость</b> +11, <b>Реакция</b> +15, <b>Воля</b> +10.<br>\n<b>ПЗ:</b> 60 (быстрое исцеление 10). <b>Уязвимость:</b> холодное железо 5, отвращение к святыням.<br>\n<span class=\"in-box-ability\"><b>Отвращение к святыням</b> (ментальный, ужас, эмоции): если красный колпак увидит демонстрируемый существом символ религии доброго божества (для демонстрации требуется совершить Взаимодействие) или если существо использует такой символ для сотворения сакрального заклинания, колпак проходит испытание Воли со СЛ 19. После этого он получает временную невосприимчивость к демонстрации символов религии на 10 минут.\n <br>\n<b>Критический успех:</b> красный колпак избегает эффекта.\n <br>\n<b>Успех:</b> красный колпак получает испуг 2.\n <br>\n<b>Провал:</b> красный колпак получает испуг 4 и в панике на 1 раунд.\n</span>\n<hr>\n<b>Скорость:</b> 50 футов.<br>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: коса +15 [+10/+5] (сбивающее, смертоносное 1d10), <b>урон:</b> 1d10+10 режущий</span>\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: башмак +13 [+9/+5] (быстрое, универсальное Д), <b>урон:</b> 1d6+8 колющий</span>\n<span class=\"in-box-ability\"><b>Вымачивание в крови</b> [one-action] (манипуляция): красный колпак обмакивает свою шапку в кровь умершего не позднее 1 минуты назад врага, которого он помог убить. Красный колпак получает бонус состояния +4 к броскам урона на 1 минуту.\n</span>\n<span class=\"in-box-ability\"><b>Смертельная бойня</b> [reaction]. <b>Условие:</b> красный колпак снижает ПЗ существа до 0 Ударом косы. <b>Эффект:</b> красный колпак совершает ещё один Удар косой по другому существу, используя тот же штраф за последовательные атаки, что и для спровоцировавшего ответное действие Удара. Это учитывается при определении штрафа за последовательные атаки.\n</span>\n<span class=\"in-box-ability\"><b>Топот</b> [one-action]: красный колпак совершает Перемещение на расстояние вплоть до половины своей скорости и в любой момент этого движения наносит Удар башмаком. Если Удар попадает по распластанному существу, он дополнительно наносит 2d6 продолжительного урона от кровотечения.\n</span>\n<h3 class=\"h3-header h3-header--legacy\">ГДЕ ВСТРЕЧАЮТСЯ КРАСНЫЕ КОЛПАКИ?</h3>\nВ отличие от многих других фей колпаки не олицетворяют собой какую-то природную местность или объект, поэтому могут встретиться где угодно. Они предпочитают места, где легко спрятаться или по крайней мере быстро юркнуть в укрытие: леса, горы, подземные туннели пещеры.\n<h3 class=\"h3-header h3-header--legacy\">СОКРОВИЩА КРАСНЫХ КОЛПАКОВ</h3>\nБашмаки и колпак для большинства других существ особой ценности не представляют, но кроме них у этих фей есть при себе коса и памятные трофеи, взятые с тел предыдущих жертв.",
+      "name": "Красный Колпак"
+    },
+    "Sarcovalt": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Sarcovalt Swarm": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Sephone Haugini": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Sister Endreah": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Sister of the Golden Erinys": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        }
+      }
+    },
+    "Skeletal Hellknight Bonesinger": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Skirmancer Mage": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Legal Lore": {
+          "name": "Знание (закон)"
+        }
+      }
+    },
+    "Spring's Crown": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Stumpfield War Chanter Choir": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        }
+      }
+    },
+    "Swiftrun Clergy": {
+      "items": {
+        "Divine Prepared Spells": {
+          "name": "Подготовленные сакральные заклинания"
+        }
+      }
+    },
+    "Umok Beastspeaker Circle": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Varlario Demicci": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Velavi": {
+      "items": {
+        "Arcane Prepared Spells": {
+          "name": "Подготовленные мистические заклинания"
+        },
+        "Claw": {
+          "name": "Когти"
+        },
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Viro Ahala": {
+      "items": {
+        "Gauntlet": {
+          "name": "Латная рукавица"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        }
+      }
+    },
+    "Warshard Wight": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Zombie Giant Bat": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    }
+  },
+  "label": "Hellbreakers Bestiary"
+}

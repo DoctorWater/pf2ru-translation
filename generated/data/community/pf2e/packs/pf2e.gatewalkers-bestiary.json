@@ -1,0 +1,529 @@
+{
+  "entries": {
+    "Ainamuuren": {
+      "items": {
+        "Horns": {
+          "name": "Рога"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Alkoasha": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        }
+      }
+    },
+    "Amelekana": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Ancient Tupilaq": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Animate Dream": {
+      "description": "<b>Источник:</b> Бестиарий 2<br>\n\n<b>Внимание:</b> +14; ночное зрение.<br>\n\n<b>Языки:</b> телепатия.<br>\n\n<b>Навыки:</b> Акробатика +14, Обман +18, Запугивание +18, Оккультизм +12, Скрытность +18.<br>\n\n<b>Сил</b> -5, <b>Лвк</b> +4, <b>Вын</b> +3, <b>Инт</b> +0, <b>Мдр</b> +2, <b>Хар</b> +6.\n<hr>\n\n<b>КБ:</b> 24; <b>Стойкость</b> +15, <b>Реакция</b> +18, <b>Воля</b> +14; +1 (состояние) ко всем испытаниям против магии.<br>\n\n<b>ПЗ:</b> 110. <b>Невосприимчивость:</b> болезнь, паралич, сон, урон за точность, яд. <b>Устойчивость:</b> любой урон 5 (кроме урона силой, негативного урона и призрачного касания; двойная устойчивость против немагического урона).\n<hr>\n\n<b>Скорость:</b> полёт 40 футов.<br>\n\n\n<span class=\"in-box-ability\"><b>В ближнем бою</b> [one-action]: жгуты кошмара +20 [+16/+12] (быстрое, фехтовальное), <b>урон:</b> 4d8 негативный и проклятие кошмара.</span>\n\n<span class=\"in-box-ability\"><b>Врождённые оккультные заклинания</b> (СЛ 26): <b>4 круг</b> — замешательство, дверь в пространстве (неограниченно), кошмар, убийственный фантазм, сон; <b>3 круг</b> — ужас.</span><br>\n\n\n<span class=\"in-box-ability\"><b>Проклятие кошмара</b> (ментальный, оккультный, очарование, проклятие, ужас, эмоции): прикосновение ожившего сна вызывает у цели жуткие видения. <b>Испытание:</b> стойкости со СЛ 26. <b>Стадия 1:</b> утомление (1 день). <b>Стадия 2:</b> утомление и ошеломление 1 (1 день). <b>Стадия 3:</b> существо засыпает и не может проснуться, пока находится на этой стадии (1 день).</span>\n\n\n<!-- <h3 class=\"h3-header h3-header--legacy\"> Enslaved Dreams</h3>Карга have been known to enslave animate dreams, forcing them to feed upon themselves. These captives break down into a fearful essence used for the hag's rituals, such as the crafting of heartstones. -->",
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      },
+      "name": "Оживший сон"
+    },
+    "Arctic Bloom": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        }
+      }
+    },
+    "Aspect of Ruun": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Blackfrost Guecubu": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Blackfrost Prophet": {
+      "items": {
+        "Horns": {
+          "name": "Рога"
+        }
+      }
+    },
+    "Blackfrost Zombie": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Bolan Nogasso": {
+      "items": {
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Captain Salah": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        },
+        "Longsword": {
+          "name": "Длинный меч"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Cliffhunter Pteranodon": {
+      "items": {
+        "Beak": {
+          "name": "Клюв"
+        }
+      }
+    },
+    "Creeping Evil": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Delphon": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Demonic Muckrager": {
+      "items": {
+        "Hoof": {
+          "name": "Копыто"
+        }
+      }
+    },
+    "Deniigi": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Hunting Lore": {
+          "name": "Знание (охота)"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Desa-Desa": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        }
+      }
+    },
+    "Dreamscraper": {
+      "items": {
+        "Claws": {
+          "name": "Когти"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Elder Thing": {
+      "items": {
+        "Astronomy Lore": {
+          "name": "Знание (астрономия)"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Elder Thing Researcher": {
+      "items": {
+        "Astronomy Lore": {
+          "name": "Знание (астрономия)"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Equendia": {
+      "items": {
+        "Astronomy Lore": {
+          "name": "Знание (астрономия)"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Etward Ritalson": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Formian Sting Trench": {
+      "items": {
+        "Stinger": {
+          "name": "Жало"
+        }
+      }
+    },
+    "Ghodrak the Quick": {
+      "items": {
+        "Hatchet": {
+          "name": "Топорик"
+        },
+        "Warfare Lore": {
+          "name": "Знание (военное дело)"
+        }
+      }
+    },
+    "Glimmervine": {
+      "items": {
+        "Vine": {
+          "name": "Лиана"
+        }
+      }
+    },
+    "Gokeki": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Green Monkey": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Ilakni": {
+      "items": {
+        "Tentacle": {
+          "name": "Щупальце"
+        }
+      }
+    },
+    "Ilverani Sentry": {
+      "items": {
+        "Shortsword": {
+          "name": "Короткий меч"
+        }
+      }
+    },
+    "Immolis": {
+      "items": {
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Innumma": {
+      "items": {
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Jarvs": {
+      "items": {
+        "Arcane Innate Spells": {
+          "name": "Врождённые мистические заклинания"
+        }
+      }
+    },
+    "Kaneepo the Slim": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        },
+        "First World Lore": {
+          "name": "Знание (Первый мир)"
+        },
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Kareq": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Kitari Lambossa": {
+      "items": {
+        "Scimitar": {
+          "name": "Скимитар"
+        }
+      }
+    },
+    "Kvernknurr": {
+      "items": {
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Jaws": {
+          "name": "Челюсти"
+        }
+      }
+    },
+    "Leiko": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Mindmoppet": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Myroga": {
+      "items": {
+        "Fangs": {
+          "name": "Клыки"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        },
+        "Tail": {
+          "name": "Хвост"
+        }
+      }
+    },
+    "Oaksteward Enforcer": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Oaksteward Enforcer (Gatehouse)": {
+      "items": {
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        },
+        "Staff": {
+          "name": "Посох"
+        }
+      }
+    },
+    "Ogmunzorius": {
+      "items": {
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Pholebis": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        },
+        "Primal Prepared Spells": {
+          "name": "Подготовленные первобытные заклинания"
+        }
+      }
+    },
+    "Quarry Construct": {
+      "items": {
+        "Warhammer": {
+          "name": "Боевой молот"
+        }
+      }
+    },
+    "Sakuachi": {
+      "items": {
+        "Astronomy Lore": {
+          "name": "Знание (астрономия)"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Sickly Eshmok": {
+      "items": {
+        "Divine Innate Spells": {
+          "name": "Врождённые сакральные заклинания"
+        }
+      }
+    },
+    "Snowy Owl": {
+      "items": {
+        "Astronomy Lore": {
+          "name": "Знание (астрономия)"
+        },
+        "Fist": {
+          "name": "Кулак"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Occult Prepared Spells": {
+          "name": "Подготовленные оккультные заклинания"
+        }
+      }
+    },
+    "Stone-Breasted Owl": {
+      "items": {
+        "Primal Innate Spells": {
+          "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Symbiotic Amoeba": {
+      "items": {
+        "Pseudopod": {
+          "name": "Ложноножка"
+        }
+      }
+    },
+    "Temagyr": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        }
+      }
+    },
+    "The Guest": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "The Looksee Man": {
+      "items": {
+        "Dagger": {
+          "name": "Кинжал"
+        },
+        "Occult Innate Spells": {
+          "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Ulikuq": {
+      "items": {
+        "Astronomy Lore": {
+          "name": "Знание (астрономия)"
+        },
+        "Fortune-Telling Lore": {
+          "name": "Знание (гадание)"
+        },
+        "Spear": {
+          "name": "Копьё"
+        }
+      }
+    },
+    "Valmar": {
+      "items": {
+        "Claw": {
+          "name": "Когти"
+        }
+      }
+    },
+    "Vhisa Resgrido": {
+      "items": {
+        "Occult Spontaneous Spells": {
+          "name": "Спонтанные оккультные заклинания"
+        },
+        "Sap": {
+          "name": "Мягкая дубинка"
+        },
+        "Shortsword": {
+          "name": "Короткий меч"
+        },
+        "Underworld Lore": {
+          "name": "Знание (преступный мир)"
+        }
+      }
+    },
+    "Yaiafineti": {
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        }
+      }
+    }
+  },
+  "label": "Gatewalkers Bestiary"
+}
