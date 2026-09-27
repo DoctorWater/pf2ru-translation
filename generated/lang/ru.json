@@ -4373,6 +4373,11 @@
       "SkinShifter": {
         "AnimalForm": "Форма Животного"
       },
+      "SovereignDragon": {
+        "InspireEnvoyArchdragon": "Архидракон-владыка",
+        "InspireEnvoyDragonAdult": "Взрослый дракон-владыка",
+        "InspireEnvoyDragonAncient": "Древний дракон-владыка"
+      },
       "SpringHeeledJack": {
         "ChangeShape": {
           "Name": "Смена Формы"
@@ -6254,8 +6259,25 @@
       "Swashbuckler": {
         "Finisher": {
           "Basic": "Обычный",
+          "Bleeding": "Кровавый",
+          "Confident": "Уверенный",
+          "ConfidentNote": "Вы наносите цели половину @Damage[((@actor.flags.system.swashbuckler.preciseStrike)d6[precision])[@item.system.damage.damageType]]{урона точного удара}. Тип урона соответствует типу урона оружия или безоружной атаки, которой вы нанесли Удар.",
+          "Dual": "Двойной",
+          "Impaling": "Пронзающий",
           "Label": "Решающий удар",
-          "TwirlingThrow": "Кручёный бросок"
+          "Lethal": "Смертоносный",
+          "Mobile": "В движении",
+          "Perfect": "Идеальный",
+          "PreciseNote": "При провале Уверенного решающего удара вы @Damage[((@actor.flags.system.swashbuckler.preciseStrike)d6[precision])[@item.system.damage.damageType]]{наносите полный урон точного удара}, а не половину.",
+          "Retreating": "С отступлением",
+          "RetreatingNote": "Вы совершаете Шаг в качестве свободного действия.",
+          "Revitalizing": "Бодрящий",
+          "Stumbling": "Отталкивающий",
+          "Stunning": "Шокирующий",
+          "Targeting": "Прицельный",
+          "TwirlingThrow": "Кручёный бросок",
+          "TwirlingThrowNote": "После атаки оружие возвращается вам в руку.",
+          "Unbalancing": "Сбивающий"
         }
       },
       "TempestForm": {
@@ -7023,6 +7045,7 @@
     "TraitDowntime": "Свободное время",
     "TraitDragon": "Дракон",
     "TraitDragonblood": "Драконокровый",
+    "TraitDragonet": "Дракончик",
     "TraitDream": "Сновидения",
     "TraitDromaar": "Дромаар",
     "TraitDrow": "Дроу",

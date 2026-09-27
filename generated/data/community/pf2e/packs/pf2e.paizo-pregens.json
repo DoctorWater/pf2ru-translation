@@ -259,6 +259,20 @@
         }
       }
     },
+    "Reaching Rings": {
+      "items": {
+        "Forest Lore": {
+          "name": "Знание (лес)"
+        }
+      }
+    },
+    "Reaching Rings (Level 4)": {
+      "items": {
+        "Forest Lore": {
+          "name": "Знание (лес)"
+        }
+      }
+    },
     "Rhin": {
       "items": {
         "Occult Spontaneous Spells": {
@@ -297,6 +311,9 @@
       "items": {
         "Arcane Spontaneous Spells": {
           "name": "Спонтанные мистические заклинания"
+        },
+        "Forest Lore": {
+          "name": "Знание (лес)"
         }
       }
     },

@@ -194,6 +194,9 @@
         "Claw": {
           "name": "Когти"
         },
+        "Dimension of Time Lore": {
+          "name": "Знание (измерение времени)"
+        },
         "Innate Occult Spells": {
           "name": "Врождённые оккультные заклинания"
         }
@@ -203,6 +206,9 @@
       "items": {
         "Claw": {
           "name": "Когти"
+        },
+        "Dimension of Time Lore": {
+          "name": "Знание (измерение времени)"
         },
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"

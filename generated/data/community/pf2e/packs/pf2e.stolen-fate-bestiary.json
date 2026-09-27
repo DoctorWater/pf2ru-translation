@@ -250,6 +250,9 @@
     },
     "Ildamir": {
       "items": {
+        "Antler": {
+          "name": "Рог"
+        },
         "Hoof": {
           "name": "Копыто"
         },
@@ -463,6 +466,9 @@
     },
     "Suvarden": {
       "items": {
+        "Antler": {
+          "name": "Рог"
+        },
         "Hoof": {
           "name": "Копыто"
         },

@@ -18,6 +18,9 @@
         "Claw": {
           "name": "Когти"
         },
+        "Dimension of Time Lore": {
+          "name": "Знание (измерение времени)"
+        },
         "Jaws": {
           "name": "Челюсти"
         },
@@ -464,6 +467,9 @@
     },
     "Reaper of Reputation": {
       "items": {
+        "Antler": {
+          "name": "Рог"
+        },
         "Fist": {
           "name": "Кулак"
         },
