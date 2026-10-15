@@ -179,6 +179,9 @@
       "items": {
         "Shortsword": {
           "name": "Короткий меч"
+        },
+        "Snake Fangs": {
+          "name": "Змеиные клыки"
         }
       }
     },
@@ -238,6 +241,16 @@
         },
         "Jaws": {
           "name": "Челюсти"
+        }
+      }
+    },
+    "Hurkum": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
+        "Ogre Hook": {
+          "name": "Огрский крюк"
         }
       }
     },
@@ -330,6 +343,9 @@
       "items": {
         "Fist": {
           "name": "Кулак"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         }
       }
     },
@@ -390,6 +406,16 @@
         }
       }
     },
+    "Ogenni": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
+        "Ogre Hook": {
+          "name": "Огрский крюк"
+        }
+      }
+    },
     "Okoa": {
       "items": {
         "Claw": {
@@ -407,6 +433,9 @@
       "items": {
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },
@@ -435,6 +464,9 @@
     },
     "Shankfingers": {
       "items": {
+        "Halberd": {
+          "name": "Алебарда"
+        },
         "Spiked Gauntlet": {
           "name": "Шипованная латная рукавица"
         }
@@ -559,6 +591,9 @@
       "items": {
         "Fist": {
           "name": "Кулак"
+        },
+        "Light Mace": {
+          "name": "Лёгкая булава"
         },
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"

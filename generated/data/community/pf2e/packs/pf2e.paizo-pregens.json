@@ -196,6 +196,9 @@
       "items": {
         "Divine Prepared Spells": {
           "name": "Подготовленные сакральные заклинания"
+        },
+        "Mercantile Lore": {
+          "name": "Знание (торговля)"
         }
       }
     },

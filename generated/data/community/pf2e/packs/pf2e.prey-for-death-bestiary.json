@@ -231,6 +231,16 @@
         },
         "Fist": {
           "name": "Кулак"
+        },
+        "Mercantile Lore": {
+          "name": "Знание (торговля)"
+        }
+      }
+    },
+    "Silver Saber": {
+      "items": {
+        "Leg": {
+          "name": "Нога"
         }
       }
     },
@@ -249,6 +259,11 @@
       }
     },
     "Temperbrand": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
+        }
+      },
       "name": "Темпербрэнд"
     },
     "The First Blade": {

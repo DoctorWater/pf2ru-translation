@@ -4,6 +4,9 @@
       "items": {
         "Arcane Innate Spells": {
           "name": "Врождённые мистические заклинания"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         }
       }
     },

@@ -3,7 +3,7 @@
     "Abandoned Zealot": {
       "items": {
         "Boneyard Lore": {
-          "name": "Знание (Костяной двор)"
+          "name": "Знание (Костяной Двор)"
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
@@ -77,6 +77,9 @@
       "items": {
         "Jaws": {
           "name": "Челюсти"
+        },
+        "Leg": {
+          "name": "Нога"
         }
       }
     },
@@ -255,6 +258,9 @@
       "items": {
         "Fist": {
           "name": "Кулак"
+        },
+        "Foot": {
+          "name": "Стопа"
         },
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"
@@ -457,9 +463,19 @@
       "items": {
         "Claw": {
           "name": "Когти"
+        },
+        "Foot": {
+          "name": "Стопа"
         }
       },
       "name": "Кенгуру"
+    },
+    "Kasa-Obake": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
+        }
+      }
     },
     "Kirin": {
       "items": {
@@ -533,6 +549,9 @@
         },
         "Primal Innate Spells": {
           "name": "Врождённые первобытные заклинания"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },
@@ -691,6 +710,9 @@
       "items": {
         "Claw": {
           "name": "Когти"
+        },
+        "Foot": {
+          "name": "Стопа"
         }
       }
     },
@@ -728,6 +750,9 @@
     },
     "Mokele-Mbembe": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         },
@@ -1020,6 +1045,9 @@
     },
     "Shulsaga": {
       "items": {
+        "Halberd": {
+          "name": "Алебарда"
+        },
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"
         }
@@ -1056,6 +1084,9 @@
         },
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },
@@ -1077,6 +1108,9 @@
         },
         "Rapier": {
           "name": "Рапира"
+        },
+        "Snake Fangs": {
+          "name": "Змеиные клыки"
         }
       }
     },

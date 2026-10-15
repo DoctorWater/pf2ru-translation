@@ -248,6 +248,9 @@
     },
     "Barbed Stegosaurus": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Tail": {
           "name": "Хвост"
         }
@@ -293,6 +296,13 @@
         },
         "Root": {
           "name": "Корень"
+        }
+      }
+    },
+    "Blood-Soaked Flytrap": {
+      "items": {
+        "Leaf": {
+          "name": "Лист"
         }
       }
     },
@@ -849,6 +859,13 @@
         }
       }
     },
+    "Experienced Irrisen Bandit": {
+      "items": {
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
+        }
+      }
+    },
     "Feral Krooth": {
       "items": {
         "Claw": {
@@ -944,6 +961,9 @@
       "items": {
         "Fist": {
           "name": "Кулак"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },
@@ -1062,6 +1082,13 @@
         },
         "Jaws": {
           "name": "Челюсти"
+        }
+      }
+    },
+    "Irrisen Bandit": {
+      "items": {
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },
@@ -1330,6 +1357,9 @@
       "items": {
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
+        },
+        "Shadow Hand": {
+          "name": "Рука тени"
         }
       }
     },
@@ -1583,6 +1613,9 @@
       "items": {
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
+        },
+        "Shadow Hand": {
+          "name": "Рука тени"
         }
       }
     },
@@ -1597,6 +1630,9 @@
       "items": {
         "Fangs": {
           "name": "Клыки"
+        },
+        "Leg": {
+          "name": "Нога"
         }
       }
     },
@@ -1661,6 +1697,9 @@
     },
     "Shredder Tyrannosaurus": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         }
@@ -1815,6 +1854,9 @@
     },
     "Trained Triceratops": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Horns": {
           "name": "Рога"
         }

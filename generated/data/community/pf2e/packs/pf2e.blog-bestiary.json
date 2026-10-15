@@ -118,6 +118,9 @@
     },
     "Hellknight Centaur": {
       "items": {
+        "Halberd": {
+          "name": "Алебарда"
+        },
         "Hoof": {
           "name": "Копыто"
         },
@@ -200,6 +203,13 @@
         }
       }
     },
+    "Squirrelwind": {
+      "items": {
+        "Gust": {
+          "name": "Порыв ветра"
+        }
+      }
+    },
     "Urok": {
       "items": {
         "Dagger": {
@@ -225,6 +235,9 @@
       "items": {
         "Shortsword": {
           "name": "Короткий меч"
+        },
+        "Snake Fangs": {
+          "name": "Змеиные клыки"
         }
       }
     },

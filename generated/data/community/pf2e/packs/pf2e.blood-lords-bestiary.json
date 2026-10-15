@@ -253,6 +253,9 @@
         },
         "Fist": {
           "name": "Кулак"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         }
       }
     },
@@ -533,6 +536,12 @@
       "items": {
         "Arcane Spontaneous Spells": {
           "name": "Спонтанные мистические заклинания"
+        },
+        "Light Mace": {
+          "name": "Лёгкая булава"
+        },
+        "Snake Fangs": {
+          "name": "Змеиные клыки"
         }
       }
     },
@@ -552,7 +561,7 @@
     "Matron Uldrula": {
       "items": {
         "Boneyard Lore": {
-          "name": "Знание (Костяной двор)"
+          "name": "Знание (Костяной Двор)"
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
@@ -785,6 +794,9 @@
       "items": {
         "Arcane Spontaneous Spells": {
           "name": "Спонтанные мистические заклинания"
+        },
+        "Light Mace": {
+          "name": "Лёгкая булава"
         }
       }
     },
@@ -838,7 +850,7 @@
     "Shabti Slayer": {
       "items": {
         "Boneyard Lore": {
-          "name": "Знание (Костяной двор)"
+          "name": "Знание (Костяной Двор)"
         },
         "Light Hammer": {
           "name": "Лёгкий молот"
@@ -851,7 +863,7 @@
     "Shabti Votary": {
       "items": {
         "Boneyard Lore": {
-          "name": "Знание (Костяной двор)"
+          "name": "Знание (Костяной Двор)"
         },
         "Dagger": {
           "name": "Кинжал"
@@ -1099,7 +1111,7 @@
     "Vanth Warrior": {
       "items": {
         "Boneyard Lore": {
-          "name": "Знание (Костяной двор)"
+          "name": "Знание (Костяной Двор)"
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
@@ -1146,6 +1158,9 @@
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },

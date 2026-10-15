@@ -648,6 +648,9 @@
       "items": {
         "Mace": {
           "name": "Булава"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },
@@ -681,6 +684,9 @@
     },
     "Lesser Skeletal Cyclops": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Claw": {
           "name": "Когти"
         }
@@ -693,6 +699,20 @@
         },
         "Jaws": {
           "name": "Челюсти"
+        }
+      }
+    },
+    "Master Sergeant Morgroar (3-4)": {
+      "items": {
+        "Halberd": {
+          "name": "Алебарда"
+        }
+      }
+    },
+    "Master Sergeant Morgroar (5-6)": {
+      "items": {
+        "Halberd": {
+          "name": "Алебарда"
         }
       }
     },
@@ -1083,6 +1103,9 @@
     },
     "Skeletal Cyclops": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Claw": {
           "name": "Когти"
         }

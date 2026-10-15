@@ -41,6 +41,9 @@
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
         },
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         }
@@ -525,6 +528,9 @@
     },
     "Iridescent Elephant": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Trunk": {
           "name": "Хобот"
         },
@@ -750,6 +756,9 @@
     },
     "Pinacosaurus": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Tail": {
           "name": "Хвост"
         }
@@ -1144,6 +1153,9 @@
     },
     "War Sauropelta": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Tail": {
           "name": "Хвост"
         }
@@ -1279,6 +1291,9 @@
         },
         "Jaws": {
           "name": "Челюсти"
+        },
+        "Light Mace": {
+          "name": "Лёгкая булава"
         }
       }
     },
@@ -1286,6 +1301,9 @@
       "items": {
         "Claw": {
           "name": "Когти"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         },
         "Jaws": {
           "name": "Челюсти"

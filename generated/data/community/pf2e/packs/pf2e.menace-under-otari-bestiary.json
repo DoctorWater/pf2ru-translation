@@ -355,6 +355,9 @@
       "items": {
         "Occult Spontaneous Spells": {
           "name": "Спонтанные оккультные заклинания"
+        },
+        "Shadow Hand": {
+          "name": "Рука тени"
         }
       }
     },
@@ -468,6 +471,13 @@
         }
       }
     },
+    "Shadow (BB)": {
+      "items": {
+        "Shadow Hand": {
+          "name": "Рука тени"
+        }
+      }
+    },
     "Shadow Bat": {
       "items": {
         "Fangs": {
@@ -485,6 +495,13 @@
         },
         "Jaws": {
           "name": "Челюсти"
+        }
+      }
+    },
+    "Shadow Priest": {
+      "items": {
+        "Shadow Hand": {
+          "name": "Рука тени"
         }
       }
     },

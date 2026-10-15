@@ -52,6 +52,13 @@
       },
       "name": "Альмираж"
     },
+    "Amateur Chemist": {
+      "items": {
+        "Light Mace": {
+          "name": "Лёгкая булава"
+        }
+      }
+    },
     "Antaro Boldblade": {
       "items": {
         "Rapier": {
@@ -90,6 +97,13 @@
         },
         "Jaws": {
           "name": "Челюсти"
+        }
+      }
+    },
+    "Barrel Launcher": {
+      "items": {
+        "Spinning Blade": {
+          "name": "Вращающееся лезвие"
         }
       }
     },
@@ -222,6 +236,13 @@
         }
       }
     },
+    "Chaos Gulgamodh": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
+        }
+      }
+    },
     "Child Of Venom": {
       "items": {
         "Pseudopod": {
@@ -246,8 +267,25 @@
         }
       }
     },
+    "Clockwork Assassin": {
+      "items": {
+        "Spinning Blade": {
+          "name": "Вращающееся лезвие"
+        }
+      }
+    },
+    "Clockwork Chopper": {
+      "items": {
+        "Spinning Blade": {
+          "name": "Вращающееся лезвие"
+        }
+      }
+    },
     "Clockwork Injector": {
       "items": {
+        "Spinning Blade": {
+          "name": "Вращающееся лезвие"
+        },
         "Syringe": {
           "name": "Шприц"
         }
@@ -906,6 +944,9 @@
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },
@@ -1047,6 +1088,9 @@
     },
     "Teraphant": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Horn": {
           "name": "Рог"
         },
@@ -1198,6 +1242,9 @@
       "items": {
         "Cleaver": {
           "name": "Мясницкий нож"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },

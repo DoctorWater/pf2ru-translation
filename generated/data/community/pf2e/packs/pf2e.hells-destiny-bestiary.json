@@ -155,6 +155,13 @@
         }
       }
     },
+    "Deadly Spinning Blade Pillar": {
+      "items": {
+        "Spinning Blade": {
+          "name": "Вращающееся лезвие"
+        }
+      }
+    },
     "Deific Vessel of Asmodeus": {
       "items": {
         "Divine Innate Spells": {
@@ -199,6 +206,13 @@
       "items": {
         "Ocean Lore": {
           "name": "Знание (океан)"
+        }
+      }
+    },
+    "Fiendish Mantis": {
+      "items": {
+        "Leg": {
+          "name": "Нога"
         }
       }
     },
@@ -253,6 +267,9 @@
         },
         "Jaws": {
           "name": "Челюсти"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         },
         "Tail": {
           "name": "Хвост"
@@ -448,6 +465,9 @@
     },
     "Oath Howler": {
       "items": {
+        "Gust": {
+          "name": "Порыв ветра"
+        },
         "Jaws": {
           "name": "Челюсти"
         }

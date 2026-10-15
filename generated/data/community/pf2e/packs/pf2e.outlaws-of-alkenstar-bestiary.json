@@ -24,6 +24,9 @@
       "items": {
         "Shortsword": {
           "name": "Короткий меч"
+        },
+        "Snake Fangs": {
+          "name": "Змеиные клыки"
         }
       }
     },
@@ -105,6 +108,13 @@
         }
       }
     },
+    "Clockwork Brewer": {
+      "items": {
+        "Leg": {
+          "name": "Нога"
+        }
+      }
+    },
     "Clockwork Buccaneer": {
       "items": {
         "Scimitar": {
@@ -123,6 +133,13 @@
       "items": {
         "Fist": {
           "name": "Кулак"
+        }
+      }
+    },
+    "Clockwork Hunter": {
+      "items": {
+        "Leg": {
+          "name": "Нога"
         }
       }
     },
@@ -247,6 +264,9 @@
     },
     "Glass Elephant": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Trunk": {
           "name": "Хобот"
         },

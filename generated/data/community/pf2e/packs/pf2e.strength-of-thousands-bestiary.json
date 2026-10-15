@@ -98,6 +98,16 @@
       "items": {
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
+        },
+        "Keen Scythe": {
+          "name": "Острая коса"
+        }
+      }
+    },
+    "Aspect of Insects": {
+      "items": {
+        "Leg": {
+          "name": "Нога"
         }
       }
     },
@@ -176,6 +186,9 @@
       "items": {
         "Fist": {
           "name": "Кулак"
+        },
+        "Foot": {
+          "name": "Стопа"
         }
       }
     },
@@ -365,6 +378,13 @@
         }
       }
     },
+    "Giant Goliath Beetle": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
+        }
+      }
+    },
     "Giant Mining Bee": {
       "items": {
         "Stinger": {
@@ -520,6 +540,13 @@
         },
         "Spear": {
           "name": "Копьё"
+        }
+      }
+    },
+    "Ironclad Annihilator Beetle": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
         }
       }
     },

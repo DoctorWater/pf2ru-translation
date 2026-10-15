@@ -115,6 +115,9 @@
       "items": {
         "Fist": {
           "name": "Кулак"
+        },
+        "Foot": {
+          "name": "Стопа"
         }
       }
     },
@@ -249,8 +252,18 @@
       },
       "name": "Баомал"
     },
+    "Beetle Carapace": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
+        }
+      }
+    },
     "Behemoth Hippopotamus": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         }
@@ -437,7 +450,7 @@
     "Catrina": {
       "items": {
         "Boneyard Lore": {
-          "name": "Знание (Костяной двор)"
+          "name": "Знание (Костяной Двор)"
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
@@ -617,6 +630,9 @@
       "items": {
         "Fist": {
           "name": "Кулак"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         }
       },
       "name": "Механический солдат"
@@ -736,6 +752,9 @@
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
         },
+        "Foot": {
+          "name": "Стопа"
+        },
         "Greatclub": {
           "name": "Двуручная дубина"
         }
@@ -758,6 +777,9 @@
       "items": {
         "Claw": {
           "name": "Когти"
+        },
+        "Foot": {
+          "name": "Стопа"
         },
         "Ocean Lore": {
           "name": "Знание (океан)"
@@ -1129,7 +1151,7 @@
     "Eseneth": {
       "items": {
         "Boneyard Lore": {
-          "name": "Знание (Костяной двор)"
+          "name": "Знание (Костяной Двор)"
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
@@ -1256,6 +1278,13 @@
         },
         "Primal Innate Spells": {
           "name": "Врождённые первобытные заклинания"
+        }
+      }
+    },
+    "Ganzi Martial Artist": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
         }
       }
     },
@@ -1624,6 +1653,9 @@
     },
     "Hippopotamus": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         }
@@ -2009,6 +2041,13 @@
         }
       }
     },
+    "Living Thunderclap": {
+      "items": {
+        "Gust": {
+          "name": "Порыв ветра"
+        }
+      }
+    },
     "Lovelorn": {
       "items": {
         "Fangs": {
@@ -2324,6 +2363,9 @@
       "items": {
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         },
         "Jaws": {
           "name": "Челюсти"
@@ -3075,6 +3117,9 @@
     },
     "Shade (Axis)": {
       "items": {
+        "Axis Lore": {
+          "name": "Знание (Стержень)"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -3083,7 +3128,7 @@
     "Shade (Boneyard)": {
       "items": {
         "Boneyard Lore": {
-          "name": "Знание (Костяной двор)"
+          "name": "Знание (Костяной Двор)"
         },
         "Claw": {
           "name": "Когти"
@@ -3163,6 +3208,13 @@
       "items": {
         "Jaws": {
           "name": "Челюсти"
+        }
+      }
+    },
+    "Shade (Plane of Air)": {
+      "items": {
+        "Gust": {
+          "name": "Порыв ветра"
         }
       }
     },
@@ -3252,7 +3304,7 @@
     "Shoki": {
       "items": {
         "Boneyard Lore": {
-          "name": "Знание (Костяной двор)"
+          "name": "Знание (Костяной Двор)"
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
@@ -3302,6 +3354,9 @@
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
+        },
+        "Foot": {
+          "name": "Стопа"
         }
       }
     },
@@ -3606,6 +3661,9 @@
     },
     "Thanadaemon": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Claw": {
           "name": "Когти"
         },
@@ -3618,6 +3676,12 @@
       "items": {
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
+        },
+        "Foot": {
+          "name": "Стопа"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         }
       }
     },
@@ -3787,6 +3851,9 @@
     },
     "Tyrannosaurus Skeleton": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         }
@@ -3858,6 +3925,9 @@
         },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
+        },
+        "Leg": {
+          "name": "Нога"
         }
       }
     },
@@ -3892,6 +3962,9 @@
     },
     "Vanara Disciple": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
         },

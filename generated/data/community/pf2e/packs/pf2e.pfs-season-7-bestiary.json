@@ -100,6 +100,9 @@
         "Jaws": {
           "name": "Челюсти"
         },
+        "Mercantile Lore": {
+          "name": "Знание (торговля)"
+        },
         "Tail": {
           "name": "Хвост"
         }
@@ -330,8 +333,25 @@
         }
       }
     },
+    "Naiad Commander": {
+      "items": {
+        "Aqueous Fist": {
+          "name": "Водяной кулак"
+        }
+      }
+    },
+    "Naiad Raider": {
+      "items": {
+        "Aqueous Fist": {
+          "name": "Водяной кулак"
+        }
+      }
+    },
     "Naiad Warrior": {
       "items": {
+        "Aqueous Fist": {
+          "name": "Водяной кулак"
+        },
         "Ocean Lore": {
           "name": "Знание (океан)"
         }
@@ -339,13 +359,26 @@
     },
     "Naiad Water Defender": {
       "items": {
+        "Aqueous Fist": {
+          "name": "Водяной кулак"
+        },
         "Underworld Lore": {
           "name": "Знание (преступный мир)"
         }
       }
     },
+    "Naiad Water Guardian": {
+      "items": {
+        "Aqueous Fist": {
+          "name": "Водяной кулак"
+        }
+      }
+    },
     "Ogre Hunter": {
       "items": {
+        "Ogre Hook": {
+          "name": "Огрский крюк"
+        },
         "Trident": {
           "name": "Трезубец"
         }
@@ -439,6 +472,9 @@
     },
     "Timonithaea": {
       "items": {
+        "Aqueous Fist": {
+          "name": "Водяной кулак"
+        },
         "Primal Innate Spells": {
           "name": "Врождённые первобытные заклинания"
         },
@@ -449,6 +485,9 @@
     },
     "Timonithaea (7-9)": {
       "items": {
+        "Aqueous Fist": {
+          "name": "Водяной кулак"
+        },
         "Primal Innate Spells": {
           "name": "Врождённые первобытные заклинания"
         },

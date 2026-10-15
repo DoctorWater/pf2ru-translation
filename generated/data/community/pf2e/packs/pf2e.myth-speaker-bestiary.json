@@ -44,6 +44,13 @@
         }
       }
     },
+    "Cyclops Seeker": {
+      "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        }
+      }
+    },
     "Deathless Pirate": {
       "items": {
         "Claw": {
@@ -65,6 +72,9 @@
       "items": {
         "Ghostly Hand": {
           "name": "Призрачная рука"
+        },
+        "Mercantile Lore": {
+          "name": "Знание (торговля)"
         }
       }
     },
@@ -103,6 +113,9 @@
       "items": {
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"
+        },
+        "Spiked Chain": {
+          "name": "Шипастая цепь"
         }
       }
     },
@@ -110,6 +123,9 @@
       "items": {
         "Shortsword": {
           "name": "Короткий меч"
+        },
+        "Snake Fangs": {
+          "name": "Змеиные клыки"
         }
       }
     },
@@ -335,6 +351,9 @@
     },
     "Pendidia": {
       "items": {
+        "Aqueous Fist": {
+          "name": "Водяной кулак"
+        },
         "Primal Innate Spells": {
           "name": "Врождённые первобытные заклинания"
         }
@@ -347,6 +366,9 @@
         },
         "Rapier": {
           "name": "Рапира"
+        },
+        "Snake Fangs": {
+          "name": "Змеиные клыки"
         }
       }
     },

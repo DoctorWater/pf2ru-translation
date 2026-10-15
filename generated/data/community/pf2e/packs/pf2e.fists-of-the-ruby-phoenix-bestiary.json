@@ -7,6 +7,13 @@
         }
       }
     },
+    "Agile Warrior (Nightmares)": {
+      "items": {
+        "Halberd": {
+          "name": "Алебарда"
+        }
+      }
+    },
     "Amihan": {
       "items": {
         "Scimitar": {
@@ -26,6 +33,9 @@
         "Engineering Lore": {
           "name": "Знание (инженерия)"
         },
+        "Foot": {
+          "name": "Стопа"
+        },
         "Innate Occult Spells": {
           "name": "Врождённые оккультные заклинания"
         }
@@ -35,6 +45,9 @@
       "items": {
         "Engineering Lore": {
           "name": "Знание (инженерия)"
+        },
+        "Foot": {
+          "name": "Стопа"
         },
         "Innate Occult Spells": {
           "name": "Врождённые оккультные заклинания"
@@ -189,6 +202,9 @@
     },
     "Golarion's Finest (Brartork)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -196,6 +212,9 @@
     },
     "Golarion's Finest (Han)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -203,6 +222,9 @@
     },
     "Golarion's Finest (Jun)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -210,6 +232,9 @@
     },
     "Golarion's Finest (Krankkiss)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -217,6 +242,9 @@
     },
     "Golarion's Finest (Mingyu)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -224,6 +252,9 @@
     },
     "Golarion's Finest (Numoriz)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -231,6 +262,9 @@
     },
     "Golarion's Finest (Paunnima)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -238,6 +272,9 @@
     },
     "Golarion's Finest (Rajna)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -339,6 +376,9 @@
     },
     "Jaiban": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         },
@@ -391,6 +431,9 @@
     },
     "Ki Adept": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -398,6 +441,9 @@
     },
     "Ki Adept (Ahmoza Twins)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -681,6 +727,9 @@
     },
     "Spirit Turtle": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         },
@@ -776,6 +825,9 @@
     },
     "Tyrannosaurus Imperator": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         }
@@ -802,6 +854,13 @@
         }
       }
     },
+    "Watchtower Shadow": {
+      "items": {
+        "Shadow Hand": {
+          "name": "Рука тени"
+        }
+      }
+    },
     "Weapon Master": {
       "items": {
         "Warfare Lore": {
@@ -823,6 +882,20 @@
       "items": {
         "Fangs": {
           "name": "Клыки"
+        }
+      }
+    },
+    "Yabin the Just (Level 13)": {
+      "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        }
+      }
+    },
+    "Yabin the Just (Level 9)": {
+      "items": {
+        "Bo Staff": {
+          "name": "Бо"
         }
       }
     },

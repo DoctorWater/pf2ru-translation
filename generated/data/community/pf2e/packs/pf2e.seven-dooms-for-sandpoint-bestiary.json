@@ -31,10 +31,20 @@
         }
       }
     },
+    "Ascended Disciple": {
+      "items": {
+        "Machete": {
+          "name": "Мачете"
+        }
+      }
+    },
     "Asmerelli": {
       "items": {
         "Divine Spontaneous Spells": {
           "name": "Спонтанные сакральные заклинания"
+        },
+        "Machete": {
+          "name": "Мачете"
         }
       }
     },
@@ -86,6 +96,9 @@
       "items": {
         "Dagger": {
           "name": "Кинжал"
+        },
+        "Machete": {
+          "name": "Мачете"
         }
       }
     },
@@ -175,6 +188,13 @@
         },
         "Jaws": {
           "name": "Челюсти"
+        }
+      }
+    },
+    "Gorlak": {
+      "items": {
+        "Ogre Hook": {
+          "name": "Огрский крюк"
         }
       }
     },

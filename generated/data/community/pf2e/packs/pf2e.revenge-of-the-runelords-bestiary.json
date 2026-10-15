@@ -118,6 +118,9 @@
       "items": {
         "Arcane Prepared Spells": {
           "name": "Подготовленные мистические заклинания"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         }
       }
     },
@@ -293,6 +296,9 @@
         "Claw": {
           "name": "Когти"
         },
+        "Halberd": {
+          "name": "Алебарда"
+        },
         "Jaws": {
           "name": "Челюсти"
         },
@@ -368,6 +374,9 @@
         "Fangs": {
           "name": "Клыки"
         },
+        "Leg": {
+          "name": "Нога"
+        },
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"
         }
@@ -414,10 +423,24 @@
         }
       }
     },
+    "Pyroclastic Mukradi": {
+      "items": {
+        "Leg": {
+          "name": "Нога"
+        }
+      }
+    },
     "Quoroc": {
       "items": {
         "Beak": {
           "name": "Клюв"
+        }
+      }
+    },
+    "Ravenous Crypt": {
+      "items": {
+        "Leg": {
+          "name": "Нога"
         }
       }
     },

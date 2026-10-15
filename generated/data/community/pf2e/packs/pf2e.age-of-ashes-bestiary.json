@@ -95,6 +95,9 @@
       "items": {
         "Dagger": {
           "name": "Кинжал"
+        },
+        "Mercantile Lore": {
+          "name": "Знание (торговля)"
         }
       }
     },
@@ -346,6 +349,9 @@
         "Mace": {
           "name": "Булава"
         },
+        "Mercantile Lore": {
+          "name": "Знание (торговля)"
+        },
         "Occult Prepared Spells": {
           "name": "Подготовленные оккультные заклинания"
         }
@@ -588,6 +594,9 @@
       "items": {
         "Fangs": {
           "name": "Клыки"
+        },
+        "Leg": {
+          "name": "Нога"
         }
       }
     },
@@ -751,6 +760,9 @@
       "items": {
         "Claw": {
           "name": "Когти"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         }
       }
     },
@@ -811,6 +823,9 @@
       "items": {
         "Jaws": {
           "name": "Челюсти"
+        },
+        "Leg": {
+          "name": "Нога"
         },
         "Tongue": {
           "name": "Язык"
@@ -886,6 +901,9 @@
         },
         "Dagger": {
           "name": "Кинжал"
+        },
+        "Mercantile Lore": {
+          "name": "Знание (торговля)"
         }
       }
     },
@@ -943,6 +961,13 @@
       "items": {
         "Scimitar": {
           "name": "Скимитар"
+        }
+      }
+    },
+    "Zuferian": {
+      "items": {
+        "Light Mace": {
+          "name": "Лёгкая булава"
         }
       }
     }

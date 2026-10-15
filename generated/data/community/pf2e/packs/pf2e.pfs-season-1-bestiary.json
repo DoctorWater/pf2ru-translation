@@ -220,6 +220,9 @@
       "items": {
         "Arcane Prepared Spells": {
           "name": "Подготовленные мистические заклинания"
+        },
+        "Light Mace": {
+          "name": "Лёгкая булава"
         }
       }
     },
@@ -436,6 +439,9 @@
       "items": {
         "Fangs": {
           "name": "Клыки"
+        },
+        "Leg": {
+          "name": "Нога"
         }
       }
     },
@@ -1499,6 +1505,9 @@
     },
     "Palace Guard (PFS 1-17)": {
       "items": {
+        "Halberd": {
+          "name": "Алебарда"
+        },
         "Sap": {
           "name": "Мягкая дубинка"
         }

@@ -845,6 +845,20 @@
         }
       }
     },
+    "Little Brother Zibini": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
+        }
+      }
+    },
+    "Little Brother Zibini (3-4)": {
+      "items": {
+        "Foot": {
+          "name": "Стопа"
+        }
+      }
+    },
     "Lively Commodore Sticky Fingers": {
       "items": {
         "Jaws": {
@@ -1563,6 +1577,9 @@
     },
     "Younger Sister Vivatu": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Divine Innate Spells": {
           "name": "Врождённые сакральные заклинания"
         },

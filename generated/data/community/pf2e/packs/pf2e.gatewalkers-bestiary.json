@@ -72,6 +72,9 @@
     },
     "Blackfrost Prophet": {
       "items": {
+        "Halberd": {
+          "name": "Алебарда"
+        },
         "Horns": {
           "name": "Рога"
         }
@@ -392,6 +395,9 @@
     },
     "Pholebis": {
       "items": {
+        "Aqueous Fist": {
+          "name": "Водяной кулак"
+        },
         "Primal Innate Spells": {
           "name": "Врождённые первобытные заклинания"
         },

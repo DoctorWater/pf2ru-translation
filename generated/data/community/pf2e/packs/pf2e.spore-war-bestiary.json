@@ -138,6 +138,13 @@
         }
       }
     },
+    "Fungal Flytrap": {
+      "items": {
+        "Leaf": {
+          "name": "Лист"
+        }
+      }
+    },
     "Fungal Marsh Giant": {
       "items": {
         "Fist": {
@@ -403,6 +410,9 @@
     },
     "Spore Tyrannosaurus": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Jaws": {
           "name": "Челюсти"
         }
@@ -472,6 +482,9 @@
         "Fangs": {
           "name": "Клыки"
         },
+        "Leg": {
+          "name": "Нога"
+        },
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"
         }
@@ -524,6 +537,9 @@
       "items": {
         "Body": {
           "name": "Тело"
+        },
+        "Foot": {
+          "name": "Стопа"
         }
       }
     },

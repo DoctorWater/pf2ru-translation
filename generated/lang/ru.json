@@ -1007,6 +1007,17 @@
         "Text": "Цель проходит испытание @Check[reflex|dc:16|name:Antler Arrow] и при провале получает критический эффект луков и пригвождается к поверхности.",
         "Title": "Рогатая стрела"
       },
+      "DaybreakAmmunition": {
+        "Title": "Рассветный боеприпас"
+      },
+      "DisruptionAmmunition": {
+        "Normal": {
+          "Title": "Прерывающий боеприпас"
+        }
+      },
+      "EscalationAmmunition": {
+        "Title": "Усугубляющий боеприпас"
+      },
       "ExplosiveAmmunition": {
         "Greater": {
           "Title": "Взрывной Боеприпас (Улучшенный)"
@@ -1032,6 +1043,14 @@
       "GlueBullet": {
         "Title": "Клеевая пуля"
       },
+      "GravebaneAmmunition": {
+        "Normal": {
+          "Title": "Могильный боеприпас"
+        }
+      },
+      "MagekillerBullet": {
+        "Title": "Пуля убийцы магов"
+      },
       "MeteorShot": {
         "Greater": {
           "Title": "Метеорный патрон (Улучшенный)"
@@ -1055,6 +1074,11 @@
         },
         "Moderate": {
           "Title": "Боеприпас из жижи (средний)"
+        }
+      },
+      "ShatterpointAmmunition": {
+        "Normal": {
+          "Title": "Разрывающий боеприпас"
         }
       },
       "ShiningAmmunition": {
@@ -1111,6 +1135,7 @@
     "ArmorPropertyRuneAssisting": "Вспомогательная",
     "ArmorPropertyRuneBitter": "Горькая",
     "ArmorPropertyRuneColdResistant": "Холодоустойчивая",
+    "ArmorPropertyRuneConvincing": "Убедительности",
     "ArmorPropertyRuneDeathless": "Бессмертная",
     "ArmorPropertyRuneElectricityResistant": "Электроустойчивая",
     "ArmorPropertyRuneEnergyAdaptive": "Энергоадаптивная",
@@ -1122,16 +1147,19 @@
     "ArmorPropertyRuneGreaterAcidResistant": "Улучшенная кислотоустойчивая",
     "ArmorPropertyRuneGreaterAdvancing": "Улучшенная наступающая",
     "ArmorPropertyRuneGreaterColdResistant": "Улучшенная холодоустойчивая",
+    "ArmorPropertyRuneGreaterConvincing": "Убедительности (Улучшенная)",
     "ArmorPropertyRuneGreaterDread": "Улучшенная ужасающая",
     "ArmorPropertyRuneGreaterElectricityResistant": "Улучшенная электроустойчивая",
     "ArmorPropertyRuneGreaterFireResistant": "Улучшенная огнеустойчивая",
     "ArmorPropertyRuneGreaterFortification": "Улучшенная защитная",
     "ArmorPropertyRuneGreaterInvisibility": "Улучшенная невидимости",
+    "ArmorPropertyRuneGreaterMoonweave": "Улучшенная руна лунного плетения",
     "ArmorPropertyRuneGreaterQuenching": "Улучшенная гашения",
     "ArmorPropertyRuneGreaterReady": "Улучшенная готовности",
     "ArmorPropertyRuneGreaterShadow": "Улучшенная теневая",
     "ArmorPropertyRuneGreaterSlick": "Улучшенная скользкая",
     "ArmorPropertyRuneGreaterStanching": "Улучшенная свёртывающая",
+    "ArmorPropertyRuneGreaterSunweave": "Улучшенное солнечное плетение",
     "ArmorPropertyRuneGreaterSwallowSpike": "Улучшенная шипастая",
     "ArmorPropertyRuneGreaterWinged": "Улучшенная крылатая",
     "ArmorPropertyRuneImmovable": "Недвижная",
@@ -1139,29 +1167,39 @@
     "ArmorPropertyRuneInvisibility": "Невидимости",
     "ArmorPropertyRuneLesserDread": "Малая ужасающая",
     "ArmorPropertyRuneMagnetizing": "Магнетическая",
+    "ArmorPropertyRuneMajorConvincing": "Убедительности (Высшая)",
+    "ArmorPropertyRuneMajorMoonweave": "Высшая руна лунного плетения",
     "ArmorPropertyRuneMajorQuenching": "Высшая гашения",
     "ArmorPropertyRuneMajorShadow": "Высшая теневая",
     "ArmorPropertyRuneMajorSlick": "Высшая скользкая",
     "ArmorPropertyRuneMajorStanching": "Высшая свёртывающая",
+    "ArmorPropertyRuneMajorSunweave": "Высшее солнечное плетение",
     "ArmorPropertyRuneMajorSwallowSpike": "Высшая шипастая",
     "ArmorPropertyRuneMalleable": "Податливая",
     "ArmorPropertyRuneMisleading": "Кажущаяся",
+    "ArmorPropertyRuneMobile": "Подвижности",
     "ArmorPropertyRuneModerateDread": "Средняя ужасающая",
+    "ArmorPropertyRuneMoonweave": "Руна лунного плетения",
     "ArmorPropertyRunePortable": "Складная",
     "ArmorPropertyRuneQuenching": "Гашения",
     "ArmorPropertyRuneRaiment": "Обманчивая",
     "ArmorPropertyRuneReady": "Готовности",
     "ArmorPropertyRuneRockBraced": "Каменностойкая",
+    "ArmorPropertyRuneSafeguarding": "Оберегающая",
+    "ArmorPropertyRuneSelfSealing": "Самозапечатывания",
     "ArmorPropertyRuneShadow": "Теневая",
+    "ArmorPropertyRuneSidestepping": "Смещения",
     "ArmorPropertyRuneSinisterKnight": "Зловещего рыцаря",
     "ArmorPropertyRuneSizeChanging": "Изменения размера",
     "ArmorPropertyRuneSlick": "Скользкая",
     "ArmorPropertyRuneSoaring": "Парящая",
     "ArmorPropertyRuneSpellwatch": "Сопротивления заклинаниям",
     "ArmorPropertyRuneStanching": "Свёртывающая",
+    "ArmorPropertyRuneSunweave": "Солнечное плетение",
     "ArmorPropertyRuneSwallowSpike": "Колючая",
     "ArmorPropertyRuneTrueQuenching": "Истинная гашения",
     "ArmorPropertyRuneTrueStanching": "Истинная свёртывающая",
+    "ArmorPropertyRuneUnnerving": "Наводящая ужас",
     "ArmorPropertyRuneWinged": "Крылатая",
     "ArmorResilientRune": "Укреплённая",
     "ArmorSpeedLabel": "Штраф к скорости",
@@ -4294,7 +4332,7 @@
       },
       "Ghost": {
         "Fetch": {
-          "Name": "Двойник"
+          "Name": "Принести"
         },
         "Phantasmagoria": {
           "Name": "Фантасмагория"
@@ -4303,17 +4341,32 @@
           "Name": "Ревенант"
         }
       },
+      "KallasDevil": {
+        "FreezingTouch": {
+          "Name": "Замораживающее касание"
+        }
+      },
       "LemureSubservience": {
         "Defend": "Защита",
-        "Fetch": "Двойник"
+        "Fetch": "Принести"
       },
       "Lich": {
         "SiphonLife": {
           "Name": "Siphon life"
         }
       },
+      "ManaWastesMutant": {
+        "EnergyResistance": {
+          "Name": "Энергетическая устойчивость"
+        }
+      },
       "Marut": {
         "Lightning": "Молния"
+      },
+      "MirageDragon": {
+        "Afterimage": {
+          "Name": "Остаточный образ"
+        }
       },
       "Nemesis": {
         "FastHealing": {
@@ -6235,6 +6288,14 @@
           }
         }
       },
+      "Spellshifter": {
+        "AnalyzeMagic": {
+          "RollOptionLabel": "Анализ магии"
+        },
+        "DismantleSpell": {
+          "RollOptionLabel": "Разобрать заклинание"
+        }
+      },
       "StarlitSentinel": {
         "Constellation": {
           "Archer": "Лучник",
@@ -6324,6 +6385,7 @@
         },
         "TalismanEsoterica": "Эзотерические талисманы"
       },
+      "TrinityGeodeLabel": "Тройная жеода",
       "Werecreature": {
         "Werebear": {
           "Label": "Медведь-Оборотень"
@@ -6379,6 +6441,9 @@
     "SpellAttackLabel": "Атака заклинанием",
     "SpellAttackWithTradition": "Атака {tradition} заклинанием",
     "SpellCastingFormat": "{traditionSpells} {preparationType} заклинания",
+    "SpellcastingItemCreator": {
+      "CantripDeck5": "Колода фокусов (5 шт.)"
+    },
     "SpellcastingSettings": {
       "AutoHeightenDefault": "По умолчанию (использовать уровень персонажа)",
       "AutoHeightenLabel": "Автоматическое повышение круга",
@@ -7055,6 +7120,7 @@
     "TraitDwarf": "Дварф",
     "TraitEachRuneAppliedToASeparateItemThatHasPockets": "Каждая руна наносится на отдельный предмет с карманами.",
     "TraitEarth": "Земля",
+    "TraitEidolon": "Эйдолон",
     "TraitElectricity": "Электричество",
     "TraitElemental": "Элементаль",
     "TraitElf": "Эльф",
@@ -7068,6 +7134,7 @@
     "TraitEtchedOntoAWeaponWOHolyRune": "Выгравировано на не священном оружии",
     "TraitEtchedOntoAWeaponWOUnholyRune": "Выгравировано на не нечестивом оружии",
     "TraitEthereal": "Эфирный",
+    "TraitEvolution": "Эволюция",
     "TraitExemplar": "Экземплар",
     "TraitExpandable": "Расширяющийся",
     "TraitExploration": "Исследование",
@@ -7140,7 +7207,7 @@
     "TraitIfrit": "Ифрит",
     "TraitIkon": "Икона",
     "TraitIllusion": "Иллюзия",
-    "TraitImpossible": "Руна невозможного",
+    "TraitImpossible": "Невероятная",
     "TraitImpulse": "Импульс",
     "TraitIncapacitation": "Устранение",
     "TraitIncarnate": "Воплощение",
@@ -7158,6 +7225,7 @@
     "TraitInventor": "Изобретатель",
     "TraitInvested": "Настроенность",
     "TraitInvestigator": "Следователь",
+    "TraitInvocation": "Воззвание",
     "TraitJotunborn": "Йотунорожденный",
     "TraitJousting": "Кавалерийское",
     "TraitKaiju": "Кайдзю",
@@ -7180,6 +7248,7 @@
     "TraitLozenge": "Леденец",
     "TraitMagic": "Магия",
     "TraitMagical": "Магический",
+    "TraitMagus": "Колдун",
     "TraitManifestation": "Воплощение магии",
     "TraitManipulate": "Манипуляция",
     "TraitMechanical": "Механический",
@@ -7280,6 +7349,7 @@
     "TraitResilient": "Укреплённая Руна",
     "TraitRevelation": "Разоблачение",
     "TraitRogue": "Плут",
+    "TraitRunesmith": "Рунотворец",
     "Traits": "Дескрипторы",
     "TraitSamsaran": "Самсаран",
     "TraitSanctified": "Освящённый",
@@ -7329,6 +7399,7 @@
     "TraitSuli": "Сули",
     "TraitSummon": "Призыв",
     "TraitSummoned": "Призванный",
+    "TraitSummoner": "Призыватель",
     "TraitSurki": "Сурки",
     "TraitSwarm": "Стая",
     "TraitSwashbuckler": "Сорвиголова",
@@ -7337,6 +7408,7 @@
     "TraitTactic": "Тактика",
     "TraitTalisman": "Талисман",
     "TraitTalos": "Талос",
+    "TraitTandem": "Связка",
     "TraitTane": "Тейн",
     "TraitTanuki": "Тануки",
     "TraitTattoo": "Татуировка",
@@ -7347,6 +7419,7 @@
     "TraitTengu": "Тэнгу",
     "TraitTethered": "Привязанное",
     "TraitThaumaturge": "Тауматург",
+    "TraitThrall": "Прислужник",
     "TraitThrown": "Метательное",
     "TraitThrown10": "Метательное 10 фт",
     "TraitThrown100": "Метательное 100 фт",
@@ -7951,7 +8024,7 @@
         "Name": "Разлагающая"
       },
       "deflecting": {
-        "Name": "Отклоняющий"
+        "Name": "Отклоняющая"
       },
       "demolishing": {
         "Name": "Разрушающая"
@@ -7964,6 +8037,9 @@
       },
       "earthbinding": {
         "Name": "Руна земных уз"
+      },
+      "energyVulnerability": {
+        "Name": "Руна энергетической уязвимости"
       },
       "extending": {
         "Name": "Удлиняющаяся"
@@ -8033,6 +8109,9 @@
         "Note": {
           "criticalSuccess": "При критическом ударе нежить также получает @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7]{слабость 1} и @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{ошеломление 1}, пока у неё продолжительный урон от этой руны."
         }
+      },
+      "greaterEnergyVulnerability": {
+        "Name": "Улучшенная руна энергетической уязвимости"
       },
       "greaterExtending": {
         "Name": "Улучшенная удлиняющаяся"
@@ -8136,7 +8215,7 @@
         }
       },
       "impossible": {
-        "Name": "Руна невозможного"
+        "Name": "Невероятная"
       },
       "keen": {
         "Name": "Острая"

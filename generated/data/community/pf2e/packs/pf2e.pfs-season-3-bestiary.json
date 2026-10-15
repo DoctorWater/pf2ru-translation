@@ -410,6 +410,9 @@
     },
     "Elite Hadrosaurid (PFS 3-99)": {
       "items": {
+        "Foot": {
+          "name": "Стопа"
+        },
         "Tail": {
           "name": "Хвост"
         }
@@ -884,6 +887,9 @@
     },
     "Monastic Bodyguard (3-4)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -891,6 +897,9 @@
     },
     "Monastic Bodyguard (5-6)": {
       "items": {
+        "Bo Staff": {
+          "name": "Бо"
+        },
         "Fist": {
           "name": "Кулак"
         }
@@ -1150,6 +1159,13 @@
         }
       }
     },
+    "Revinus's Guards (1-2)": {
+      "items": {
+        "Light Mace": {
+          "name": "Лёгкая булава"
+        }
+      }
+    },
     "Revinus's Guards (3-4)": {
       "items": {
         "Warhammer": {
@@ -1181,6 +1197,13 @@
         },
         "Claw": {
           "name": "Когти"
+        }
+      }
+    },
+    "Shadow (PFS 3-17)": {
+      "items": {
+        "Shadow Hand": {
+          "name": "Рука тени"
         }
       }
     },

@@ -64,6 +64,9 @@
       "items": {
         "Arcane Prepared Spells": {
           "name": "Подготовленные мистические заклинания"
+        },
+        "Halberd": {
+          "name": "Алебарда"
         }
       }
     },
@@ -235,6 +238,13 @@
       "items": {
         "Occult Innate Spells": {
           "name": "Врождённые оккультные заклинания"
+        }
+      }
+    },
+    "Harpy Warbird": {
+      "items": {
+        "Halberd": {
+          "name": "Алебарда"
         }
       }
     },
@@ -765,6 +775,9 @@
         },
         "Fist": {
           "name": "Кулак"
+        },
+        "Mercantile Lore": {
+          "name": "Знание (торговля)"
         }
       }
     },
