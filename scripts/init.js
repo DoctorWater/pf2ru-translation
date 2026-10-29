@@ -44,8 +44,35 @@ function convertSlug(value, translation, source) {
   }
 }
 
+/** «30 футов» -> 30; «30 футовый конус» и прочее — null, как «30-foot cone» у системы. */
+const RUSSIAN_FEET = /^(\d+)\s*фут(?:ов|а)?(?![а-яё])/i;
+
+/**
+ * Дистанция заклинания переведена, а система читает её из текста: `isMelee` сверяет
+ * `system.range.value` с "touch", `range` ищет «N feet». Обёртки понимают и русское значение;
+ * английское по-прежнему разбирает сама система.
+ */
+function patchSpellRange() {
+  const wrapper = globalThis.libWrapper;
+  if (!wrapper) {
+    console.error(`${MODULE_ID} | libWrapper не найден — дальность переведённых заклинаний не распознаётся`);
+    return;
+  }
+  const spell = "CONFIG.PF2E.Item.documentClasses.spell.prototype";
+  wrapper.register(MODULE_ID, `${spell}.isMelee`, function (wrapped) {
+    return wrapped() || String(this.system.range?.value ?? "").trim().toLowerCase() === "касание";
+  }, "WRAPPER");
+  wrapper.register(MODULE_ID, `${spell}.range`, function (wrapped) {
+    const range = wrapped();
+    if (range) return range;
+    const feet = RUSSIAN_FEET.exec(String(this.system.range?.value ?? "").trim());
+    return feet ? { increment: null, max: Number(feet[1]) } : null;
+  }, "WRAPPER");
+}
+
 Hooks.once("babele.init", () => {
   if (game.system.id !== "pf2e") return;
+  patchSpellRange();
 
   const babele = game.babele;
   if (!babele) {
@@ -66,6 +93,11 @@ Hooks.once("babele.init", () => {
       description: { path: "system.description.value", converter: "pf2ruDescription" },
       prerequisites: "system.prerequisites.value",
       slug: { path: "system", converter: "pf2ruSlug" },
+      // Поля заклинания из шапки PF2.ru (spell-header.mjs).
+      range: "system.range.value",
+      target: "system.target.value",
+      duration: "system.duration.value",
+      time: "system.time.value",
     },
     Actor: {
       name: "name",

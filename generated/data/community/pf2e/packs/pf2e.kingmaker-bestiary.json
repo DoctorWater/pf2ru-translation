@@ -4593,7 +4593,7 @@
           "name": "Кристальный скимитар"
         },
         "Deny Advantage": {
-          "description": "Разведчик Дикой охоты не считается застигнутым врасплох для спрятанных, необнаруженных или взявших его в тиски существ с уровнем не выше его или для внезапных атак существ с уровнем не выше его. Тем не менее эти существа по-прежнему могут помогать союзникам брать его в тиски.<hr><p class=\"pf2ru-automation\"><strong>Автоматизация:</strong> @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC] @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]</p>",
+          "description": "Разведчик Дикой охоты не считается застигнутым врасплох для спрятанных, необнаруженных или взявших его в тиски существ с уровнем не выше его или для @UUID[Compendium.pf2e.classfeatures.Item.w6rMqmGzhUahdnA7]{внезапных атак} существ с уровнем не выше его. Тем не менее эти существа по-прежнему могут помогать союзникам брать его в тиски.<hr><p class=\"pf2ru-automation\"><strong>Автоматизация:</strong> @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg] @UUID[Compendium.pf2e.conditionitems.Item.iU0fEDdBp3rXpTMC] @UUID[Compendium.pf2e.conditionitems.Item.VRSef5y1LmL2Hkjf]</p>",
           "name": "Маневренност"
         },
         "Focus Gaze": {
@@ -4628,7 +4628,7 @@
           "name": "Дикий взор"
         },
         "Wild Hunt Link": {
-          "description": "Разведчик Дикой охоты даёт другим членам Дикой охоты особенность манёвренность разведчика.",
+          "description": "Разведчик Дикой охоты даёт другим членам Дикой охоты особенность @UUID[Compendium.pf2e.classfeatures.Item.PNpmVmD21zViDtGC]{манёвренность} разведчика.",
           "name": "Связь Дикой охоты"
         }
       },
